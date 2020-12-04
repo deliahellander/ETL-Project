@@ -1,0 +1,466 @@
+,cuisine,restaurant_id
+0,Italian,1
+1,Bars,1
+2,Venues & Event Spaces,1
+3,American (New),2
+4,Bars,2
+5,Pizza,2
+6,Italian,3
+7,Wine Bars,3
+8,French,3
+9,Seafood,4
+10,Irish Pub,4
+11,Tapas/Small Plates,4
+12,Italian,5
+13,Puerto Rican,6
+14,Empanadas,6
+15,Italian,7
+16,Diners,7
+17,Mediterranean,8
+18,Turkish,8
+19,Kebab,8
+20,Seafood,9
+21,Gluten-Free,9
+22,Sports Bars,9
+23,Halal,10
+24,Salad,10
+25,Afghan,10
+26,Japanese,11
+27,Thai,12
+28,Seafood,13
+29,Italian,13
+30,American (Traditional),13
+31,Colombian,14
+32,Bars,14
+33,Spanish,14
+34,Seafood,15
+35,American (Traditional),15
+36,Bars,15
+37,Comfort Food,16
+38,Barbeque,16
+39,American (Traditional),16
+40,Polish,17
+41,American (New),18
+42,Bars,18
+43,Gastropubs,18
+44,Thai,19
+45,Italian,20
+46,Venues & Event Spaces,20
+47,Cocktail Bars,20
+48,Japanese,21
+49,Desserts,21
+50,Sushi Bars,21
+51,Sandwiches,22
+52,Delis,22
+53,Portuguese,23
+54,Iberian,23
+55,Spanish,23
+56,Mediterranean,24
+57,Diners,25
+58,American (New),26
+59,Bars,26
+60,Italian,27
+61,Coffee & Tea,27
+62,Pasta Shops,27
+63,Chicken Wings,28
+64,American (Traditional),28
+65,Pubs,28
+66,Caribbean,29
+67,Italian,30
+68,Thai,31
+69,Chinese,32
+70,Italian,33
+71,Wine Bars,33
+72,Cafes,33
+73,Seafood,34
+74,American (Traditional),34
+75,Sports Bars,34
+76,Chicken Shop,35
+77,Mediterranean,36
+78,Turkish,36
+79,American (New),37
+80,Tapas/Small Plates,37
+81,Cocktail Bars,37
+82,Burgers,38
+83,Hot Dogs,38
+84,Comfort Food,39
+85,American (Traditional),39
+86,Desserts,39
+87,Mediterranean,40
+88,Middle Eastern,40
+89,American (New),41
+90,Mediterranean,42
+91,Mexican,43
+92,Indian,44
+93,Breakfast & Brunch,45
+94,Coffee & Tea,45
+95,Buffets,46
+96,Spanish,47
+97,Seafood,48
+98,Bars,48
+99,American (New),48
+100,American (Traditional),49
+101,Bars,49
+102,Mexican,50
+103,Mexican,51
+104,Indian,52
+105,Italian,53
+106,Bars,53
+107,Pizza,53
+108,Thai,54
+109,Indian,55
+110,Italian,56
+111,Pizza,56
+112,Thai,57
+113,American (New),58
+114,Bars,58
+115,Asian Fusion,59
+116,Desserts,60
+117,Indian,60
+118,Mexican,61
+119,Peruvian,62
+120,Mexican,63
+121,Italian,64
+122,Pizza,64
+123,Italian,65
+124,Thai,66
+125,Chinese,66
+126,Sushi Bars,66
+127,Fast Food,67
+128,Halal,68
+129,Mediterranean,68
+130,Italian,69
+131,American (New),70
+132,Mediterranean,70
+133,Desserts,70
+134,Comfort Food,71
+135,Chicken Wings,71
+136,American (Traditional),71
+137,British,72
+138,Mexican,73
+139,Cocktail Bars,73
+140,Italian,74
+141,Diners,74
+142,Salad,75
+143,Breakfast & Brunch,75
+144,Burgers,75
+145,American (Traditional),76
+146,Pubs,76
+147,Italian,77
+148,Delis,77
+149,Bakeries,77
+150,Italian,78
+151,Indian,79
+152,Venues & Event Spaces,79
+153,Asian Fusion,80
+154,Japanese,80
+155,Sushi Bars,80
+156,Delis,81
+157,Bakeries,81
+158,Pizza,81
+159,Pizza,82
+160,Italian,83
+161,Pizza,84
+162,Peruvian,85
+163,Seafood,86
+164,Indian,86
+165,Vegetarian,86
+166,American (Traditional),87
+167,Sports Bars,87
+168,Burgers,87
+169,Mexican,88
+170,Indian,89
+171,Pizza,90
+172,Cheesesteaks,91
+173,Burgers,91
+174,Hot Dogs,91
+175,Japanese,92
+176,Sushi Bars,92
+177,Seafood,93
+178,Peruvian,93
+179,Latin American,93
+180,Sandwiches,94
+181,Vietnamese,94
+182,Bubble Tea,94
+183,Mexican,95
+184,Colombian,96
+185,Bars,96
+186,Italian,97
+187,Bagels,97
+188,Mexican,98
+189,Persian/Iranian,99
+190,Cafes,100
+191,Latin American,100
+192,Chinese,101
+193,American (New),102
+194,Caterers,102
+195,Meat Shops,103
+196,Delis,103
+197,Caterers,103
+198,Indian,104
+199,Kebab,104
+200,Tacos,105
+201,Italian,106
+202,Pizza,106
+203,Japanese,107
+204,Chinese,107
+205,Sushi Bars,107
+206,Asian Fusion,108
+207,Vietnamese,108
+208,Sandwiches,108
+209,American (Traditional),109
+210,Bars,109
+211,American (New),110
+212,Bars,110
+213,Thai,111
+214,Chinese,112
+215,Vietnamese,113
+216,Vegan,113
+217,Juice Bars & Smoothies,114
+218,Wraps,114
+219,Salad,114
+220,Asian Fusion,115
+221,Thai,115
+222,Malaysian,115
+223,Italian,116
+224,Pizza,116
+225,American (New),117
+226,Italian,117
+227,Bars,117
+228,Japanese,118
+229,Sushi Bars,118
+230,Soul Food,119
+231,Japanese,120
+232,Sushi Bars,120
+233,Italian,121
+234,Wine Bars,121
+235,Pizza,121
+236,Latin American,122
+237,American (New),123
+238,Italian,123
+239,Pizza,123
+240,Sandwiches,124
+241,Bagels,125
+242,American (Traditional),125
+243,Pizza,126
+244,Korean,127
+245,Japanese,127
+246,Sushi Bars,127
+247,Colombian,128
+248,Delis,129
+249,Meat Shops,129
+250,Cheese Shops,129
+251,Mexican,130
+252,Sandwiches,131
+253,Delis,131
+254,Breakfast & Brunch,132
+255,Diners,132
+256,Hot Dogs,133
+257,Italian,134
+258,Greek,134
+259,Pizza,134
+260,Chinese,135
+261,Sushi Bars,135
+262,German,136
+263,Bars,136
+264,Italian,137
+265,Pizza,137
+266,Sandwiches,138
+267,Barbeque,138
+268,Desserts,138
+269,Chinese,139
+270,American (New),140
+271,American (Traditional),140
+272,Beer Bar,140
+273,Delis,141
+274,American (Traditional),142
+275,Desserts,142
+276,Italian,143
+277,Barbeque,143
+278,Pizza,143
+279,Chinese,144
+280,Italian,145
+281,Wraps,145
+282,Pizza,145
+283,Seafood,146
+284,Vegetarian,146
+285,Italian,147
+286,Colombian,148
+287,Seafood,149
+288,Italian,149
+289,Pizza,149
+290,American (Traditional),150
+291,Irish Pub,150
+292,Delis,151
+293,Caterers,151
+294,Cafes,151
+295,Delis,152
+296,Colombian,153
+297,Bakeries,153
+298,Barbeque,154
+299,American (Traditional),154
+300,Steakhouses,154
+301,Japanese,155
+302,Italian,156
+303,Wine Bars,156
+304,Salvadoran,157
+305,American (Traditional),158
+306,Burgers,158
+307,Colombian,159
+308,Burgers,159
+309,Food Trucks,159
+310,Sandwiches,160
+311,Bagels,160
+312,Delis,160
+313,Colombian,161
+314,American (Traditional),162
+315,Italian,163
+316,Food Trucks,163
+317,Peruvian,164
+318,Sandwiches,165
+319,German,165
+320,Sports Bars,165
+321,Chinese,166
+322,Seafood,167
+323,American (Traditional),167
+324,American (Traditional),168
+325,Bars,168
+326,American (Traditional),169
+327,Breakfast & Brunch,169
+328,Bagels,170
+329,Delis,170
+330,Seafood,171
+331,Japanese,171
+332,Chinese,171
+333,Italian,172
+334,Pizza,172
+335,Steakhouses,173
+336,American (Traditional),174
+337,Bars,174
+338,Sandwiches,175
+339,Delis,175
+340,American (New),176
+341,Pubs,176
+342,Japanese,177
+343,Steakhouses,177
+344,Sushi Bars,177
+345,Delis,178
+346,Halal,179
+347,Mediterranean,179
+348,Afghan,179
+349,Buffets,180
+350,American (Traditional),180
+351,American (New),181
+352,Music Venues,181
+353,Pizza,182
+354,Italian,183
+355,Breakfast & Brunch,183
+356,Pizza,183
+357,American (Traditional),184
+358,Sports Bars,184
+359,Burgers,184
+360,Desserts,185
+361,Soup,185
+362,Breakfast & Brunch,185
+363,Italian,186
+364,Sandwiches,187
+365,Salad,187
+366,Breakfast & Brunch,187
+367,Chinese,188
+368,Latin American,189
+369,Latin American,190
+370,Sandwiches,191
+371,Burgers,191
+372,Pizza,191
+373,Pubs,192
+374,Mexican,192
+375,Pizza,193
+376,Fast Food,194
+377,Chicken Wings,194
+378,Sandwiches,194
+379,Barbeque,195
+380,American (Traditional),195
+381,Burgers,195
+382,American (Traditional),196
+383,Food Trucks,196
+384,Hot Dogs,196
+385,Pizza,197
+386,Sandwiches,198
+387,Soup,198
+388,Juice Bars & Smoothies,198
+389,Acai Bowls,199
+390,Juice Bars & Smoothies,199
+391,Wraps,199
+392,Latin American,438
+393,Pubs,439
+394,Steakhouses,439
+395,American (New),440
+396,Seafood,441
+397,Soup,441
+398,Chinese,441
+399,American (New),442
+400,Italian,443
+401,Italian,444
+402,American (Traditional),445
+403,Bars,445
+404,Steakhouses,446
+405,American (New),447
+406,Irish,447
+407,Bars,447
+408,American (Traditional),448
+409,Pubs,448
+410,Steakhouses,448
+411,American (New),449
+412,Burgers,449
+413,Sports Bars,449
+414,Italian,450
+415,Portuguese,450
+416,American (New),451
+417,Caribbean,451
+418,Soul Food,451
+419,Italian,452
+420,American (New),453
+421,Salad,454
+422,Chinese,454
+423,Sushi Bars,454
+424,Italian,455
+425,Pizza,455
+426,Pasta Shops,455
+427,Soup,456
+428,Mexican,456
+429,Seafood,457
+430,Wine Bars,457
+431,Steakhouses,457
+432,Italian,458
+433,Pizza,458
+434,American (New),459
+435,French,459
+436,Salad,459
+437,Sandwiches,460
+438,Burgers,460
+439,Breakfast & Brunch,460
+440,American (New),461
+441,Tapas/Small Plates,461
+442,Cocktail Bars,461
+443,American (Traditional),462
+444,Seafood,463
+445,Steakhouses,463
+446,American (New),463
+447,Delis,464
+448,Grocery,464
+449,Bakeries,464
+450,Sandwiches,465
+451,Bagels,465
+452,Italian,466
+453,American (Traditional),467
+454,Italian,468
+455,Soup,468
+456,Salad,468
+457,American (Traditional),469
+458,Jazz & Blues,469
+459,Music Venues,469
+460,Indian,470
+461,Sandwiches,471
+462,Breakfast & Brunch,471
+463,Coffee & Tea,471
+464,Chinese,472
