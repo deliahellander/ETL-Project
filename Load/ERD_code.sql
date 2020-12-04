@@ -19,7 +19,7 @@ CREATE TABLE "Restaurant_Info" (
 CREATE TABLE "Yelp_Rating" (
     "restaurant_id" int   NOT NULL,
     "yelp_url" varchar   NOT NULL,
-    "yelp_rating" int   NOT NULL,
+    "yelp_rating" varchar   NOT NULL,
     "yelp_price_level" varchar   NOT NULL,
     CONSTRAINT "pk_Yelp_Rating" PRIMARY KEY (
         "restaurant_id"
@@ -28,16 +28,13 @@ CREATE TABLE "Yelp_Rating" (
 
 CREATE TABLE "Cuisine_Type" (
     "restaurant_id" int   NOT NULL,
-    "cuisine_type" varchar   NOT NULL,
-    CONSTRAINT "pk_Cuisine_Type" PRIMARY KEY (
-        "restaurant_id"
-     )
+    "cuisine_type" varchar   NOT NULL
 );
 
 CREATE TABLE "Google_Maps_Rating" (
     "restaurant_id" int   NOT NULL,
     "google_maps_url" varchar   NOT NULL,
-    "google_maps_rating" int   NOT NULL,
+    "google_maps_rating" varchar   NOT NULL,
     "google_maps_price_level" varchar   NOT NULL,
     CONSTRAINT "pk_Google_Maps_Rating" PRIMARY KEY (
         "restaurant_id"
@@ -46,7 +43,7 @@ CREATE TABLE "Google_Maps_Rating" (
 
 CREATE TABLE "Trip_Advisor_Rating" (
     "restaurant_id" int   NOT NULL,
-    "trip_advisor_rating" int   NOT NULL,
+    "trip_advisor_rating" varchar   NOT NULL,
     "trip_advisor_price_level" varchar   NOT NULL,
     CONSTRAINT "pk_Trip_Advisor_Rating" PRIMARY KEY (
         "restaurant_id"
