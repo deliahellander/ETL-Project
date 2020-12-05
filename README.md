@@ -13,7 +13,7 @@
 * Trip Advisor: trip-advisor_data.csv 
    http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
 * Google: google-data.csv 
-    [Google Places API and Place Details API to find restaurants in Morris County]
+    [Google Places API and Place Details API to find restaurants in Morris County] (.html)
 
 ### ETL Process:
 
