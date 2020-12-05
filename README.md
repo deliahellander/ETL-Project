@@ -1,4 +1,4 @@
-# H1 ETL Project Report
+# ETL Project Report
 Group 7: Deepa, Raul, Tom, and Delia
 
 Restaurants of Morris County NJ
