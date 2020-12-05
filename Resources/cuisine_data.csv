@@ -1,459 +1,459 @@
 cuisine,restaurant_id
+Venues & Event Spaces,1
 Italian,1
 Bars,1
-Venues & Event Spaces,1
 Pizza,2
 Bars,2
 American (New),2
-Italian,3
 Wine Bars,3
+Italian,3
 French,3
-Tapas/Small Plates,4
 Seafood,4
+Tapas/Small Plates,4
 Irish Pub,4
-Italian,5
-Empanadas,6
-Puerto Rican,6
-Diners,7
-Italian,7
-Mediterranean,8
-Turkish,8
-Kebab,8
-Gluten-Free,9
-Sports Bars,9
-Seafood,9
-Halal,10
-Salad,10
-Afghan,10
-Japanese,11
-Thai,12
-Italian,13
-Seafood,13
-American (Traditional),13
+Empanadas,5
+Puerto Rican,5
+Diners,6
+Italian,6
+Kebab,7
+Mediterranean,7
+Turkish,7
+Gluten-Free,8
+Seafood,8
+Sports Bars,8
+Salad,9
+Afghan,9
+Halal,9
+Japanese,10
+Thai,11
+American (Traditional),12
+Seafood,12
+Italian,12
+Spanish,13
+Colombian,13
+Bars,13
+American (Traditional),14
+Seafood,14
 Bars,14
-Colombian,14
-Spanish,14
-Bars,15
-Seafood,15
+Barbeque,15
+Comfort Food,15
 American (Traditional),15
-American (Traditional),16
-Comfort Food,16
-Barbeque,16
-Polish,17
-Bars,18
-Gastropubs,18
-American (New),18
-Thai,19
-Cocktail Bars,20
-Italian,20
-Venues & Event Spaces,20
-Sushi Bars,21
-Japanese,21
-Desserts,21
-Sandwiches,22
-Delis,22
-Portuguese,23
-Iberian,23
-Spanish,23
-Mediterranean,24
-Diners,25
-Bars,26
-American (New),26
-Italian,27
-Coffee & Tea,27
-Pasta Shops,27
-Chicken Wings,28
-Pubs,28
-American (Traditional),28
-Caribbean,29
-Italian,30
-Thai,31
-Chinese,32
-Cafes,33
-Italian,33
-Wine Bars,33
-Sports Bars,34
-Seafood,34
-American (Traditional),34
-Chicken Shop,35
-Mediterranean,36
-Turkish,36
-Cocktail Bars,37
-Tapas/Small Plates,37
-American (New),37
-Burgers,38
-Hot Dogs,38
-American (Traditional),39
-Desserts,39
-Comfort Food,39
-Mediterranean,40
-Middle Eastern,40
-American (New),41
-Mediterranean,42
-Mexican,43
-Indian,44
-Coffee & Tea,45
-Breakfast & Brunch,45
-Buffets,46
-Spanish,47
-Bars,48
-Seafood,48
-American (New),48
+Polish,16
+Gastropubs,17
+Bars,17
+American (New),17
+Thai,18
+Venues & Event Spaces,19
+Cocktail Bars,19
+Italian,19
+Japanese,20
+Sushi Bars,20
+Desserts,20
+Sandwiches,21
+Delis,21
+Portuguese,22
+Iberian,22
+Spanish,22
+Mediterranean,23
+Diners,24
+Bars,25
+American (New),25
+Pasta Shops,26
+Coffee & Tea,26
+Italian,26
+American (Traditional),27
+Chicken Wings,27
+Pubs,27
+Caribbean,28
+Italian,29
+Thai,30
+Chinese,31
+Cafes,32
+Wine Bars,32
+Italian,32
+American (Traditional),33
+Seafood,33
+Sports Bars,33
+Chicken Shop,34
+Mediterranean,35
+Turkish,35
+Cocktail Bars,36
+Tapas/Small Plates,36
+American (New),36
+Hot Dogs,37
+Burgers,37
+Comfort Food,38
+American (Traditional),38
+Desserts,38
+Mediterranean,39
+Middle Eastern,39
+American (New),40
+Mediterranean,41
+Mexican,42
+Indian,43
+Coffee & Tea,44
+Breakfast & Brunch,44
+Buffets,45
+Spanish,46
+Seafood,47
+Bars,47
+American (New),47
+Mexican,48
 Mexican,49
-Mexican,50
-Indian,51
-Italian,52
-Pizza,52
-Bars,52
-Thai,53
-Indian,54
-Pizza,55
-Italian,55
-Thai,56
-Bars,57
-American (New),57
-Asian Fusion,58
-Indian,59
-Desserts,59
-Italian,60
-Mexican,61
-Peruvian,62
-Mexican,63
-Pizza,64
+Indian,50
+Pizza,51
+Italian,51
+Bars,51
+Thai,52
+Indian,53
+Pizza,54
+Italian,54
+Thai,55
+Bars,56
+American (New),56
+Asian Fusion,57
+Desserts,58
+Indian,58
+Italian,59
+Mexican,60
+Peruvian,61
+Mexican,62
+Pizza,63
+Italian,63
 Italian,64
-Italian,65
-Chinese,66
-Thai,66
-Sushi Bars,66
-Fast Food,67
-Halal,68
-Mediterranean,68
-Italian,69
-Mediterranean,70
-Desserts,70
-American (New),70
-Chicken Wings,71
+Chinese,65
+Thai,65
+Sushi Bars,65
+Fast Food,66
+Mediterranean,67
+Halal,67
+Italian,68
+Mediterranean,69
+Desserts,69
+American (New),69
+Comfort Food,70
+American (Traditional),70
+Chicken Wings,70
 American (Traditional),71
-Comfort Food,71
-Bars,72
-American (Traditional),72
-British,73
-Cocktail Bars,74
-Mexican,74
-Diners,75
-Italian,75
-Salad,76
-Burgers,76
-Breakfast & Brunch,76
-Pubs,77
-American (Traditional),77
-Bakeries,78
+Bars,71
+British,72
+Mexican,73
+Cocktail Bars,73
+Diners,74
+Italian,74
+Burgers,75
+Salad,75
+Breakfast & Brunch,75
+American (Traditional),76
+Pubs,76
+Delis,77
+Italian,77
+Bakeries,77
 Italian,78
-Delis,78
-Italian,79
-Indian,80
-Venues & Event Spaces,80
-Sushi Bars,81
-Asian Fusion,81
-Japanese,81
-Bakeries,82
+Venues & Event Spaces,79
+Indian,79
+Asian Fusion,80
+Japanese,80
+Sushi Bars,80
+Delis,81
+Pizza,81
+Bakeries,81
 Pizza,82
-Delis,82
-Pizza,83
-Italian,84
-Pizza,85
-Peruvian,86
-Vegetarian,87
-Indian,87
-Seafood,87
-Burgers,88
-Sports Bars,88
-American (Traditional),88
-Mexican,89
-Steakhouses,90
-Indian,91
-Pizza,92
-Coffee & Tea,93
-Mediterranean,93
-Breakfast & Brunch,93
-Cheesesteaks,94
-Burgers,94
-Hot Dogs,94
-Sushi Bars,95
-Japanese,95
-Peruvian,96
-Seafood,96
-Latin American,96
-Sandwiches,97
-Vietnamese,97
-Bubble Tea,97
-Irish,98
-Bars,98
-American (New),98
-Mexican,99
-American (Traditional),100
-Pubs,100
-Steakhouses,100
-Bars,101
-Colombian,101
-Italian,102
-Bagels,102
-Mexican,103
-Persian/Iranian,104
-Cafes,105
-Latin American,105
-Italian,106
-Portuguese,106
-Chinese,107
-Caterers,108
+Italian,83
+Pizza,84
+Peruvian,85
+Seafood,86
+Vegetarian,86
+Indian,86
+American (Traditional),87
+Burgers,87
+Sports Bars,87
+Mexican,88
+Steakhouses,89
+Indian,90
+Pizza,91
+Coffee & Tea,92
+Mediterranean,92
+Breakfast & Brunch,92
+Hot Dogs,93
+Burgers,93
+Cheesesteaks,93
+Japanese,94
+Sushi Bars,94
+Latin American,95
+Peruvian,95
+Seafood,95
+Sandwiches,96
+Bubble Tea,96
+Vietnamese,96
+Irish,97
+Bars,97
+American (New),97
+Mexican,98
+Steakhouses,99
+American (Traditional),99
+Pubs,99
+Colombian,100
+Bars,100
+Bagels,101
+Italian,101
+Mexican,102
+Persian/Iranian,103
+Latin American,104
+Cafes,104
+Portuguese,105
+Italian,105
+Chinese,106
+Caterers,107
+American (New),107
+Caribbean,108
+Soul Food,108
 American (New),108
-Soul Food,109
-Caribbean,109
-American (New),109
-Indian,110
-Kebab,110
-Tacos,111
-Pizza,112
-Italian,112
-Chinese,113
-Japanese,113
-Sushi Bars,113
-Asian Fusion,114
-Sandwiches,114
-Vietnamese,114
+Kebab,109
+Indian,109
+Tacos,110
+Pizza,111
+Italian,111
+Chinese,112
+Japanese,112
+Sushi Bars,112
+Sandwiches,113
+Asian Fusion,113
+Vietnamese,113
+American (Traditional),114
+Bars,114
 Bars,115
-American (Traditional),115
-Bars,116
-American (New),116
-Chinese,117
-Vegan,118
-Vietnamese,118
-Salad,119
-Juice Bars & Smoothies,119
-Wraps,119
-Asian Fusion,120
-Thai,120
-Malaysian,120
-Pizza,121
+American (New),115
+Chinese,116
+Vegan,117
+Vietnamese,117
+Wraps,118
+Salad,118
+Juice Bars & Smoothies,118
+Malaysian,119
+Asian Fusion,119
+Thai,119
+Pizza,120
+Italian,120
 Italian,121
-Italian,122
-Bars,122
-American (New),122
-Sushi Bars,123
-Japanese,123
-Soul Food,124
-Caterers,125
-Restaurants,125
-Steakhouses,126
-Sushi Bars,127
-Japanese,127
-American (New),128
-Pizza,129
-Italian,129
-Wine Bars,129
-Latin American,130
-Pizza,131
-Italian,131
-American (New),131
-Sandwiches,132
-Bagels,133
-American (Traditional),133
-Pizza,134
-Sushi Bars,135
-Japanese,135
-Korean,135
-Colombian,136
-Meat Shops,137
-Cheese Shops,137
-Delis,137
-Mexican,138
-Sandwiches,139
-Delis,139
-Diners,140
-Breakfast & Brunch,140
-Hot Dogs,141
-Greek,142
-Pizza,142
-Italian,142
-Chinese,143
-Sushi Bars,143
-Bars,144
-German,144
-Pizza,145
-Italian,145
-Sandwiches,146
-Desserts,146
-Barbeque,146
-Chinese,147
-Beer Bar,148
-American (Traditional),148
-American (New),148
-Italian,149
-Pizza,149
-Pasta Shops,149
-Delis,150
-Desserts,151
-American (Traditional),151
-Pizza,152
-Italian,152
-Barbeque,152
-Chinese,153
-Wine Bars,154
-Seafood,154
-Steakhouses,154
-Pizza,155
-Italian,155
-Wraps,155
-Vegetarian,156
-Seafood,156
+Bars,121
+American (New),121
+Japanese,122
+Sushi Bars,122
+Soul Food,123
+Caterers,124
+Restaurants,124
+Steakhouses,125
+Japanese,126
+Sushi Bars,126
+American (New),127
+Wine Bars,128
+Pizza,128
+Italian,128
+Latin American,129
+Pizza,130
+Italian,130
+American (New),130
+Sandwiches,131
+Bagels,132
+American (Traditional),132
+Pizza,133
+Sushi Bars,134
+Japanese,134
+Korean,134
+Colombian,135
+Delis,136
+Cheese Shops,136
+Meat Shops,136
+Mexican,137
+Sandwiches,138
+Delis,138
+Diners,139
+Breakfast & Brunch,139
+Hot Dogs,140
+Pizza,141
+Italian,141
+Greek,141
+Chinese,142
+Sushi Bars,142
+German,143
+Bars,143
+Pizza,144
+Italian,144
+Sandwiches,145
+Barbeque,145
+Desserts,145
+Chinese,146
+American (Traditional),147
+Beer Bar,147
+American (New),147
+Pasta Shops,148
+Pizza,148
+Italian,148
+Delis,149
+American (Traditional),150
+Desserts,150
+Barbeque,151
+Pizza,151
+Italian,151
+Chinese,152
+Steakhouses,153
+Seafood,153
+Wine Bars,153
+Wraps,154
+Pizza,154
+Italian,154
+Seafood,155
+Vegetarian,155
+Italian,156
+Pizza,157
 Italian,157
-Pizza,158
-Italian,158
-Colombian,159
-Pizza,160
-Italian,160
-Seafood,160
-Cafes,161
-Caterers,161
+Colombian,158
+Seafood,159
+Pizza,159
+Italian,159
+Caterers,160
+Delis,160
+Cafes,160
 Delis,161
-Delis,162
-Bakeries,163
-Colombian,163
-American (Traditional),164
-Steakhouses,164
-Barbeque,164
-Japanese,165
-Burgers,166
-Sandwiches,166
-Breakfast & Brunch,166
-Italian,167
-Wine Bars,167
-Salvadoran,168
+Colombian,162
+Bakeries,162
+Steakhouses,163
+American (Traditional),163
+Barbeque,163
+Japanese,164
+Sandwiches,165
+Burgers,165
+Breakfast & Brunch,165
+Wine Bars,166
+Italian,166
+Salvadoran,167
+American (Traditional),168
+Burgers,168
 Burgers,169
-American (Traditional),169
-Burgers,170
-Food Trucks,170
-Colombian,170
-Sandwiches,171
-Delis,171
-Bagels,171
-Colombian,172
-American (Traditional),173
-Italian,174
-Food Trucks,174
-Peruvian,175
-Sandwiches,176
-Sports Bars,176
-German,176
-Chinese,177
-American (New),178
+Colombian,169
+Food Trucks,169
+Sandwiches,170
+Bagels,170
+Delis,170
+Colombian,171
+American (Traditional),172
+Italian,173
+Food Trucks,173
+Peruvian,174
+Sandwiches,175
+German,175
+Sports Bars,175
+Chinese,176
+Steakhouses,177
+Seafood,177
+American (New),177
+American (Traditional),178
 Seafood,178
-Steakhouses,178
-Seafood,179
 American (Traditional),179
-Bars,180
+Bars,179
 American (Traditional),180
-American (Traditional),181
-Breakfast & Brunch,181
-Sandwiches,182
+Breakfast & Brunch,180
+Sandwiches,181
+Bagels,181
 Bagels,182
-Bagels,183
-Delis,183
-Chinese,184
-Japanese,184
-Seafood,184
-Pizza,185
-Italian,185
-Steakhouses,186
-Bars,187
-American (Traditional),187
-Sandwiches,188
-Delis,188
-Pubs,189
-American (New),189
-Sushi Bars,190
-Japanese,190
-Steakhouses,190
-Halal,191
-Mediterranean,191
-Afghan,191
-Buffets,192
-American (Traditional),192
-Music Venues,193
-American (New),193
+Delis,182
+Chinese,183
+Seafood,183
+Japanese,183
+Pizza,184
+Italian,184
+Steakhouses,185
+American (Traditional),186
+Bars,186
+Sandwiches,187
+Delis,187
+Pubs,188
+American (New),188
+Steakhouses,189
+Japanese,189
+Sushi Bars,189
+Mediterranean,190
+Afghan,190
+Halal,190
+American (Traditional),191
+Buffets,191
+Music Venues,192
+American (New),192
+Pizza,193
 Pizza,194
-Pizza,195
-Italian,195
-Breakfast & Brunch,195
-Burgers,196
-Sports Bars,196
-American (Traditional),196
-Desserts,197
-Soup,197
-Breakfast & Brunch,197
-Italian,198
-Indian,199
-Salad,200
-Sandwiches,200
-Breakfast & Brunch,200
-Chinese,201
+Italian,194
+Breakfast & Brunch,194
+American (Traditional),195
+Burgers,195
+Sports Bars,195
+Soup,196
+Breakfast & Brunch,196
+Desserts,196
+Italian,197
+Indian,198
+Sandwiches,199
+Salad,199
+Breakfast & Brunch,199
+Chinese,200
+Latin American,201
 Latin American,202
-Latin American,203
-Burgers,204
-Sandwiches,204
-Pizza,204
-Pubs,205
-Mexican,205
-Pizza,206
-Fast Food,207
-Chicken Wings,207
-Sandwiches,207
-Burgers,208
+Sandwiches,203
+Burgers,203
+Pizza,203
+Mexican,204
+Pubs,204
+Pizza,205
+Sandwiches,206
+Fast Food,206
+Chicken Wings,206
+Barbeque,207
+American (Traditional),207
+Burgers,207
+Hot Dogs,208
 American (Traditional),208
-Barbeque,208
-Food Trucks,209
-Hot Dogs,209
-American (Traditional),209
-Pizza,210
-Sandwiches,211
-Soup,211
+Food Trucks,208
+Pizza,209
+Sandwiches,210
+Soup,210
+Juice Bars & Smoothies,210
+Acai Bowls,211
+Wraps,211
 Juice Bars & Smoothies,211
-Juice Bars & Smoothies,212
-Acai Bowls,212
-Wraps,212
-Chinese,213
-Latin American,448
-Pubs,449
-Steakhouses,449
-American (New),450
-Chinese,451
-Soup,451
-Seafood,451
-Italian,452
-Burgers,453
-Sports Bars,453
-American (New),453
-Italian,454
-Chinese,455
-Sushi Bars,455
-Salad,455
-Soup,456
-Mexican,456
-Salad,457
-French,457
+Chinese,212
+Latin American,447
+Steakhouses,448
+Pubs,448
+American (New),449
+Chinese,450
+Seafood,450
+Soup,450
+Italian,451
+Burgers,452
+Sports Bars,452
+American (New),452
+Italian,453
+Chinese,454
+Salad,454
+Sushi Bars,454
+Mexican,455
+Soup,455
+Salad,456
+French,456
+American (New),456
+Cocktail Bars,457
+Tapas/Small Plates,457
 American (New),457
-Cocktail Bars,458
-Tapas/Small Plates,458
-American (New),458
-American (Traditional),459
-Bakeries,460
-Grocery,460
-Delis,460
-American (Traditional),461
-Salad,462
-Italian,462
-Soup,462
-Indian,463
-Coffee & Tea,464
-Sandwiches,464
-Breakfast & Brunch,464
+American (Traditional),458
+Grocery,459
+Delis,459
+Bakeries,459
+American (Traditional),460
+Salad,461
+Italian,461
+Soup,461
+Indian,462
+Sandwiches,463
+Coffee & Tea,463
+Breakfast & Brunch,463
+Italian,468
