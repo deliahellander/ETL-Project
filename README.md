@@ -17,23 +17,23 @@ Our database contains information and ratings on restaurants in Morris County, N
 ### ETL Process:
 
 #### Extract:
-    Scrape yelp website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
-    First retrieved restaurant name, yelp url for restaurant, restaurant rating, price-level and cuisine from yelp.
-    Using the yelp_url for each restaurant, retrieved the restaurant address and restaurant’s website
-    Saved yelp dataframe to a csv file
-    Used Google Places API and Place Details API to find restaurants within 6 different long and lat locations in Morris County.
-    Using Google Places API, retrieved restaurant name, place_id, price-level and restaurant rating
-    Using Google Place Details API, retrieved restaurant address, restaurant website and google maps url
-    Saved google dataframe to a csv file
-    Notes: 
-    Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this, we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360 restaurants.
-    The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data.
+    * Scrape yelp website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
+    * First retrieved restaurant name, yelp url for restaurant, restaurant rating, price-level and cuisine from yelp.
+    * Using the yelp_url for each restaurant, retrieved the restaurant address and restaurant’s website
+    * Saved yelp dataframe to a csv file
+    * Used Google Places API and Place Details API to find restaurants within 6 different long and lat locations in Morris County.
+    * Using Google Places API, retrieved restaurant name, place_id, price-level and restaurant rating
+    * Using Google Place Details API, retrieved restaurant address, restaurant website and google maps url
+    * Saved google dataframe to a csv file
+      * Notes: 
+      * Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this,          we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360                     restaurants.
+      * The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as               restaurants. These cannot be found in the Yelp data.
 
 #### Transform:
-    Extract raw data files (in csv, json, html. Etc. format)  into DataFrames
-    Clean DataFrame: 
-    Remove any restaurants outside of Morris County; 
-    Dropping duplicate restaurant_name and address values; 
+    * Extract raw data files (in csv, json, html. Etc. format)  into DataFrames
+    * Clean DataFrame: 
+      * Remove any restaurants outside of Morris County; 
+      * Dropping duplicate restaurant_name and address values; 
     filling in empty cells; 
     Split yelp’s price_cuisine column into price_level and cuisine column...etc.
     Split address into address1, city, state and zip code
