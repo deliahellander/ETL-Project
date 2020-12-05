@@ -41,4 +41,10 @@
         INNER JOIN "Cuisine_Type" ON "Cuisine_Type".restaurant_id = "Google_Maps_Rating".restaurant_id
 	WHERE "Cuisine_Type".cuisine_type IN ('Italian');
 
+        -- Query all Pizzeria restaurants in Morris County
+	SELECT "Restaurant_Info".restaurant_id, "Restaurant_Info".restaurant_name,"Restaurant_Info".restaurant_website,"Cuisine_Type".cuisine_type
+	FROM "Restaurant_Info"
+        INNER JOIN "Cuisine_Type" ON "Cuisine_Type".restaurant_id = "Restaurant_Info".restaurant_id
+	WHERE "Cuisine_Type".cuisine_type IN ('Pizza');
+
 
