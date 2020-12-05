@@ -52,7 +52,10 @@
    #### Load:
    * 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
         * All linked by restaurant_id
+        * Used QuickDBD to formulate the ERD below, exported the corresponding code and ran it in PgAdmin to formulate tables.
+        * Imported the csv files from the "Transformation" folder into database tables.
         * Format tables to allow null cells for urls, rating, and price level.
+        * Create Queries between tables, code in "Load" folder > "Query Example" folder titled "Query_code.sql"
         ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
 
 
@@ -60,7 +63,7 @@
    * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
    * Look into yelp rating and cuisine sorted by best rating
    ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/Query_Examples/Yelp_Rating_sorted_Desc_by_rating.png?raw=true)
-   * See other Query examples in "Load" Folder > "Query_Examples" Folder.
+   * See other Query examples in "Load" folder > "Query_Examples" folder.
 
 
 
