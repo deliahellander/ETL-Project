@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ,restaurant_name,price_level,restaurant_rating,cuisine,trip_advisor_url,address
 0,1. Gourmet Cafe Restaurant,$$ - $$$,4.5,Italian,https://www.tripadvisor.com/Restaurant_Review-g46715-d1523051-Reviews-Gourmet_Cafe_Restaurant-Parsippany_Morris_County_New_Jersey.html,"136 Baldwin Rd On the Corner of Rt 46 W, Walgreens/Baldwin Plaza, Parsippany, NJ 07054-2099"
 1,2. Sergio and Co Italian Specialties,$$ - $$$,5.0,Italian,https://www.tripadvisor.com/Restaurant_Review-g46392-d4478498-Reviews-Sergio_and_Co_Italian_Specialties-Denville_Morris_County_New_Jersey.html,"28 Broadway, Denville, NJ 07834-2704"
@@ -1209,11 +1208,3 @@
 1206,28. South+Pine American Eatery,$$ - $$$,4.0,American,https://www.tripadvisor.com/Restaurant_Review-g60906-d8336430-Reviews-South_Pine_American_Eatery-Morristown_Morris_County_New_Jersey.html,"90 South St, Morristown, NJ 07960-9349"
 1207,29. Thai Nam Phet,$$ - $$$,4.5,"Asian, Thai",https://www.tripadvisor.com/Restaurant_Review-g46783-d1049505-Reviews-Thai_Nam_Phet-Rockaway_Morris_County_New_Jersey.html,"296 US Highway 46, Rockaway, NJ 07866-3852"
 1208,30. Thatcher McGhee's,$$ - $$$,4.0,"Irish, Bar",https://www.tripadvisor.com/Restaurant_Review-g46392-d2537956-Reviews-Thatcher_McGhee_s-Denville_Morris_County_New_Jersey.html,"53 Broadway, Denville, NJ 07834-2705"
-=======
-restaurant_name,tripadvisor_url,restaurant_rating,price_level,cuisine,address,restaurant_website
-Gourmet Cafe Restaurant,https://www.tripadvisor.com/Restaurant_Review-g46715-d1523051-Reviews-Gourmet_Cafe_Restaurant-Parsippany_Morris_County_New_Jersey.html,4.5,$$ - $$$,"Italian,Vegetarian Friendly,Vegan Options","136 Baldwin Rd On the Corner of Rt 46 W, Walgreens/Baldwin Plaza, Parsippany, NJ 07054-2099",http://gourmetcafenj.com
-Sergio and Co Italian Specialties,https://www.tripadvisor.com/Restaurant_Review-g46392-d4478498-Reviews-Sergio_and_Co_Italian_Specialties-Denville_Morris_County_New_Jersey.html,5,$$ - $$$,"Italian,Vegetarian Friendly,Vegan Options","28 Broadway, Denville, NJ 07834-2704",http://www.sergioandco.com
-The Quiet Man,https://www.tripadvisor.com/Restaurant_Review-g46397-d543493-Reviews-The_Quiet_Man-Dover_Morris_County_New_Jersey.html,4.5,$$ - $$$,"American, Irish","64 E McFarlan St, Dover, NJ 07801-3522",http://www.quietmanpub.com
-SubUrban Bar & Kitchen,https://www.tripadvisor.com/Restaurant_Review-g46764-d20099630-Reviews-SubUrban_Bar_Kitchen-Randolph_Morris_County_New_Jersey.html,4.5,$$ - $$$,,"500 Route 10 West, Randolph, NJ 07869-2148",https://www.sbknj.com/
-Verona Restaurant,https://www.tripadvisor.com/Restaurant_Review-g46764-d4563543-Reviews-Verona_Restaurant-Randolph_Morris_County_New_Jersey.html,4.5,$$ - $$$,"Italian,Vegetarian Friendly,Vegan Options","1171 Sussex Tpke, Randolph, NJ 07869-4225",http://www.veronarestaurant.com
->>>>>>> 132f21f1f7dd9e64ebf469f81d9f501f787c4af3
