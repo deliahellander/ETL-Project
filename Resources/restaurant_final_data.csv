@@ -1,0 +1,469 @@
+restaurant_id,restaurant_name,restaurant_website,address1,city,state,zip code
+1,Rosie’s Trattoria,,1181 Sussex Tpke,Randolph,NJ,07869
+2,SubUrban Bar & Kitchen,sbknj.com,500 NJ-10,Randolph,NJ,07869
+3,4 Seasons Mediterranean Restaurant,4seasonswharton.com,322 S Main St,Wharton,NJ,07885
+4,Quiet Man Pub,quietmanpub.com,64 E Mcfarlan St,Dover,NJ,07801
+5,El Lechon De Negron,,23 E Main St,Denville,NJ,07834
+6,The Corner Bistro,thecornerbistronj.com,477 NJ-10,Randolph,NJ,07869
+7,ALEV Mediterranean Grill,alevmediterraneangrill.com,76 Rte 46,Rockaway,NJ,07866
+8,Mr Crabby’s Craft Kitchen & Bar,mrcrabbys.com,399 NJ-10,Randolph,NJ,07869
+9,Kabab Paradise,kababparadise.com,124 Rte 10 W,Randolph,NJ,07869
+10,Takashi Japanese Cuisine,,23 Washington St,Morristown,NJ,07960
+11,Up Thai,,981 Tabor Rd,Morris Plains,NJ,07950
+12,The Windlass,thewindlass.com,45 Nolans Point Park Rd,Lake Hopatcong,NJ,07849
+13,Noches de Colombia,nochesdecolombiarandolph.com,140 Route 10 W,Randolph,NJ,07869
+14,Black River Barn,blackriverbarn.com/index1.html,1178 Rte 10 W,Randolph,NJ,07869
+15,American Heroes Smokehouse,americanheroesbbq.com,1594 Route 10,Randolph,NJ,07869
+16,Pierogies House,pierogieshouse.com,145 Morris St,Morristown,NJ,07960
+17,Taphouse 15,taphouse15.com,75 State Rte 15 S,Jefferson,NJ,07885
+18,Thai Nam Phet,thainamphet.com,296 US Hwy 46,Rockaway,NJ,07866
+19,La Strada Ristorante,,1105 State Route 10 E,Randolph,NJ,07869
+20,Ichiban,,1034 Rt 46 E,Ledgewood,NJ,07852
+21,Zuzannas Gourmet,zuzannasgourmet.com,1152 State Rt 10,Randolph,NJ,07869
+22,Spain Rincon,,41 Richard Mine Rd,Wharton,NJ,07885
+23,Barka,barkaseafoodrestaurant.com,60 Route 46,Mountain Lakes,NJ,07046
+24,Randolph Diner,therandolphdiner.com,517 State Rte 10,Randolph,NJ,07869
+25,Stirling Tavern,stirlingtavern.com,150 South St,Morristown,NJ,07960
+26,The Pasta Shop,thepastashopdenville.com,13 First Ave,Denville,NJ,07834
+27,Knotty Pine Pub,knottypinepub.com,242 E Union Tpke,Wharton,NJ,07885
+28,JA Spice Island Jerk and American Food,Www.jaspice.com,67 Main St,Netcong,NJ,07857
+29,Bruno’s Italian Bistro,brunositalianbistronj.com,2900 NJ-10,Morris Plains,NJ,07950
+30,Lotus Thai Cuisine,thelotusthai.com,540 State Hwy 10 W,Randolph,NJ,07869
+31,New Horizon Chinese Restaurant,,124 State Route 10,Randolph,NJ,07869
+32,Caffe Navona,caffenavona.com,147 Us Hwy 46,Rockaway,NJ,07866
+33,Miller’s Ale House - Rockaway,millersalehouse.com,325 Mt Pleasant Ave,Rockaway,NJ,07866
+34,Cheek’s Chicken,cheeksnj.com,286 Rt 46 E,Rockaway,NJ,07866
+35,Istanbul Turkish Mediterranean Cuisine,istanbulcuisinenj.com,286 US 206,Flanders,NJ,07836
+36,Cinders Wood Fire Grill,cinderswoodfiregrill.com,319 US 46,Mine Hill Township,NJ,07803
+37,Rocco’s Burgers Dogs and Fries,roccos-burgers-dogs-and-fries.…,405 US-46,Roxbury Township,NJ,07847
+38,Pren Kitchen,prenkitchen.com,52 Main StSte 1,Chester,NJ,07930
+39,Carmel Haifa,carmelhaifa.com,682 Speedwell Ave,Morris Plains,NJ,07950
+40,South + Pine American Eatery,southandpine.com,90 South St,Morristown,NJ,07960
+41,Fig & Lily Garden,figandlilygarden.com,2 Cattano Ave,Morristown,NJ,07960
+42,Taqueria Pancho Villa,,7 N Essex St,Dover,NJ,07801
+43,Cinnamon,cinnamonindianrestaurant.com,2920 State Route 10,Morris Plains,NJ,07950
+44,Beanbury,beanburycoffee.com,37 Route 10 E,Succasunna,NJ,07876
+45,Bucky’s,,Picatinny ArsenalBldg 337,Rockaway Township,NJ,07806
+46,Jai-Alai,jaialairestaurant.com,73 W Blackwell St,Dover,NJ,07801
+47,H2Ocean Restaurant & Raw Bar,h2oceanrestaurant.com,41 Ridgedale Ave,Cedar Knolls,NJ,07927
+48,Riviera Maya,rivieramayanj.com,116 Rt 46 E,Rockaway,NJ,07866
+49,La Bamba Grill,bambagrill.com,150 E McFarlan St,Dover,NJ,07801
+50,Bollywood Grill 2,bollywoodgrill.net,1729 NJ-10 E,Morris Plains,NJ,07950
+51,Table 42,table42dover.com,42 N Sussex St,Dover,NJ,07801
+52,Thai Kitchen,thaikitchenchester.com,320 US Hwy 206 S,Chester,NJ,07930
+53,The Clay Oven Indian Restaurant,theclayoven.com,1140 Rt 46,Ledgewood,NJ,07852
+54,Sapori D’Italia,,7 West Main St.,Mendham,NJ,07945
+55,Madame Thai Cuisine,madamethainj.com,3 Pine St,Morristown,NJ,07960
+56,NJ Bar & Grill,njbarandgrill.com,100 Randolph Ave,Mine Hill,NJ,07803
+57,Asian Diner,asiandinerrestaurantnj.com,1691 Rt 46,Roxbury Township,NJ,07852
+58,Indian Aroma,indianaromarestaurant.com,222 Route 46Walgreens Shopping Ctr,Rockaway,NJ,07866
+59,Charlotte’s Web Inn,charlotteswebinn.com,39 W Clinton St,Dover,NJ,07801
+60,Azteca Mexican Restaurant,,17 E Blackwell St,Dover,NJ,07801
+61,Las Tres Marias,,88 N Sussex St,Dover,NJ,07801
+62,Don Jose Mexican Restaurant,donjosemexican.com,124 US 46 E,Netcong,NJ,07857
+63,Forte Pizzeria & Ristorante,fortepizzeria.com,486 Rt 10,Randolph,NJ,07869
+64,Sergio & Co Italian Specialties,sergioandco.com,28 Broadway,Denville,NJ,07834
+65,Blossom Asian Bistro,blossomasianbistronj.com,181 Howard BlvdSte G,Mount Arlington,NJ,07856
+66,Chick-fil-A,chick-fil-a.com,1711 Nj-10,Morris Plains,NJ,07950
+67,Hummus Grill,,301 Mt Hope Ave,Wharton,NJ,07885
+68,Casa De Pasta,casadepastanj.com,1438 Sussex Tpke,Randolph,NJ,07869
+69,Bistro 46,bistro46morristown.com,12 Elm St,Morristown,NJ,07960
+70,Pop’s Chicken,popschickentogo.com,392 N Main St,Wharton,NJ,07885
+71,Redwood’s Grill & Bar,redwoodsgrillandbar.com,459 Main St,Chester,NJ,07930
+72,Rocky’s Pasties,rockyspasties.com,47 Robert StRocky's Food Store,Wharton,NJ,07885
+73,Tequilas 55,tequilas55.com,55 E Blakwell St,Dover,NJ,07801
+74,Café Fiori,cafefiorinj.com,477 Rt 10 E,Randolph,NJ,07869
+75,The Committed Pig,thecommittedpig.com,28 W Park Pl,Morristown,NJ,07960
+76,The Black Horse Tavern & Pub,blackhorsenj.com,1 W Main St,Mendham,NJ,07945
+77,Anthony & Sons Little Italy,anthonyandsonsbakery.com,15 Rte 10 E,Succasunna,NJ,07876
+78,Casa Bella,casabella46.com,300 US Hwy 46,Denville,NJ,07834
+79,Ashirwad Palace,ashirwadpalace.com,169 S Salem St,Randolph,NJ,07869
+80,Mizuki Asian Fusion and Hibachi,asianmizukinj.com,1033 Rt 46,Ledgewood,NJ,07852
+81,Giancarlos Bakery & Pastry Shop,giancarlosbakery.com,410 Rte 10Ste 10,Ledgewood,NJ,07852
+82,Mondo Pizza Restaurant and Catering,mondopizzanj.com,540 Route 10 W,Randolph,NJ,07869
+83,Grato,gratorestaurant.com,2230 Rt 10 W,Morris Plains,NJ,07950
+84,Pizza Palace,,1169 Sussex Tpke,Randolph,NJ,07869
+85,El Marino,,130 Mount Hope Ave,Dover,NJ,07801
+86,Mostly Grill Indian fusion cuisine,Mostlygrill.com,286 Rte 46 E,Rockaway,NJ,07866
+87,Polo’s Bar & Grill,polosbarandgrill.com,50 State Rt 183,Netcong,NJ,07857
+88,Delicias Latinas,deliciaslatinasmp.com,643 Speedwell Ave,Morris Plains,NJ,07950
+89,Sammy’s Ye Old Cider Mill,sammyscidermill.com,353 Mendham Rd W,Mendham,NJ,07945
+90,Taste of India,tasteofindianj.com,286 Route 206 S,Flanders,NJ,07836
+91,Bombay Curry Pizza,jimmytomatospizzeria.com/menu.…,123 East Main Street Denville Nj 07834,Denville,NJ,07834
+92,Vavo Cafe,vavocafe.com,1250 Sussex Turnpike,Randolph,NJ,07869
+93,Dover Grill,,240 Rt 46 E,Dover,NJ,07801
+94,Miga Sushi,migasushi.com,559 E Main St,Denville,NJ,07834
+95,Rinconcito Peruano,,17 N Main St,Wharton,NJ,07885
+96,Saigon Subs & Café,saigonsubscafe.com,98 Elm St,Morristown,NJ,07960
+97,Thatcher McGhee’s,thatchermcghees.com/denville,53 Broadway,Denville,NJ,07834
+98,Sabor A Mexico,saboramexico.net,6 Wall St,Rockaway,NJ,07866
+99,Arthur’s Tavern,arthurstavern.com,700 Speedwell Ave,Morris Plains,NJ,07950
+100,Sabor Latino,saborlatinodovernj.net,44 N Morris St,Dover,NJ,07801
+101,"A&B Bagel, Deli, and Grill II",abbagel.com,1206 Sussex Tpke,Randolph,NJ,07869
+102,Golden Burrito Mexican Spot,orderburrito.com,286 Rte 206 S,Flanders,NJ,07836
+103,Marjan Fine Persian Grill,marjanpersiangrill.com,84 Speedwell Ave,Morristown,NJ,07960
+104,Code 593 Cafe,,2 S Main St,Wharton,NJ,07885
+105,Olive Lucy’s Kitchen Table,olivelucys.com,52 Speedwell Ave,Morristown,NJ,07960
+106,Golden Unicorn Restaurant,,265 E Blackwell St,Dover,NJ,07801
+107,American Bbq Co Inc,americanbbqco.com,94-1 Ford Rd,Denville,NJ,07834
+108,Hibiscus Island Grill,hibiscuscuisine.com,21 Spring St,Morristown,NJ,07960
+109,House of Biryani’s and Kebabs,hbkdenville.com,315 US-46,Denville,NJ,07834
+110,Tacoria,tacoria.com,52 South St,Morristown,NJ,07960
+111,Antimo’s Pizzeria & Restaurant,antimospizzeria.com,1275 Sussex Tpke,Randolph,NJ,07869
+112,Aoyama,aoyamanj.com,84 E Main StSte L,Mendham,NJ,07945
+113,OoLaLa! Vietnamese Kitchen,oolalavietkitchen.com,2569 Rt 10 E,Morris Plains,NJ,07950
+114,The Canal House,canalhousenj.com,47 Kossuth St,Wharton,NJ,07885
+115,Town Bar + Kitchen,townbarandkitchen.com,80 Elm St,Morristown,NJ,07960
+116,Yummy Taste Chinese Restaurant,,692 US Highway 46 N,Succasunna,NJ,07876
+117,Loving Hut,lovinghut.us,538 Rt 10 W,Roxbury Township,NJ,07852
+118,Freshii,freshii.com,1767 Rte 10 E,Morris Plains,NJ,07950
+119,Malay,malaymorristown.com,147 Morris St,Morristown,NJ,07960
+120,La Forchetta,laforchettanj.com,350 N Main StSte 5,Wharton,NJ,07885
+121,Jockey Hollow Bar & Kitchen,jockeyhollowbarandkitchen.com,110 South St,Morristown,NJ,07960
+122,Sushi Hana Japanese Restaurant,sushihananj.com,15 State Route 10 E,Succasunna,NJ,07876
+123,Sandi’s,sandissoulbites.com,82 Speedwell Ave,Morristown,NJ,07960
+124,Redwoods Catering,,459 Main St,Chester,NJ,07930
+125,Alonsos Steak House,alonsossteakhouse.com,330 S Salem St,Dover,NJ,07801
+126,Nori Sushi,,301 Mount Hope Ave,Rockaway,NJ,07801
+127,Chef Fredy’s Table,cheffredystable.com,78 Speedwell Ave,Morristown,NJ,07960
+128,Piattino: A Neighborhood Bistro,piattinonj.com,88 E Main St,Mendham,NJ,07945
+129,Praderas,,60 N Sussex St,Dover,NJ,07801
+130,Brick 46,brick46.com,68 US Hwy 46,Rockaway,NJ,07866
+131,Sandwiches Unlimited Lunch Box,sandwichesunlimitedlunchbox.co…,1034 US Hwy 46,Ledgewood,NJ,07852
+132,Alfa Bagels,alfabagels.com,587 State Rt 10,Randolph,NJ,07869
+133,Dante’s Italian Cuisine & Brick Oven Specialty Pizza,dantesitaliancuisine.com,488 Mt Hope Rd,Wharton,NJ,07885
+134,Laku Sushi,lakusushi.com,30 Lafayette Ave,Morristown,NJ,07960
+135,Altoque Colombian food,,7 Bassett Hwy,Dover,NJ,07801
+136,Artista Salumeria,artistasalumeria.com,423 Main St,Chester,NJ,07930
+137,Chico’s Mexican Grill,chicosmexicangrill.com,559 E Main StSte 10,Denville,NJ,07834
+138,L & L Deli & Catering,landldelinj.com,264 US Highway 46,Mine Hill,NJ,07803
+139,Rose’s Luncheonette,,431 US Hwy 46 N,Succasunna,NJ,07876
+140,Sabretti’s Hot Dogs,sabrettis.com,1451 Route 46 W,Ledgewood,NJ,07852
+141,Theodoras Family Restaurant and Pizza,TheodorasRestaurantPizza.com,336 S Main St,Wharton,NJ,07885
+142,Damo Eating,damoeating.com,149 Lakeside Blvd,Landing,NJ,07850
+143,Germania Park,germaniapark.com,56 Conger St,Rockaway Township,NJ,07801
+144,Mamma Caterina,mammacaterinapizza.com,1250 Sussex Turnpike,Randolph,NJ,07869
+145,Mega BBQ,,75 Spring St,Morristown,NJ,07960
+146,Bally Dar,ballydar.com,273 US Hwy 46,Mine Hill,NJ,07803
+147,Alice’s - Temp. CLOSED,alicesrestaurantnj.com,24 Nolans Point Park Rd,Lake Hopatcong,NJ,07849
+148,The Pizza Pub Restaurant,pizzapubrestaurant.com,395 Dover Chester Rd,Ironia,NJ,07845
+149,Colonial Pantry,,5 W Main St,Mendham,NJ,07945
+150,The Cheesecake Factory,thecheesecakefactory.com,301 Mount Hope AveSte 1013B,Rockaway,NJ,07866
+151,Gusto 46,gusto46.com,271 US Hwy 46,Mine Hill,NJ,07803
+152,Hunan Chinese Room,,255 Speedwell Ave,Morris Plains,NJ,07950
+153,Ruth’s Chris Steak House,ruthschris.com,1 Hilton Ct,Parsippany,NJ,07054
+154,Paisano’s Pizzeria,paisanospizzanj.com,138 Center Grove RdWeis Shopping Center,Randolph,NJ,07869
+155,Cafe Metro,thecafemetro.com,60 Diamond Spring Rd,Denville,NJ,07834
+156,The Tuscan Table,thetuscantabledenville.com,28 Diamond Spring Rd,Denville,NJ,07834
+157,Casa D Pizza,casadpizzadenville.com,276 E Main St,Denville,NJ,07834
+158,Tierras y Sabores Restaurant,tierrasysabores.net,39 W Blackwell StSte 1,Dover,NJ,07801
+159,Little Nicki’s,,120 Brady Rd,Lake Hopatcong,NJ,07849
+160,The 53 Grill,,383 E Main St,Denville,NJ,07834
+161,Espanong Market,,327 Espanong Rd,Lake Hopatcong,NJ,07849
+162,Delikosositas Colombian Bakery and Cafe,,337 US-46,Rockaway,NJ,07866
+163,LongHorn Steakhouse,LongHornSteakhouse.com,50-J International Dr S,Flanders,NJ,07836
+164,Yokohama Sushi,,1013 US 46 And Howard Blvd,Ledgewood,NJ,07852
+165,Bill’s Luncheonette,billsluncheonette.com,455 North Rd,Chester,NJ,07930
+166,Luzzi’s Hibernia Inn,luzzishiberniainn.com,439 Green Pond Rd,Rockaway,NJ,07866
+167,Las Brisaz,,29 E Blackwell St,Dover,NJ,07801
+168,Fuddruckers,fuddruckers.com,275 Rt 10,Succasunna,NJ,07876
+169,The Colonial Grill,,3 W Park Pl,Morristown,NJ,07960
+170,Brooklyn Bagel & Deli,brooklynbagelanddelinj.com,517 E Rte 10,Randolph,NJ,07869
+171,La Costilla De Pedro,,57 N Sussex St,Dover,NJ,07801
+172,TGI Fridays,,1103 Route 46,Ledgewood,NJ,07852
+173,Benito’s Jersey Curbside Eats,benitosjce.com,"Flanders, NJ 07836",Flanders,NJ,07836
+174,Marino’s Cafe,elmarinoscafe.com,90 Belmont Ave,Dover,NJ,07801
+175,Revolution,revolutionmorristown.com,9 South St,Morristown,NJ,07960
+176,Szechuan Delite,szechuandelitemorrisplains.com,44 Gibraltar Dr,Morris Plains,NJ,07950
+177,Rod’s Steak & Seafood Grille,rodssteak.com,1 Convent Rd,Morristown,NJ,07960
+178,Red Lobster,redlobster.com,303 Route 10 - Roxbury TownshipLedgewood Mall,Ledgewood,NJ,07852
+179,Office Tavern Grill,officetaverngrill.com,3 South St,Morristown,NJ,07960
+180,Three Brothers Restaurant,,9 N Morris St,Dover,NJ,07801
+181,L’eggo My Bagel,,760 US-46,Kenvil,NJ,07847
+182,Bagel Nosh,,399 US-46Route 46 West,Rockaway,NJ,07866
+183,Lung Yung Restaurant,lungyungrestaurant.com,275-50 Roxbury Mall,Succasunna,NJ,07876
+184,Fiamma Wood Fired Pizza,fiammapizza.com,47 S Park Pl,Morristown,NJ,07960
+185,Outback Steakhouse,outback.com,1070 US Highway 46,Ledgewood,NJ,07852
+186,The Second Half On Main,secondhalfonmain.com,5 E Main StSte 15,Denville,NJ,07834
+187,Sandwiches Unlimited Lunch Box,sandwichesunlimitedlunchbox.co…,Boro Plz350 US Hwy 46,Rockaway,NJ,07866
+188,Market Tavern,,240 US-206Ste 1,Mount Olive Township,NJ,07836
+189,Sogo Restaurant,sogo.cc,248 US Hwy 46 W,Denville,NJ,07834
+190,Mediterranean Grill,mediterraneangrillmotown.com,119 Morris St,Morristown,NJ,07960
+191,My Kitchen,,301 Mount Hope AveSte 2101,Rockaway,NJ,07866
+192,Bernie’s,bernieshillside.com,125 Hillside Rd,Chester,NJ,07930
+193,Joe and Anthony’s Pizza,joeandanthonys.com,30 International Dr SE1,Mount Olive Township,NJ,07836
+194,Dante’s Ristorante,dantesnj.com,100 E Main St,Mendham,NJ,07945
+195,Collins Pub Morris Plains,,688 Speedwell Ave,Morris Plains,NJ,07950
+196,Eagle Mini Diner,eagledinernj.com,134 Ledgewood Ave,Netcong,NJ,07857
+197,La Gratella,lagratellapizza.com,450 Rt 10 W,Ledgewood,NJ,07852
+198,Caffe Delhi,,276 E Main St,Denville,NJ,07834
+199,Sheimer’s Deli,sheimers.com,3110 Rte 10,Denville,NJ,07834
+200,China King,chinakingnj.com,760 US Hwy 46,Kenvil,NJ,07847
+201,La Casa De Pollo,,104 Speedwell Ave,Morristown,NJ,07960
+202,Los Criollos,,5 S Main St,Wharton,NJ,07885
+203,Rockbottom Morris Patio & Grill,rockbottomgrill.com,4 John St,Morristown,NJ,07960
+204,Tiny’s Tavern,,110 Brady Rd,Lake Hopatcong,NJ,07849
+205,M & S Pizza II,,424 US Hwy 46 W,Rockaway Township,NJ,07866
+206,Royal Halal Chicken And Biscuit,,330 S Salem St,Dover,NJ,07801
+207,Fire Roasted Chicken & Grill,fireroastedchickenandgrill.com,86 Ridgedale Ave,Cedar Knolls,NJ,07927
+208,Big D’s Hot Dogs,,Dover Train Station,Dover,NJ,07801
+209,Luigis Pizza,,275 State Rt 10 E,Succasunna,NJ,07876
+210,Naranja Juice Bar,,6B S Warren St,Dover,NJ,07801
+211,Clean Juice,cleanjuice.com/locations/morri…,68 South St,Morristown,NJ,07960
+212,China City Restaurant,chinacityrandolphnj.com,148 Center Grove Rd,Randolph,NJ,07869
+213,Popeyes Louisiana Kitchen,https://www.popeyes.com/store-locator/store/restaurant_83200,Rockaway Townsquare Mall-301 Mt Hope Road - Suite 2109, Rockaway,NJ,07866
+214,Buffalo Wild Wings,https://www.buffalowildwings.com/en/locations/detail/3634/?utm_source=google&utm_medium=organic&utm_campaign=rio,343 Mt Hope Ave, Rockaway,NJ,07866
+215,Auntie Anne's,https://www.auntieannes.com/nj/rockaway/119-1?utm_source=google&utm_medium=organic&utm_campaign=localmaps,301 Mt Hope Ave Suite 1048, Rockaway,NJ,07866
+216,Subway,https://order.subway.com/en-us/restaurant/21972/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=21972&utm_campaign=evergreen-2020&y_source=1_MTQ5MTIyMjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,559 E Main St Store # 2, Denville,NJ,07834
+217,Cinnamon,http://www.cinnamonindianrestaurant.com/,2920 NJ-10, Morris Plains,NJ,07950
+218,The Quiet Man Pub/Restaurant,http://www.quietmanpub.com/,64 E McFarlan St, Dover,NJ,07801
+219,Starbucks,https://www.starbucks.com/store-locator/store/12861/,3056 NJ-10 West, Denville,NJ,07834
+220,Casa Bella,http://casabella46.com/,300 US-46, Denville,NJ,07834
+221,Thatcher McGhee's Denville,http://www.thatchermcghees.com/denville,53 Broadway, Denville,NJ,07834
+222,Forte Pizzeria,http://www.fortepizzeria.com/,486 NJ-10, Randolph,NJ,07869
+223,Five Guys,https://order.fiveguys.com/menu/denville/,"3056 Route 10 West, Suite C-1", Denville,NJ,07834
+224,Sogo Hibachi Grill,http://www.sogo.cc/,"2730 248, US-46", Denville,NJ,07834
+225,Subway,https://order.subway.com/en-us/restaurant/33969/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=33969&utm_campaign=evergreen-2020&y_source=1_MTQ4OTU4NzgtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,220 Enterprise Dr, Rockaway,NJ,07866
+226,China Pavilion,https://www.chinapaviliononline.com/,276 E Main St, Denville,NJ,07834
+227,Classic Cafe Management Inc,http://classiccafe.org/html/home.html,400 Interpace Pkwy, Parsippany,NJ,07054
+228,Subway,https://www.subway.com/en-us,170 State Rt 46 E, Rockaway,NJ,07866
+229,Panera Bread,https://locations.panerabread.com/nj/denville/3056-state-route-10.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search,3056 NJ-10 Suite S1, Denville,NJ,07834
+230,Caffè NaVona,http://www.caffenavona.com/,147 US-46, Rockaway,NJ,07866
+231,Chipotle Mexican Grill,https://locations.chipotle.com/nj/rockaway/301-mt-hope-ave?utm_source=google&utm_medium=yext&utm_campaign=yext_listings,301 Mt Hope Ave Ste 2067A, Rockaway,NJ,07866
+232,Hibernia Diner Restaurant,http://www.hiberniadiner.com/,9 Green Pond Rd, Rockaway,NJ,07866
+233,Subway,https://order.subway.com/en-us/restaurant/46636/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=46636&utm_campaign=evergreen-2020&y_source=1_MTQ5MDk4MjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,148 Center Grove Rd, Randolph,NJ,07869
+234,Red Robin Gourmet Burgers and Brews,https://redrobin.com/locations/rockaway,301 Mt Hope Ave, Rockaway,NJ,07866
+235,Mario's Famous Pizza,http://www.mariosfamouspizza.com/,140 Rte 10 West, Randolph,NJ,07869
+236,Cafe metro,http://www.thecafemetro.com/,Diamond Spring Rd, Denville,NJ,07834
+237,Thai Nam Phet,http://www.thainamphet.com/,296 US-46 A, Rockaway,NJ,07866
+238,Randolph Diner,https://www.therandolphdiner.com/,517 NJ-10 E, Randolph,NJ,07869
+239,Townsquare Diner,http://townsquare-diner.com/,320 NJ-15, Wharton,NJ,07885
+240,Cafe Fiori,,477 NJ-10 STE 15, Randolph,NJ,07869
+241,Alexis Diner,http://www.alexisdinernj.com/,3130 NJ-10, Denville,NJ,07834
+242,Paul's Family Diner,http://www.paulsfamilydiner.com/,320 US-46, Mountain Lakes,NJ,07046
+243,Charlotte's Web Inn,http://www.charlotteswebinn.com/,39 W Clinton St, Dover,NJ,07801
+244,Starbucks,https://www.starbucks.com/store-locator/store/11034/,2-28 W Main St, Denville,NJ,07834
+245,il Michelangelo Italian Restaurant,http://www.ilmichelangelo.com/,91 Elcock Ave, Boonton,NJ,07005
+246,Grato,http://www.gratorestaurant.com/,2230 NJ-10, Morris Plains,NJ,07950
+247,Classic Cafe Management,http://classiccafe.org/html/home.html,6 Century Dr, Parsippany,NJ,07054
+248,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=331283,125 Rte 46 E, Denville,NJ,07834
+249,Bagel Bistro,http://www.bagelbistrorandolph.com/,81 NJ-10, Randolph,NJ,07869
+250,China Garden,https://chinagardennjtogo.com/,179 US-46, Rockaway,NJ,07866
+251,Gencarelli Restaurant & Pizza,http://gencarellipizzanj.com/,25 W Main St, Rockaway,NJ,07866
+252,Master Wok,,301 Mount Hope Ave Ste 2108, Rockaway,NJ,07866
+253,Number 1 Restaurant,http://number-1-rockaway.jany.io/,25 W Main St, Rockaway,NJ,07866
+254,Frito-Lay Inc,,246 W Clinton St, Dover,NJ,07801
+255,Barry's Luncheonette,http://www.barrysrestaurant.com/,3 N Warren St, Dover,NJ,07801
+256,Tequila's 55,http://www.tequilas55.com/,55 E Blackwell St, Dover,NJ,07801
+257,Denville Dog & Grill,http://denvilledogandicecream.com/,99 Bloomfield Ave, Denville,NJ,07834
+258,Pan Pizza,,44 N Sussex St, Dover,NJ,07801
+259,Potbelly's Riverside Cafe,http://potbellysrockaway.com/,26 East Main Street, Rockaway,NJ,07866
+260,Missy's Main Street Cafe,http://missysmainstreetcafe.com/,181 E Main St, Rockaway,NJ,07866
+261,Riviera Maya Mexican Restaurant,https://www.snaptown-online.com/mobile/menu?restaurant_uid=959cdb38-1221-450d-b237-61d561d49351&coupon=,116 US-46, Rockaway,NJ,07866
+262,RJ's Pizzeria,https://www.rjspizzeriamenu.com/,"4046, 179 US-46", Rockaway,NJ,07866
+263,Long Valley Pub & Brewery at Restaurant Village,http://restaurantvillageatlongvalley.com/long-valley-pub-and-brewery/,1 Fairmount Rd, Long Valley,NJ,07853
+264,Sammy's Ye Old Cider Mill,http://www.sammyscidermill.com/,353 Mendham Rd W, Mendham,NJ,07945
+265,Starbucks,https://www.starbucks.com/store-locator/store/18361/,450 US-206, Chester,NJ,07930
+266,Benito's Trattoria,http://www.benitos-trattoria.net/,44 Main St, Chester,NJ,07930
+267,Bagel Cafe,http://www.njbagelcafe.com/,"2424 233, US-206", Chester,NJ,07930
+268,The Pizza Pub,http://pizzapubrestaurant.com/,395 Dover Chester Rd, Ironia,NJ,07845
+269,The After Char-Broil Grill & Ice Cream,http://www.theaftergrill.com/,195 US-206, Flanders,NJ,07836
+270,Redwoods Grill & Bar,http://redwoodsgrillandbar.com/,459 Main St, Chester,NJ,07930
+271,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=335433,112 Rte 206 South, Chester,NJ,07930
+272,Dean's Natural Food Market,http://www.deansnaturalfoodmarket.com/,270 US-206, Chester,NJ,07930
+273,Thai Kitchen,http://thaikitchenchester.com/,320 US-206, Chester,NJ,07930
+274,Mini Mac Diner,http://mini-mac-diner.poi.place/,158 US-206, Chester,NJ,07930
+275,Vale Pizza,http://www.philspizzeriamenu.com/,"67 E. Mill Rd, Plaza", Long Valley,NJ,07853
+276,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=302666,295 US Highway 206, Flanders,NJ,07836
+277,Istanbul Cuisine,https://www.istanbulcuisineflanders.com/,286 US-206, Flanders,NJ,07836
+278,Rita's Italian Ice & Frozen Custard,http://www.flandersritas.com/,286 US Highway 206, Flanders,NJ,07836
+279,"Black Oak Golf Club, LLC",http://www.blackoakgolfclub.com/,169 Bartley Rd, Long Valley,NJ,07853
+280,Wasabi Japanese Restaurant,http://wasabilove.com/,240 US-206 #8, Flanders,NJ,07836
+281,Roman Pizza,,81 Main St, Chester,NJ,07930
+282,Aztec Authentic Mexican Restaurant,http://www.aztecmexicanrestaurant.com/,35 Perry St, Chester,NJ,07930
+283,Pulled Fork BBQ,http://pulledforkbbq.com/,38 E Mill Rd, Long Valley,NJ,07853
+284,Chester Diner,https://chesterdiner.wixsite.com/chesterdiner,65 US-206, Chester,NJ,07930
+285,Bill's Luncheonette,http://www.billsluncheonette.com/,455 North Rd, Chester Township,NJ,07930
+286,Marilyn's Cafe,,21 W Main St, Chester,NJ,07930
+287,Red Lantern Sushi & Asian Kitchen,http://restaurantvillageatlongvalley.com/red-lantern-restaurant/,9 W Mill Rd, Long Valley,NJ,07853
+288,Jeffrey Brooks Interior Design,http://jeffrey-brooks-interior-design.business.site/,54 Schooleys Mountain Rd, Long Valley,NJ,07853
+289,Lucky Chinese Restaurant,,240 US-206, Flanders,NJ,07836
+290,Sally Lunn's Restaurant & Tearoom,http://www.sallylunns.com/,15 Perry St, Chester,NJ,07930
+291,Lamplighter Restaurant & Pub,,190 W Main St, Chester,NJ,07930
+292,Taste of India,http://www.tasteofindianj.com/,286 US-206, Flanders,NJ,07836
+293,Old Mill Tavern,https://www.oldmilltavernchester.com/,55 Rte 24, Chester,NJ,07930
+294,Frank's Pizza,https://www.frankspizzaflanders.com/,240 US-206, Flanders,NJ,07836
+295,China House,https://chinahouseflandersvillage.com/,286 US-206 #107b, Flanders,NJ,07836
+296,McDonald's,https://www.mcdonalds.com/us/en-us/location/NJ/FLANDERS/293-RT-206/7843.html?cid=RF:YXT:GMB::Clicks,293 Rt 206, Flanders,NJ,07836
+297,Subway,https://order.subway.com/en-us/restaurant/23744/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=23744&utm_campaign=evergreen-2020&y_source=1_MTQ5MDMzNDItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,293 Rt 206 S, Flanders,NJ,07836
+298,Wendy's,https://locations.wendys.com/united-states/nj/chester/35-u.s.-hwy-206-s.?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US,35 U.S. Hwy 206 S, Chester,NJ,07930
+299,Giuseppe's Trattoria,https://www.giuseppestrattoria.com/,191 US-206, Chester,NJ,07930
+300,Valley Restaurant,http://www.valleyrestaurantandpub.com/,59 E Mill Rd #208, Long Valley,NJ,07853
+301,Pezzo Pizza 2,https://www.facebook.com/Pezzopizza62,62 E Mill Rd, Long Valley,NJ,07853
+302,New York Pizza and Italian Restaurant,http://nypizzachesternj.com/,57 Main St # 2, Chester,NJ,07930
+303,Asian Gourmet,http://www.asiangourmetlongvalley.com/,67 E Mill Rd, Long Valley,NJ,07853
+304,Valentino's Pizzeria & Restaurant,http://www.valentinosflanders.com/,293 US-206 #8, Flanders,NJ,07836
+305,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=342284,62 E Mill Rd, Long Valley,NJ,07853
+306,Domo 7 Japanese Restaurant,http://www.domo-7.com/,189 US-206, Chester,NJ,07930
+307,Sub Pub,http://subpubnj.com/,127 Main St, Chester,NJ,07930
+308,QuickChek,http://quickchek.com/,150 US-206, Chester Township,NJ,07930
+309,Ho Ho Kitchen,http://hohokitchenchester.com/,44 Maple Ave, Chester,NJ,07930
+310,Hot Bagels abroad,https://hot-bagels-abroad-bagel-shop.business.site/?utm_source=gmb&utm_medium=referral,240 US-206, Flanders,NJ,07836
+311,Bella's,http://www.bellaspizzanj.com/,30 Main St, Chester,NJ,07930
+312,Pren Kitchen,http://prenkitchen.com/,52 W Main St, Chester,NJ,07930
+313,Chester,,17 Main St, Chester,NJ,07930
+314,Panera Bread,https://locations.panerabread.com/nj/chester/141-us-highway-206-s.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search,141 US Highway 206 S, Chester,NJ,07930
+315,Playa Bowls,https://www.playabowls.com/,230 Rt 206 N, Chester,NJ,07930
+316,Jersey Mike's Subs,https://www.jerseymikes.com/1106,390 Us Highway 206, Chester,NJ,07930
+317,White Birch,http://whitebirchrestaurant.com/,380 US Highway 206, Flanders,NJ,07836
+318,Golden Burrito Mexican Spot,https://www.orderburrito.com/,286 Route 206 South, Flanders,NJ,07836
+319,Bento Sushi,https://www.bentosushi.com/us/,90 Bartley Flanders Rd, Flanders,NJ,07836
+320,The Market Tavern,https://www.markettavernflanders.com/,240 US-206 #1, Flanders,NJ,07836
+321,"The Madison Hotel Morristown, NJ",http://www.themadisonhotel.com/,1 Convent Rd, Morristown,NJ,07960
+322,Grasshopper off the Green,https://grasshoppermorristown.com/,41-43 Morris St, Morristown,NJ,07960
+323,Rod's Steak & Seafood Grille,http://www.rodssteak.com/,1 Convent Rd, Morristown,NJ,07960
+324,Ruth's Chris Steak House,https://www.ruthschris.com/restaurant-locations/parsippany/?utm_source=google&utm_medium=organic&utm_campaign=local-business-listing,1 Hilton Ct, Parsippany-Troy Hills,NJ,07054
+325,The Famished Frog,http://www.famishedfrog.com/,18 Washington St, Morristown,NJ,07960
+326,Arthur's Tavern,http://www.arthurstavern.com/,700 Speedwell Ave, Morris Plains,NJ,07950
+327,Ming II Restaurant,http://www.ming2morristown.com/,3 Speedwell Ave, Morristown,NJ,07960
+328,SM23,http://www.sm23morristown.com/,3 Speedwell Ave, Morristown,NJ,07960
+329,Blue Morel Restaurant and Wine Bar,http://bluemorel.com/,2 Whippany Rd, Morristown,NJ,07960
+330,George & Martha's American Grille,https://www.georgeandmarthas.com/?y_source=1_MzQwMzA2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,67-71 Morris St, Morristown,NJ,07960
+331,Sushi Lounge,https://www.sushiloungenj.com/,12 Schuyler Pl, Morristown,NJ,07960
+332,Chipotle Mexican Grill,https://locations.chipotle.com/nj/madison/6-main-st?utm_source=google&utm_medium=yext&utm_campaign=yext_listings,6 Main St, Madison,NJ,07940
+333,Pazzo Pazzo,,74 Speedwell Ave, Morristown,NJ,07960
+334,Roots Steakhouse,http://www.rootssteakhouse.com/,40 W Park Pl, Morristown,NJ,07960
+335,Chef Fredy's Table,http://www.cheffredystable.com/,78 Speedwell Ave, Morristown,NJ,07960
+336,Origin Thai 2,http://www.originthai2.com/,10 South St, Morristown,NJ,07960
+337,Gary's Wine & Marketplace,http://www.garyswine.com/,121 Main St, Madison,NJ,07940
+338,Tiffs Grill & Ale House,http://www.tiffsmorrisplains.com/,231 Speedwell Ave, Morris Plains,NJ,07950
+339,Shanghai Jazz Restaurant & Bar,http://www.shanghaijazz.com/,24 Main St, Madison,NJ,07940
+340,Mintea Sushi Asian Bistro,https://www.minteacedarknolls.com/,99 Ridgedale Ave, Cedar Knolls,NJ,07927
+341,Urban Table,http://www.urbantablerestaurant.com/,40 W Park Pl, Morristown,NJ,07960
+342,L'Allegria,http://lallegria.com/,11 Prospect St, Madison,NJ,07940
+343,Hibiscus island Grille,http://www.hibiscuscuisine.com/,21 Spring St, Morristown,NJ,07960
+344,Olive Lucy's Kitchen Table,http://www.olivelucys.com/,52 Speedwell Ave, Morristown,NJ,07960
+345,Marie's Italian Specialties,http://www.mariesdeli.com/,641 Shunpike Rd, Chatham Township,NJ,07928
+346,Morris Pizzeria,https://morrispizzeria.com/,161 South St, Morristown,NJ,07960
+347,Wendy's,https://locations.wendys.com/united-states/nj/parsippany/1860-route-10?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US,1860 NJ-10, Parsippany-Troy Hills,NJ,07054
+348,Nicky’s Firehouse Italian Restaurant & Pizzeria,http://www.nickysfirehouse.com/,15 Central Ave, Madison,NJ,07940
+349,Il Mondo Vecchio,http://www.ilmondovecchio.com/,72 Main St #1, Madison,NJ,07940
+350,Millie’s Old World Meatballs & Pizza,http://milliesoldworld.com/,60 South St, Morristown,NJ,07960
+351,Starbucks,https://www.starbucks.com/store-locator/store/11693/,184 Columbia Turnpike, Florham Park,NJ,07932
+352,Aikou restaurant,http://www.aikoumorristown.com/,54 South St, Morristown,NJ,07960
+353,Starbucks,https://www.starbucks.com/store-locator/store/63068/,40 W Park Pl, Morristown,NJ,07960
+354,Tashmoo Restaurant & Bar,http://www.tashmoobar.com/,8 Dehart St, Morristown,NJ,07960
+355,Starbucks,https://www.starbucks.com/store-locator/store/1005610/,640 Shunpike Rd, Chatham,NJ,07928
+356,Panera Bread,https://locations.panerabread.com/nj/florham-park/187-columbia-turnpike.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search,187 Columbia Turnpike, Florham Park,NJ,07932
+357,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=331425,59-61 Morris St, Morristown,NJ,07960
+358,The Thirsty Turtle,http://www.thirstyturtle.com/,186 Columbia Turnpike, Florham Park,NJ,07932
+359,McDonald's,https://www.mcdonalds.com/us/en-us/location/NJ/CEDAR-KNOLLS/35-MORRIS-COUNTY-MALL/25570.html?cid=RF:YXT:GMB::Clicks,35 Morris County Mall, Cedar Knolls,NJ,07927
+360,Portofino's Restaurant,http://www.portofinosrestaurant.com/,29 Mills St, Morristown,NJ,07960
+361,Tito's Burritos & Wings Morristown,https://www.titosburritos.com/location/titos-morristown/,26 Washington St #1, Morristown,NJ,07960
+362,Rocco's Tuscany Bar and Grill,http://www.roccosmadison.com/,30 Cook Ave, Madison,NJ,07940
+363,Domino's Pizza,https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps,147 Speedwell Ave, Morristown,NJ,07960
+364,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=348952,641 Shunpike Rd, Chatham Township,NJ,07928
+365,Lin's Palace,,40 Speedwell Ave, Morristown,NJ,07960
+366,Romanelli's Pizza & Italian Eatery,https://www.romanellispizza.com/,42 Lincoln Pl, Madison,NJ,07940
+367,Bonefish Grill,https://www.bonefishgrill.com/,28 US-46, Pine Brook,NJ,07058
+368,Chand Palace,http://parsippany.chandpalace.com/,257 Littleton Rd, Parsippany,NJ,07054
+369,Outback Steakhouse,https://www.outback.com/,1300 US-46 west, Parsippany-Troy Hills,NJ,07054
+370,Applebee's Grill + Bar,https://restaurants.applebees.com/en-us/nj/parsippany/1057-route-46-east-93023?utm_source=googlemybusiness&utm_medium=referral&utm_campaign=Google%20My%20Business,1057 US-46, Parsippany,NJ,07054
+371,LongHorn Steakhouse,https://www.longhornsteakhouse.com/locations/nj/parsippany/parsippany/5162?cmpid=br:lh_ag:ie_ch:loc_ca:LHGMB_dt:20190131_sn:gmb_gt:parsippany-nj-5162_pl:locurl_rd:1122,690 US-46, Parsippany-Troy Hills,NJ,07054
+372,Subway,https://order.subway.com/en-us/restaurant/35346/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=35346&utm_campaign=evergreen-2020&y_source=1_MTQ5MTYyOTQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,300 Wootton St, Boonton,NJ,07005
+373,Reservoir Tavern,http://www.therestavern.com/,92 Parsippany Blvd, Boonton,NJ,07005
+374,Eccola,http://www.eccolarestaurantnj.com/,1082 US-46, Parsippany,NJ,07054
+375,Don Pepe II,http://donpepeii.com/home/,21 Bloomfield Ave, Pine Brook,NJ,07058
+376,Locanda Vecchia,http://locandavecchia.com/,167 Main Rd, Montville,NJ,07045
+377,Subway,https://order.subway.com/en-us/restaurant/25827/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=25827&utm_campaign=evergreen-2020&y_source=1_MTQ5MDkyMTktNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,105 Parsippany Rd, Parsippany-Troy Hills,NJ,07054
+378,Sharky's West,http://www.sharkyswingsnj.com/,108 Boonton Ave, Boonton,NJ,07005
+379,Marakesh Restaurant,http://www.marakesh.com/,321 US-46, Parsippany,NJ,07054
+380,Spice Grill,https://spicegrillparsippany.com/,111 US-46, Parsippany-Troy Hills,NJ,07054
+381,Luigi's Italian Restaurant & Bar,http://www.luigisrestaurantnj.com/,434 Ridgedale Ave, East Hanover,NJ,07936
+382,Domino's Pizza,https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps,199 Littleton Rd, Parsippany-Troy Hills,NJ,07054
+383,KHAN MARKET,,142 US-46, Parsippany-Troy Hills,NJ,07054
+384,Don Pepe Steakhouse,http://www.donpepesteakhouse.com/,"58 West, US-46", Pine Brook,NJ,07058
+385,Gourmet Cafe,http://www.gourmetcafenj.com/,136 Baldwin Rd, Parsippany-Troy Hills,NJ,07054
+386,Jersey Mike's Subs,https://www.jerseymikes.com/1030,317 Smith Rd, Parsippany-Troy Hills,NJ,07054
+387,Keo Ku Restaurant,https://koreanbbqnewjersey.com/index.php,245 US-46, Parsippany-Troy Hills,NJ,07054
+388,Kabab Paradise,http://kababparadise.com/,76 N Beverwyck Rd # 2, Lake Hiawatha,NJ,07034
+389,Don Jose Mexican Restaurant East Hanover NJ,http://www.donjosemexican.com/,200 NJ-10 #7, East Hanover,NJ,07936
+390,IHOP,https://restaurants.ihop.com/en-us/nj/parsippany/breakfast-792-route-46-4685?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places,792 US-46, Parsippany-Troy Hills,NJ,07054
+391,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=302337,820 US-46, Parsippany-Troy Hills,NJ,07054
+392,Taco Bell,https://locations.tacobell.com/nj/parsippany/1560-route-46.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=028939&utm_content=website&y_source=1_NjE0NjA3MS03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D,1560 US-46, Parsippany-Troy Hills,NJ,07054
+393,Sakura Hibachi Steak House,http://www.sakuranj.com/,949 US-46, Parsippany-Troy Hills,NJ,07054
+394,The Godfather Brick Oven Pizzeria,http://www.godfatherofeasthanover.com/,200 NJ-10 #3, East Hanover,NJ,07936
+395,Pasquale's,http://pasqualesboonton.com/,307 Main St #1, Boonton,NJ,07005
+396,Ravello,http://www.ravellobanquets.com/,138 Eagle Rock Ave, East Hanover,NJ,07936
+397,Panda Wok,https://pandawokparsippany.com/,184 Parsippany Rd, Parsippany-Troy Hills,NJ,07054
+398,Red Barn Restaurant,http://www.redbarnchicks.com/,446 Main Rd #5, Towaco,NJ,07082
+399,Scalini Fedeli,http://www.scalinifedeli.com/,63 Main St, Chatham,NJ,07928
+400,Chipotle Mexican Grill,https://locations.chipotle.com/nj/east-hanover/368-state-route-10?utm_source=google&utm_medium=yext&utm_campaign=yext_listings,368 NJ-10, East Hanover,NJ,07936
+401,Restaurant Serenade,https://www.restaurantserenade.com/,6 Roosevelt Ave, Chatham,NJ,07928
+402,Starbucks,https://www.starbucks.com/,309 Main St, Madison,NJ,07940
+403,China Chalet,http://chinachaletnj.com/,184 Columbia Turnpike, Florham Park,NJ,07932
+404,Begum Palace Indian Cuisine (Takeouts & Delivery Only Through Our Website),http://www.begumindiancuisine.com/,300 Main St, Madison,NJ,07940
+405,A Taste of Asia,http://www.atasteofasianj.com/index.htm,245 Main St, Chatham,NJ,07928
+406,LongHorn Steakhouse,https://www.longhornsteakhouse.com/locations/nj/flanders/flanders-mt-olive/5192?cmpid=br:lh_ag:ie_ch:loc_ca:LHGMB_dt:20190131_sn:gmb_gt:flanders-nj-5192_pl:locurl_rd:1149,50 International Dr S Ste J, Flanders,NJ,07836
+407,Lung Yung Restaurant,http://lungyungrestaurant.com/,275-50 NJ-10, Succasunna,NJ,07876
+408,Cinders Wood Fire Grill,http://www.cinderswoodfiregrill.com/,319 US-46, Mine Hill Township,NJ,07803
+409,Cracker Barrel Old Country Store,https://locations.crackerbarrel.com/nj/mount-arlington/406/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places,172 Howard Blvd, Mt Arlington,NJ,07856
+410,Black River Barn,http://www.blackriverbarn.com/,"1178 Route 10, West St", Randolph,NJ,07869
+411,La Strada Ristorante,https://www.lastradarestaurantrandolph.com/,1105 NJ-10, Randolph,NJ,07869
+412,Subway,https://order.subway.com/en-us/restaurant/24483/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=24483&utm_campaign=evergreen-2020&y_source=1_MTQ5MDkzODItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl,61 International Dr Space A-5, Budd Lake,NJ,07828
+413,Circle Bowl & Entertainment,http://circlebowlnj.com/,1107 Route 46 W, Ledgewood,NJ,07852
+414,Red Lobster,https://www.redlobster.com/locations/list/nj/ledgewood/303-route-10-roxbury-township,303 NJ-10, Roxbury Township,NJ,07852
+415,Muldoon's,http://www.muldoonsirishpub.com/,1447 US-46, Ledgewood,NJ,07852
+416,The Clay Oven,http://www.theclayoven.com/,1140 US-46, Ledgewood,NJ,07852
+417,Taco Bell,https://locations.tacobell.com/nj/succasunna/268-route-10.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=028938&utm_content=website&y_source=1_NjE0NDY5My03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D,268 NJ-10, Succasunna,NJ,07876
+418,White Castle,http://www.whitecastle.com/,1113 US-46, Ledgewood,NJ,07852
+419,Wendy's,https://locations.wendys.com/united-states/nj/flanders/50-international-drive-south?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US,50 International Dr S Suite G, Flanders,NJ,07836
+420,Don Jose Mexican Restaurant,http://www.donjosemexican.com/,124 US-46, Netcong,NJ,07857
+421,Carmine's Pizza,http://www.carminespizzanetcong.com/,75 Main St, Netcong,NJ,07857
+422,Domino's Pizza,https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps,141 US-46, Budd Lake,NJ,07828
+423,Sals Pizza & Restaurant,,175 Lakeside Blvd #7, Landing,NJ,07850
+424,IHOP,https://restaurants.ihop.com/en-us/nj/kenvil/breakfast-810-us-hwy-46-4779?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places,810 US-46, Kenvil,NJ,07847
+425,KFC,https://locations.kfc.com/nj/ledgewood/1110-route-46,1110 US-46, Ledgewood,NJ,07852
+426,Domino's Pizza,https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps,1009 US-46, Ledgewood,NJ,07852
+427,L and L Deli & Liquor Store,http://www.landldelinj.com/,264 US-46, Mine Hill Township,NJ,07803
+428,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=340801,114 State Hwy Route 206 In Exxon Gas Station, Mt Olive,NJ,07836
+429,Outback Steakhouse,https://www.outback.com/,1070 US-46, Ledgewood,NJ,07852
+430,Iron Hills Tavern,,1447 US-46, Ledgewood,NJ,07852
+431,bp,https://map.bp.com/en-US/US/gas-station/ledgewood/bp/72247248915510785200100000000000,"1551 Ledgewood Road, US-46", Ledgewood,NJ,07852
+432,La Gratella Pizza & Restaurant,http://www.lagratellapizzarestaurant.com/,450 NJ-10, Ledgewood,NJ,07852
+433,Empower Nutrition Supplements & Juice Bar,https://www.empowernutritionstores.com/,760 US-46, Kenvil,NJ,07847
+434,The Bistro – Eat. Drink. Connect.®,http://www.marriott.com/hotels/hotel-information/restaurant/ewrma-courtyard-rockaway-mt-arlington/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2,15 Howard Blvd, Mt Arlington,NJ,07856
+435,Fuddruckers,https://www.fuddruckers.com/roxbury,275 NJ-10, Succasunna,NJ,07876
+436,Jersey Mike's Subs,https://www.jerseymikes.com/1069,275 NJ-10 E, Succasunna,NJ,07876
+437,Yummy Taste Chinese Restaurant,https://yummytaste89.wixsite.com/yummytastechinese,692 US-46, Kenvil,NJ,07847
+438,Joe's Pizzeria & Restaurant,http://www.joespizzeriakenvil.com/,586 US-46, Kenvil,NJ,07847
+439,Casella's Pizzeria & Deli,http://www.casellaspizza.com/,139 State Route 10 East, Succasunna,NJ,07876
+440,One Touch Design,https://otdav.com/,210 Kings Hwy #7, Landing,NJ,07850
+441,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=353769,57 NJ-10 E, Succasunna,NJ,07876
+442,Anthony & Sons Bakery & Italian Deli,http://anthonyandsonsbakerynj.com/,15 NJ-10, Succasunna,NJ,07876
+443,Pizza Express Mt. Arlington,https://pizzaexpressmtarlington.com/,312 Howard Blvd, Mt Arlington,NJ,07856
+444,Shell,https://find.shell.com/us/fuel/12395193-274-rt-46-e,274 US-46, Mine Hill Township,NJ,07803
+445,Dunkin',https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=349334,274 Rte 46, Mine Hill Township,NJ,07803
+446,Polo's Bar & Grill,http://polosbarandgrill.com/,50 NJ-183, Netcong,NJ,07857
+447,Pollos Pucalor,http://www.pollospucalor.com/,85 E Blackwell St, Dover,NJ,07801
+448,Pub 199,https://pub199nj.com/,199 Howard Blvd, Mt Arlington,NJ,07856
+449,Tabor Road Tavern,http://www.taborroadtavern.com/,510 Tabor Rd, Morris Plains,NJ,07950
+450,Hunan Taste Chinese Restaurant,http://hunantaste.com/,67 Bloomfield Ave, Denville,NJ,07834
+451,Verde Ristorante,http://verderistorante.com/,1012 Tabor Rd, Morris Plains,NJ,07950
+452,Rockaway River Barn,http://www.rockawayriverbarn.com/,11 Green Pond Rd, Rockaway,NJ,07866
+453,La Cucina,http://www.lacucina-denville.com/,278 Diamond Spring Rd, Denville,NJ,07834
+454,Veggie Heaven,http://www.veggieheavennj.com/,57 Bloomfield Ave, Denville,NJ,07834
+455,Fresco Mexican,http://www.frescomexican.com/,137 Main St, Chester,NJ,07930
+456,The Grand Cafe,http://www.thegrandcafe.com/,42 Washington St, Morristown,NJ,07960
+457,End of Elm,http://endofelm.com/,140 Morris St, Morristown,NJ,07960
+458,The Exchange,http://www.exchangefood.com/,160 E Main St, Rockaway,NJ,07866
+459,Anthony & Sons Bakery,http://anthonyandsonsbakerynj.com/,20 Luger Rd, Denville,NJ,07834
+460,Jefferson House,http://www.jefferson-house.com/,139 Nolans Point Rd, Lake Hopatcong,NJ,07849
+461,Olive Garden Italian Restaurant,https://www.olivegarden.com/locations/nj/rockaway/rockaway-mall/1638?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_dt:20190131_sn:gmb_gt:rockaway-nj-1638_pl:locurl_rd:1505,323 Mt Hope Ave, Rockaway,NJ,07866
+462,Mehndi,http://www.mehndimorristown.com/,3 Speedwell Ave, Morristown,NJ,07960
+463,Bryans Luncheonette,http://bryansluncheonette.com/,42 Main St, Succasunna,NJ,07876
+464,Gourmet Cafe Restaurant,http://gourmetcafenj.com,"136 Baldwin Rd On the Corner of Rt 46 W, Walgreens/Baldwin Plaza", Parsippany,NJ,07054
+465,Sergio and Co Italian Specialties,http://www.sergioandco.com,28 Broadway, Denville,NJ,07834
+466,The Quiet Man,http://www.quietmanpub.com,64 E McFarlan St, Dover,NJ,07801
+467,SubUrban Bar & Kitchen,https://www.sbknj.com/,500 Route 10 West, Randolph,NJ,07869
+468,Verona Restaurant,http://www.veronarestaurant.com,1171 Sussex Tpke, Randolph,NJ,07869

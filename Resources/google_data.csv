@@ -1,0 +1,361 @@
+restaurant_name,place_id,price_level,restaurant_rating,google_maps_url,address,restaurant_website
+Popeyes Louisiana Kitchen,ChIJ3dh_VfcKw4kR3lrLsxKB7tY,1.0,3.7,https://maps.google.com/?cid=15487458085899557598,"Rockaway Townsquare Mall-301 Mt Hope Road - Suite 2109, Rockaway, NJ 07866, USA",https://www.popeyes.com/store-locator/store/restaurant_83200
+Buffalo Wild Wings,ChIJAYlPufkKw4kRr7-IhJCnC3Y,2.0,4.2,https://maps.google.com/?cid=8506076560359997359,"343 Mt Hope Ave, Rockaway, NJ 07866, USA",https://www.buffalowildwings.com/en/locations/detail/3634/?utm_source=google&utm_medium=organic&utm_campaign=rio
+Auntie Anne's,ChIJ3fcDtfsKw4kRsy2xOBfI0aQ,1.0,4.2,https://maps.google.com/?cid=11876493694413647283,"301 Mt Hope Ave Suite 1048, Rockaway, NJ 07866, USA",https://www.auntieannes.com/nj/rockaway/119-1?utm_source=google&utm_medium=organic&utm_campaign=localmaps
+Tabor Road Tavern,ChIJg8StYWinw4kRMFNslu1L9xg,3.0,4.4,https://maps.google.com/?cid=1798990059960816432,"510 Tabor Rd, Morris Plains, NJ 07950, USA",http://www.taborroadtavern.com/
+Subway,ChIJ6YlEVO8Jw4kR4n_aDP4NbIc,1.0,3.4,https://maps.google.com/?cid=9758189877393522658,"559 E Main St Store # 2, Denville, NJ 07834, USA",https://order.subway.com/en-us/restaurant/21972/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=21972&utm_campaign=evergreen-2020&y_source=1_MTQ5MTIyMjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Cinnamon,ChIJ8UdTNlGnw4kRfDz6N0jepj0,2.0,4.2,https://maps.google.com/?cid=4442482484205730940,"2920 NJ-10, Morris Plains, NJ 07950, USA",http://www.cinnamonindianrestaurant.com/
+The Quiet Man Pub/Restaurant,ChIJoeLjXo4Kw4kR8tGS2GzB-Ok,2.0,4.7,https://maps.google.com/?cid=16859437878295581170,"64 E McFarlan St, Dover, NJ 07801, USA",http://www.quietmanpub.com/
+Starbucks,ChIJ7_RdwKmgw4kRgl8rjDMyWTs,2.0,4.2,https://maps.google.com/?cid=4276504518141370242,"3056 NJ-10 West, Denville, NJ 07834, USA",https://www.starbucks.com/store-locator/store/12861/
+Casa Bella,ChIJl_hUu7sJw4kRR_KwUyifn_g,2.0,4.5,https://maps.google.com/?cid=17915212838254735943,"300 US-46, Denville, NJ 07834, USA",http://casabella46.com/
+Thatcher McGhee's Denville,ChIJud_J3pcJw4kRKAy-RBsmx4w,2.0,4.4,https://maps.google.com/?cid=10144118584234609704,"53 Broadway, Denville, NJ 07834, USA",http://www.thatchermcghees.com/denville
+Forte Pizzeria,ChIJfyfr8Wygw4kRA8Eu1K9a374,2.0,4.4,https://maps.google.com/?cid=13753811498238394627,"486 NJ-10, Randolph, NJ 07869, USA",http://www.fortepizzeria.com/
+Five Guys,ChIJrzqlvqmgw4kRelXk-B9n9Ig,2.0,4.3,https://maps.google.com/?cid=9868626070492960122,"3056 Route 10 West, Suite C-1, Denville, NJ 07834, USA",https://order.fiveguys.com/menu/denville/
+Sogo Hibachi Grill,ChIJrSeQf7wJw4kRSy7PUaJ9Qd0,2.0,4.3,https://maps.google.com/?cid=15943162291978972747,"2730 248, US-46, Denville, NJ 07834, USA",http://www.sogo.cc/
+Subway,ChIJAwMm4-UKw4kRlqC_dCxPzUI,1.0,2.0,https://maps.google.com/?cid=4813590629084799126,"220 Enterprise Dr, Rockaway, NJ 07866, USA",https://order.subway.com/en-us/restaurant/33969/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=33969&utm_campaign=evergreen-2020&y_source=1_MTQ4OTU4NzgtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+China Pavilion,ChIJAQCyLZUJw4kR2QeEt7frt3A,,4.1,https://maps.google.com/?cid=8122219627276404697,"276 E Main St, Denville, NJ 07834, USA",https://www.chinapaviliononline.com/
+Veggie Heaven,ChIJRXUIcb0Jw4kR9ltuQgxqTEQ,2.0,4.6,https://maps.google.com/?cid=4921425093695790070,"57 Bloomfield Ave, Denville, NJ 07834, USA",http://www.veggieheavennj.com/
+Classic Cafe Management Inc,ChIJkS2SUzEIw4kRPflvgep04Fg,,3.0,https://maps.google.com/?cid=6404247220663613757,"400 Interpace Pkwy, Parsippany, NJ 07054, USA",http://classiccafe.org/html/home.html
+Rockaway River Barn,ChIJRadYb9YLw4kRDVJSResF4bE,2.0,4.2,https://maps.google.com/?cid=12817532522511618573,"11 Green Pond Rd, Rockaway, NJ 07866, USA",http://www.rockawayriverbarn.com/
+Hunan Taste Chinese Restaurant,ChIJx82fbb0Jw4kR5ynQTN4hLiw,2.0,4.6,https://maps.google.com/?cid=3183519225252686311,"67 Bloomfield Ave, Denville, NJ 07834, USA",http://hunantaste.com/
+Subway,ChIJ7wqVaiMKw4kRLWX7J0gY7P8,1.0,4.1,https://maps.google.com/?cid=18441141272362837293,"170 State Rt 46 E, Rockaway, NJ 07866, USA",https://www.subway.com/en-us
+Anthony & Sons Bakery,ChIJPfuOwMAJw4kR34FzmKPrFKg,2.0,4.5,https://maps.google.com/?cid=12111564385776009695,"20 Luger Rd, Denville, NJ 07834, USA",http://anthonyandsonsbakerynj.com/
+Panera Bread,ChIJrzqlvqmgw4kRJONEQPX4yjg,2.0,4.2,https://maps.google.com/?cid=4092356943648449316,"3056 NJ-10 Suite S1, Denville, NJ 07834, USA",https://locations.panerabread.com/nj/denville/3056-state-route-10.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search
+Caffè NaVona,ChIJ81_VeiQKw4kRW9sSH2ODSXw,3.0,4.7,https://maps.google.com/?cid=8955833795749272411,"147 US-46, Rockaway, NJ 07866, USA",http://www.caffenavona.com/
+Chipotle Mexican Grill,ChIJ3dh_VfcKw4kRTG-r5N2iGQ8,1.0,4.1,https://maps.google.com/?cid=1088079858894597964,"301 Mt Hope Ave Ste 2067A, Rockaway, NJ 07866, USA",https://locations.chipotle.com/nj/rockaway/301-mt-hope-ave?utm_source=google&utm_medium=yext&utm_campaign=yext_listings
+Hibernia Diner Restaurant,ChIJBbQd1tULw4kRbYO2A42KiTc,2.0,4.3,https://maps.google.com/?cid=4001882082152711021,"9 Green Pond Rd, Rockaway, NJ 07866, USA",http://www.hiberniadiner.com/
+Subway,ChIJDX72ShOgw4kRLPA4fYT9Wjs,1.0,3.9,https://maps.google.com/?cid=4277009541620101164,"148 Center Grove Rd, Randolph, NJ 07869, USA",https://order.subway.com/en-us/restaurant/46636/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=46636&utm_campaign=evergreen-2020&y_source=1_MTQ5MDk4MjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Verde Ristorante,ChIJmV1dON8Jw4kRM2Qaat3XdIo,2.0,4.5,https://maps.google.com/?cid=9976836420500350003,"1012 Tabor Rd, Morris Plains, NJ 07950, USA",http://verderistorante.com/
+Red Robin Gourmet Burgers and Brews,ChIJX3006bELw4kRoPPi-Z4B_oI,2.0,3.8,https://maps.google.com/?cid=9438983651323999136,"301 Mt Hope Ave, Rockaway, NJ 07866, USA",https://redrobin.com/locations/rockaway
+Mario's Famous Pizza,ChIJyeZbFnkKw4kRUfWSx_dfYZA,1.0,4.0,https://maps.google.com/?cid=10403702132012414289,"140 Rte 10 West, Randolph, NJ 07869, USA",http://www.mariosfamouspizza.com/
+La Cucina,ChIJ462p2QcJw4kR1rdphFaxtRU,2.0,4.5,https://maps.google.com/?cid=1564351430727940054,"278 Diamond Spring Rd, Denville, NJ 07834, USA",http://www.lacucina-denville.com/
+Cafe metro,ChIJc1toB5gJw4kR-vLeqQHafMU,2.0,4.4,https://maps.google.com/?cid=14230488623263707898,"Diamond Spring Rd, Denville, NJ 07834, USA",http://www.thecafemetro.com/
+Thai Nam Phet,ChIJWcd-qWoKw4kRBNEedwXy9V8,2.0,4.5,https://maps.google.com/?cid=6914698908184531204,"296 US-46 A, Rockaway, NJ 07866, USA",http://www.thainamphet.com/
+Randolph Diner,ChIJH7kOUxOgw4kRDM_So1R6RU0,2.0,4.2,https://maps.google.com/?cid=5567991018257829644,"517 NJ-10 E, Randolph, NJ 07869, USA",https://www.therandolphdiner.com/
+Townsquare Diner,ChIJYaVpPegKw4kRWSoEMZaNh3o,2.0,4.2,https://maps.google.com/?cid=8829181270690114137,"320 NJ-15, Wharton, NJ 07885, USA",http://townsquare-diner.com/
+Cafe Fiori,ChIJI6a-Y2ygw4kRV1aARXv7hyk,2.0,4.5,https://maps.google.com/?cid=2992636984276571735,"477 NJ-10 STE 15, Randolph, NJ 07869, USA",
+Alexis Diner,ChIJgUn7gQkKw4kRkgjfMf2-5P0,1.0,4.3,https://maps.google.com/?cid=18294957580958501010,"3130 NJ-10, Denville, NJ 07834, USA",http://www.alexisdinernj.com/
+The Exchange,ChIJlXbSWi8Kw4kRpgp5a3x-uwo,2.0,4.2,https://maps.google.com/?cid=773350833868311206,"160 E Main St, Rockaway, NJ 07866, USA",http://www.exchangefood.com/
+Paul's Family Diner,ChIJZ4PMHrcJw4kROK2IDK_cIZ0,1.0,4.3,https://maps.google.com/?cid=11322573582573808952,"320 US-46, Mountain Lakes, NJ 07046, USA",http://www.paulsfamilydiner.com/
+Charlotte's Web Inn,ChIJ3_iX-JAKw4kRavc3Gc7FeMI,2.0,4.5,https://maps.google.com/?cid=14013167729540331370,"39 W Clinton St, Dover, NJ 07801, USA",http://www.charlotteswebinn.com/
+Olive Garden Italian Restaurant,ChIJjYV07LELw4kRg_AX_A7TudE,2.0,4.2,https://maps.google.com/?cid=15112342085930840195,"323 Mt Hope Ave, Rockaway, NJ 07866, USA",https://www.olivegarden.com/locations/nj/rockaway/rockaway-mall/1638?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_dt:20190131_sn:gmb_gt:rockaway-nj-1638_pl:locurl_rd:1505
+Starbucks,ChIJld3shJcJw4kRwRi8GvLZSdY,2.0,4.3,https://maps.google.com/?cid=15441112431270303937,"2-28 W Main St, Denville, NJ 07834, USA",https://www.starbucks.com/store-locator/store/11034/
+il Michelangelo Italian Restaurant,ChIJS_FnhJIIw4kRXcWtOckCqyM,3.0,4.7,https://maps.google.com/?cid=2570151075624371549,"91 Elcock Ave, Boonton, NJ 07005, USA",http://www.ilmichelangelo.com/
+Grato,ChIJ7Zi6rUKnw4kRXEH5585vx4Q,2.0,4.3,https://maps.google.com/?cid=9567738867817726300,"2230 NJ-10, Morris Plains, NJ 07950, USA",http://www.gratorestaurant.com/
+Pollos Pucalor,ChIJYYRBaY8Kw4kRekzhakdcbsY,1.0,4.4,https://maps.google.com/?cid=14298467328753486970,"85 E Blackwell St, Dover, NJ 07801, USA",http://www.pollospucalor.com/
+Classic Cafe Management,ChIJZRdjDXinw4kRPoaexNCO7zg,,3.3,https://maps.google.com/?cid=4102654812860876350,"6 Century Dr, Parsippany, NJ 07054, USA",http://classiccafe.org/html/home.html
+Dunkin',ChIJfTQHbZoJw4kRGAjKjoVFuA0,1.0,4.3,https://maps.google.com/?cid=988616558136395800,"125 Rte 46 E, Denville, NJ 07834, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=331283
+Bagel Bistro,ChIJy6tR13UKw4kR_wxqIMbOrLY,,4.3,https://maps.google.com/?cid=13163123161239784703,"81 NJ-10, Randolph, NJ 07869, USA",http://www.bagelbistrorandolph.com/
+China Garden,ChIJOZ0kCTsKw4kRLFjQfZJM2nc,1.0,3.2,https://maps.google.com/?cid=8636299427496089644,"179 US-46, Rockaway, NJ 07866, USA",https://chinagardennjtogo.com/
+Gencarelli Restaurant & Pizza,ChIJ3x1rTDAKw4kR-BnF-xZSurY,,4.0,https://maps.google.com/?cid=13166926719237822968,"25 W Main St, Rockaway, NJ 07866, USA",http://gencarellipizzanj.com/
+Master Wok,ChIJU6tEnfsKw4kR1Au_pHRnPmA,2.0,3.9,https://maps.google.com/?cid=6935094226874993620,"301 Mount Hope Ave Ste 2108, Rockaway, NJ 07866, USA",
+Number 1 Restaurant,ChIJ3x1rTDAKw4kRzNjcZA2zXdg,,3.7,https://maps.google.com/?cid=15590814355134666956,"25 W Main St, Rockaway, NJ 07866, USA",http://number-1-rockaway.jany.io/
+Frito-Lay Inc,ChIJZweg45QKw4kR9rfAVGypZIA,1.0,5.0,https://maps.google.com/?cid=9251705817269319670,"246 W Clinton St, Dover, NJ 07801, USA",
+Barry's Luncheonette,ChIJ3dQBmZoKw4kRnHdl6zn193k,1.0,4.5,https://maps.google.com/?cid=8788762826948048796,"3 N Warren St, Dover, NJ 07801, USA",http://www.barrysrestaurant.com/
+Tequila's 55,ChIJGV-ogo8Kw4kR74N-bDMtKJk,,4.7,https://maps.google.com/?cid=11036120585758213103,"55 E Blackwell St, Dover, NJ 07801, USA",http://www.tequilas55.com/
+Denville Dog & Grill,ChIJQW1J_bwJw4kRYBHL97El9lA,1.0,4.5,https://maps.google.com/?cid=5833891813601775968,"99 Bloomfield Ave, Denville, NJ 07834, USA",http://denvilledogandicecream.com/
+Pan Pizza,ChIJ5zK1GZAKw4kR64ji3a0Wweo,,4.6,https://maps.google.com/?cid=16915826611388057835,"44 N Sussex St, Dover, NJ 07801, USA",
+Potbelly's Riverside Cafe,ChIJp2EnLS4Kw4kRcgLwVQBzMT0,2.0,4.3,https://maps.google.com/?cid=4409431955451413106,"26 East Main Street, Rockaway, NJ 07866, USA",http://potbellysrockaway.com/
+Missy's Main Street Cafe,ChIJo1mrVS8Kw4kRPJwSVjwJQCg,1.0,4.8,https://maps.google.com/?cid=2900328314773347388,"181 E Main St, Rockaway, NJ 07866, USA",http://missysmainstreetcafe.com/
+Riviera Maya Mexican Restaurant,ChIJZVrfOiQKw4kRI2Yhs34O94I,2.0,4.4,https://maps.google.com/?cid=9437027481512142371,"116 US-46, Rockaway, NJ 07866, USA",https://www.snaptown-online.com/mobile/menu?restaurant_uid=959cdb38-1221-450d-b237-61d561d49351&coupon=
+RJ's Pizzeria,ChIJPyAaPCMKw4kRCQAu6-85GfE,,4.5,https://maps.google.com/?cid=17372980740164026377,"4046, 179 US-46, Rockaway, NJ 07866, USA",https://www.rjspizzeriamenu.com/
+Long Valley Pub & Brewery at Restaurant Village,ChIJkZQvLtWaw4kRADo6a3wVVVY,2.0,4.0,https://maps.google.com/?cid=6220902084401314304,"1 Fairmount Rd, Long Valley, NJ 07853, USA",http://restaurantvillageatlongvalley.com/long-valley-pub-and-brewery/
+Sammy's Ye Old Cider Mill,ChIJM-vNU_yYw4kR3ZJ8kQ7Ihpg,3.0,4.3,https://maps.google.com/?cid=10990691905540231901,"353 Mendham Rd W, Mendham, NJ 07945, USA",http://www.sammyscidermill.com/
+Starbucks,ChIJg6qwitGbw4kR4O1qTbAkZeI,2.0,4.2,https://maps.google.com/?cid=16313485564851187168,"450 US-206, Chester, NJ 07930, USA",https://www.starbucks.com/store-locator/store/18361/
+Gladstone Tavern,ChIJLzYLyFyXw4kR0Uj5PeeDHok,2.0,4.4,https://maps.google.com/?cid=9880479661697878225,"273 Main St, Gladstone, NJ 07934, USA",http://www.gladstonetavern.com/
+Benito's Trattoria,ChIJ0yqzd9Cbw4kRCutC02UtXe4,2.0,4.4,https://maps.google.com/?cid=17175934469220264714,"44 Main St, Chester, NJ 07930, USA",http://www.benitos-trattoria.net/
+Bagel Cafe,ChIJ54W-ItKbw4kRkvThjun2lGI,,4.6,https://maps.google.com/?cid=7103573995255100562,"2424 233, US-206, Chester, NJ 07930, USA",http://www.njbagelcafe.com/
+The Pizza Pub,ChIJIfvp2zyfw4kRhD_XIS8m3gA,2.0,4.5,https://maps.google.com/?cid=62529428702838660,"395 Dover Chester Rd, Ironia, NJ 07845, USA",http://pizzapubrestaurant.com/
+The After Char-Broil Grill & Ice Cream,ChIJBQz3ojGcw4kRVedVn97dfDY,1.0,4.4,https://maps.google.com/?cid=3926256923385915221,"195 US-206, Flanders, NJ 07836, USA",http://www.theaftergrill.com/
+Redwoods Grill & Bar,ChIJ6egoMc-bw4kRkuYVjARaPd0,2.0,4.4,https://maps.google.com/?cid=15941997231538038418,"459 Main St, Chester, NJ 07930, USA",http://redwoodsgrillandbar.com/
+Dunkin',ChIJP2VGcSaaw4kRgGcLCeo1LFo,1.0,4.3,https://maps.google.com/?cid=6497627641679144832,"112 Rte 206 South, Chester, NJ 07930, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=335433
+Dean's Natural Food Market,ChIJ631t9c2bw4kRjW8WFvgrG0E,,4.4,https://maps.google.com/?cid=4691391781358956429,"270 US-206, Chester, NJ 07930, USA",http://www.deansnaturalfoodmarket.com/
+Thai Kitchen,ChIJ__ykeNKbw4kRHnhjWxhzCY8,2.0,4.6,https://maps.google.com/?cid=10306895770663745566,"320 US-206, Chester, NJ 07930, USA",http://thaikitchenchester.com/
+Mini Mac Diner,ChIJ2-BtkpSbw4kRP_c0GxW9qBc,1.0,4.7,https://maps.google.com/?cid=1704820357308151615,"158 US-206, Chester, NJ 07930, USA",http://mini-mac-diner.poi.place/
+Vale Pizza,ChIJK0qQ8teaw4kRsKW-ODZ90IY,,4.2,https://maps.google.com/?cid=9714402068071884208,"67 E. Mill Rd, Plaza, Long Valley, NJ 07853, USA",http://www.philspizzeriamenu.com/
+Dunkin',ChIJc9bMZhOcw4kRpF2jWtWqX8w,1.0,3.9,https://maps.google.com/?cid=14726677139850223012,"295 US Highway 206, Flanders, NJ 07836, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=302666
+Istanbul Cuisine,ChIJu8CnsxScw4kRV9CvEKSIqY0,2.0,4.3,https://maps.google.com/?cid=10207840268647911511,"286 US-206, Flanders, NJ 07836, USA",https://www.istanbulcuisineflanders.com/
+Rita's Italian Ice & Frozen Custard,ChIJAQBQtBScw4kRHkwTy4pWL50,1.0,,https://maps.google.com/?cid=11326366741972601886,"286 US Highway 206, Flanders, NJ 07836, USA",http://www.flandersritas.com/
+"Black Oak Golf Club, LLC",ChIJJ_ag8Aybw4kRET57Am1rdz8,,4.7,https://maps.google.com/?cid=4573242062555266577,"169 Bartley Rd, Long Valley, NJ 07853, USA",http://www.blackoakgolfclub.com/
+Wasabi Japanese Restaurant,ChIJk8PlLT-cw4kR8aJNf4DG6kI,2.0,4.4,https://maps.google.com/?cid=4821884606247445233,"240 US-206 #8, Flanders, NJ 07836, USA",http://wasabilove.com/
+Roman Pizza,ChIJa9AMWM6bw4kRnHKQLtqHYu8,,4.4,https://maps.google.com/?cid=17249498893936259740,"81 Main St, Chester, NJ 07930, USA",
+Aztec Authentic Mexican Restaurant,ChIJ98rLgtqbw4kRLgxx-F7qL9s,,4.2,https://maps.google.com/?cid=15794100111827602478,"35 Perry St, Chester, NJ 07930, USA",http://www.aztecmexicanrestaurant.com/
+Pulled Fork BBQ,ChIJb0duuHoHxIkRp3YfvE8JzNU,,4.5,https://maps.google.com/?cid=15405698663390869159,"38 E Mill Rd, Long Valley, NJ 07853, USA",http://pulledforkbbq.com/
+Chester Diner,ChIJPd-95tGbw4kRBiXO4eZMmig,1.0,4.1,https://maps.google.com/?cid=2925735462445131014,"65 US-206, Chester, NJ 07930, USA",https://chesterdiner.wixsite.com/chesterdiner
+Bill's Luncheonette,ChIJn-CxLyOfw4kRFN0zhsK8QdY,1.0,4.7,https://maps.google.com/?cid=15438828541263994132,"455 North Rd, Chester Township, NJ 07930, USA",http://www.billsluncheonette.com/
+Marilyn's Cafe,ChIJqyi3zc-bw4kROsUU0NRx9pg,,4.5,https://maps.google.com/?cid=11022122296873895226,"21 W Main St, Chester, NJ 07930, USA",
+Red Lantern Sushi & Asian Kitchen,ChIJoy780tSaw4kRTc6Pjx6q-Rs,,4.4,https://maps.google.com/?cid=2015829356459314765,"9 W Mill Rd, Long Valley, NJ 07853, USA",http://restaurantvillageatlongvalley.com/red-lantern-restaurant/
+Jeffrey Brooks Interior Design,ChIJV0gX-dSEw4kR4AyetS31O98,,,https://maps.google.com/?cid=16085720070753225952,"54 Schooleys Mountain Rd, Long Valley, NJ 07853, USA",http://jeffrey-brooks-interior-design.business.site/
+Lucky Chinese Restaurant,ChIJjcPlLT-cw4kRhOH4BWUxQzo,,4.0,https://maps.google.com/?cid=4198253587601088900,"240 US-206, Flanders, NJ 07836, USA",
+Sally Lunn's Restaurant & Tearoom,ChIJU3JcbtCbw4kRNinVjnudxUY,2.0,4.5,https://maps.google.com/?cid=5099655307069827382,"15 Perry St, Chester, NJ 07930, USA",http://www.sallylunns.com/
+Lamplighter Restaurant & Pub,ChIJQyftM8Kbw4kRe-usMGDvlc4,2.0,4.1,https://maps.google.com/?cid=14886067339755580283,"190 W Main St, Chester, NJ 07930, USA",
+Taste of India,ChIJb8MXsxScw4kR2yKKCyy9Tdk,2.0,4.5,https://maps.google.com/?cid=15658379476306895579,"286 US-206, Flanders, NJ 07836, USA",http://www.tasteofindianj.com/
+Old Mill Tavern,ChIJidSqwbKbw4kRsovAn8Q1WBM,2.0,4.4,https://maps.google.com/?cid=1393923203281226674,"55 Rte 24, Chester, NJ 07930, USA",https://www.oldmilltavernchester.com/
+Frank's Pizza,ChIJjcPlLT-cw4kRsoJK7NYLaL0,1.0,4.3,https://maps.google.com/?cid=13648171688461501106,"240 US-206, Flanders, NJ 07836, USA",https://www.frankspizzaflanders.com/
+China House,ChIJhyVcVBOcw4kRdHWIiajjGHw,2.0,4.3,https://maps.google.com/?cid=8942147373145552244,"286 US-206 #107b, Flanders, NJ 07836, USA",https://chinahouseflandersvillage.com/
+McDonald's,ChIJWd-JXxOcw4kRqtxMd1h-oLI,1.0,3.7,https://maps.google.com/?cid=12871426653448625322,"293 Rt 206, Flanders, NJ 07836, USA",https://www.mcdonalds.com/us/en-us/location/NJ/FLANDERS/293-RT-206/7843.html?cid=RF:YXT:GMB::Clicks
+Subway,ChIJjU--nhScw4kRssNtw-ZMf4w,1.0,3.4,https://maps.google.com/?cid=10123895041357104050,"293 Rt 206 S, Flanders, NJ 07836, USA",https://order.subway.com/en-us/restaurant/23744/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=23744&utm_campaign=evergreen-2020&y_source=1_MTQ5MDMzNDItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Wendy's,ChIJCUO01dGbw4kRe1ZhXbq-1Ec,1.0,4.1,https://maps.google.com/?cid=5175971579395397243,"35 U.S. Hwy 206 S, Chester, NJ 07930, USA",https://locations.wendys.com/united-states/nj/chester/35-u.s.-hwy-206-s.?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US
+Giuseppe's Trattoria,ChIJTd_tHtKbw4kRtgKp7b4ss3E,,4.2,https://maps.google.com/?cid=8192941345659749046,"191 US-206, Chester, NJ 07930, USA",https://www.giuseppestrattoria.com/
+Valley Restaurant,ChIJfcniM9aaw4kReh5giC90SQw,1.0,4.5,https://maps.google.com/?cid=885366549255298682,"59 E Mill Rd #208, Long Valley, NJ 07853, USA",http://www.valleyrestaurantandpub.com/
+Pezzo Pizza 2,ChIJc1Ro1Neaw4kR53VJH3x3vGc,1.0,4.5,https://maps.google.com/?cid=7474980856512738791,"62 E Mill Rd, Long Valley, NJ 07853, USA",https://www.facebook.com/Pezzopizza62
+New York Pizza and Italian Restaurant,ChIJpc7jmtqbw4kRrbRRNUF_U2A,2.0,4.6,https://maps.google.com/?cid=6941031368752215213,"57 Main St # 2, Chester, NJ 07930, USA",http://nypizzachesternj.com/
+Fresco Mexican,ChIJK-D0ONqbw4kRTMBoGG67i1k,2.0,4.4,https://maps.google.com/?cid=6452456972668682316,"137 Main St, Chester, NJ 07930, USA",http://www.frescomexican.com/
+Asian Gourmet,ChIJK0qQ8teaw4kR4s7gKASsEIs,,4.0,https://maps.google.com/?cid=10020698304765021922,"67 E Mill Rd, Long Valley, NJ 07853, USA",http://www.asiangourmetlongvalley.com/
+Valentino's Pizzeria & Restaurant,ChIJWd-JXxOcw4kRGw2eSNE5EuA,1.0,4.2,https://maps.google.com/?cid=16146031185105915163,"293 US-206 #8, Flanders, NJ 07836, USA",http://www.valentinosflanders.com/
+Dunkin',ChIJT-BJxdeaw4kRwNbi0aYn08k,1.0,4.6,https://maps.google.com/?cid=14543011219148822208,"62 E Mill Rd, Long Valley, NJ 07853, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=342284
+Domo 7 Japanese Restaurant,ChIJBRzzHtKbw4kR-j21IT2J3zU,,4.3,https://maps.google.com/?cid=3881972299468193274,"189 US-206, Chester, NJ 07930, USA",http://www.domo-7.com/
+Sub Pub,ChIJ70jmZtCbw4kRZWRS4RV1sOM,1.0,4.6,https://maps.google.com/?cid=16406742179345753189,"127 Main St, Chester, NJ 07930, USA",http://subpubnj.com/
+QuickChek,ChIJXy8l7ZObw4kR5wHGDRF71pc,,3.6,https://maps.google.com/?cid=10941067657918939623,"150 US-206, Chester Township, NJ 07930, USA",http://quickchek.com/
+Ho Ho Kitchen,ChIJPZ9LIdCbw4kRChiQ3TlPWdY,,4.3,https://maps.google.com/?cid=15445463506992764938,"44 Maple Ave, Chester, NJ 07930, USA",http://hohokitchenchester.com/
+Hot Bagels abroad,ChIJjcPlLT-cw4kRq0qH9GQW5Yw,1.0,4.0,https://maps.google.com/?cid=10152545557831699115,"240 US-206, Flanders, NJ 07836, USA",https://hot-bagels-abroad-bagel-shop.business.site/?utm_source=gmb&utm_medium=referral
+Bella's,ChIJg0VNctCbw4kRWDCT7ahRan4,1.0,4.4,https://maps.google.com/?cid=9109182982292451416,"30 Main St, Chester, NJ 07930, USA",http://www.bellaspizzanj.com/
+Pren Kitchen,ChIJ6-RP2Qibw4kRcxRFf6563HE,,4.7,https://maps.google.com/?cid=8204567511040332915,"52 W Main St, Chester, NJ 07930, USA",http://prenkitchen.com/
+Chester,ChIJJ9M8tGebw4kRysQ_vqnDi74,,,https://maps.google.com/?cid=13730283022777828554,"17 Main St, Chester, NJ 07930, USA",
+Panera Bread,ChIJR5iiD6Wbw4kRxTQ78DfDZtA,2.0,3.9,https://maps.google.com/?cid=15016904652534527173,"141 US Highway 206 S, Chester, NJ 07930, USA",https://locations.panerabread.com/nj/chester/141-us-highway-206-s.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search
+Playa Bowls,ChIJ1X7Sozybw4kRnHKM4lijZbM,2.0,4.6,https://maps.google.com/?cid=12926917907590181532,"230 Rt 206 N, Chester, NJ 07930, USA",https://www.playabowls.com/
+Jersey Mike's Subs,ChIJbbXmBVObw4kRgaiMG8anKyc,1.0,4.2,https://maps.google.com/?cid=2822534060785313921,"390 Us Highway 206, Chester, NJ 07930, USA",https://www.jerseymikes.com/1106
+White Birch,ChIJAQAAAEScw4kRtfqGWjnNcTc,,4.6,https://maps.google.com/?cid=3995199990669966005,"380 US Highway 206, Flanders, NJ 07836, USA",http://whitebirchrestaurant.com/
+Golden Burrito Mexican Spot,ChIJs0qbVmucw4kR58U5nhsQAeQ,,4.1,https://maps.google.com/?cid=16429430626429027815,"286 Route 206 South, Flanders, NJ 07836, USA",https://www.orderburrito.com/
+Bento Sushi,ChIJK-gAgp-dw4kRAzCIPVSG-L0,,2.5,https://maps.google.com/?cid=13688838763760332803,"90 Bartley Flanders Rd, Flanders, NJ 07836, USA",https://www.bentosushi.com/us/
+The Market Tavern,ChIJH4WEPD-cw4kRyKFXIyHsQUc,2.0,4.2,https://maps.google.com/?cid=5134644677250097608,"240 US-206 #1, Flanders, NJ 07836, USA",https://www.markettavernflanders.com/
+"The Madison Hotel Morristown, NJ",ChIJHftI9talw4kRmWCxey2gEQk,,4.4,https://maps.google.com/?cid=653479538154627225,"1 Convent Rd, Morristown, NJ 07960, USA",http://www.themadisonhotel.com/
+Grasshopper off the Green,ChIJhU8Gqb2mw4kRlkMW6Mc5fo8,2.0,4.3,https://maps.google.com/?cid=10339765325244285846,"41-43 Morris St, Morristown, NJ 07960, USA",https://grasshoppermorristown.com/
+Rod's Steak & Seafood Grille,ChIJHftI9talw4kRrc8OXSci0MY,3.0,4.4,https://maps.google.com/?cid=14325987967125868461,"1 Convent Rd, Morristown, NJ 07960, USA",http://www.rodssteak.com/
+Ruth's Chris Steak House,ChIJ-f7dKHWnw4kRBLwq32AdLu8,4.0,4.4,https://maps.google.com/?cid=17234745125891652612,"1 Hilton Ct, Parsippany-Troy Hills, NJ 07054, USA",https://www.ruthschris.com/restaurant-locations/parsippany/?utm_source=google&utm_medium=organic&utm_campaign=local-business-listing
+The Famished Frog,ChIJlz_gbrumw4kRFcYTYBxz_8s,2.0,4.2,https://maps.google.com/?cid=14699594274468775445,"18 Washington St, Morristown, NJ 07960, USA",http://www.famishedfrog.com/
+Tabor Road Tavern,ChIJg8StYWinw4kRMFNslu1L9xg,3.0,4.4,https://maps.google.com/?cid=1798990059960816432,"510 Tabor Rd, Morris Plains, NJ 07950, USA",http://www.taborroadtavern.com/
+Mehndi,ChIJu_SHnLymw4kRq6CKadh6KzE,3.0,4.1,https://maps.google.com/?cid=3543060601759244459,"3 Speedwell Ave, Morristown, NJ 07960, USA",http://www.mehndimorristown.com/
+Allie's American Grille,ChIJ65KvIaGnw4kRt7JDBW9mOEY,,4.5,https://maps.google.com/?cid=5059906808366478007,"1401 NJ-10, Whippany, NJ 07981, USA",
+Arthur's Tavern,ChIJLYzYcCGnw4kRBVJEECwKSTY,2.0,4.5,https://maps.google.com/?cid=3911668935715738117,"700 Speedwell Ave, Morris Plains, NJ 07950, USA",http://www.arthurstavern.com/
+Ming II Restaurant,ChIJe5ajBLymw4kRnylC-ePCnek,2.0,4.2,https://maps.google.com/?cid=16833825266576009631,"3 Speedwell Ave, Morristown, NJ 07960, USA",http://www.ming2morristown.com/
+SM23,ChIJe5ajBLymw4kRefpKO4iLTWw,,4.5,https://maps.google.com/?cid=7804047146529520249,"3 Speedwell Ave, Morristown, NJ 07960, USA",http://www.sm23morristown.com/
+Blue Morel Restaurant and Wine Bar,ChIJSdYqc4ymw4kRAQ_BSxCY5hs,3.0,4.3,https://maps.google.com/?cid=2010461479425347329,"2 Whippany Rd, Morristown, NJ 07960, USA",http://bluemorel.com/
+George & Martha's American Grille,ChIJubJboL2mw4kRcMNZZ2OuftQ,2.0,4.1,https://maps.google.com/?cid=15311867525065196400,"67-71 Morris St, Morristown, NJ 07960, USA",https://www.georgeandmarthas.com/?y_source=1_MzQwMzA2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Sushi Lounge,ChIJgy1Bbrumw4kRJxxxr4fYlJ8,2.0,4.2,https://maps.google.com/?cid=11499053825859329063,"12 Schuyler Pl, Morristown, NJ 07960, USA",https://www.sushiloungenj.com/
+Il Capriccio,ChIJ5xzMLdCnw4kRFk-MyDV4stw,3.0,4.8,https://maps.google.com/?cid=15902905406591880982,"633 NJ-10, Whippany, NJ 07981, USA",http://www.ilcapriccio.com/
+Chipotle Mexican Grill,ChIJ7RPacvKlw4kRuZUwvoxCtx8,1.0,4.1,https://maps.google.com/?cid=2285368508167525817,"6 Main St, Madison, NJ 07940, USA",https://locations.chipotle.com/nj/madison/6-main-st?utm_source=google&utm_medium=yext&utm_campaign=yext_listings
+Nikko,ChIJT4Tq4senw4kRNckMkAOjrWg,2.0,4.5,https://maps.google.com/?cid=7542864186612435253,"881 Route 10 East, Whippany, NJ 07981, USA",http://www.nikkonj.com/
+Pazzo Pazzo,ChIJlaNpVbmmw4kRv5qm1zFI5QM,,2.9,https://maps.google.com/?cid=280709930689141439,"74 Speedwell Ave, Morristown, NJ 07960, USA",
+Cinnamon,ChIJ8UdTNlGnw4kRfDz6N0jepj0,2.0,4.2,https://maps.google.com/?cid=4442482484205730940,"2920 NJ-10, Morris Plains, NJ 07950, USA",http://www.cinnamonindianrestaurant.com/
+Roots Steakhouse,ChIJvcErY7umw4kRehfbJzWbkHk,4.0,4.4,https://maps.google.com/?cid=8759671927839856506,"40 W Park Pl, Morristown, NJ 07960, USA",http://www.rootssteakhouse.com/
+Chef Fredy's Table,ChIJIRE5rb6mw4kRaRLzo9u3qPQ,2.0,4.5,https://maps.google.com/?cid=17629542895318143593,"78 Speedwell Ave, Morristown, NJ 07960, USA",http://www.cheffredystable.com/
+Origin Thai 2,ChIJVW-Clbymw4kRDT44ByxGa7I,2.0,4.2,https://maps.google.com/?cid=12856446716172844557,"10 South St, Morristown, NJ 07960, USA",http://www.originthai2.com/
+Gary's Wine & Marketplace,ChIJP0EOavOlw4kRB2fsQCuepQE,2.0,4.8,https://maps.google.com/?cid=118674873805203207,"121 Main St, Madison, NJ 07940, USA",http://www.garyswine.com/
+Tiffs Grill & Ale House,ChIJ7wsYuN6mw4kR-KGd8iP3qwk,2.0,4.2,https://maps.google.com/?cid=696922301125206520,"231 Speedwell Ave, Morris Plains, NJ 07950, USA",http://www.tiffsmorrisplains.com/
+Shanghai Jazz Restaurant & Bar,ChIJt7UGb_Klw4kR6Z1O5YV7ZG8,2.0,4.6,https://maps.google.com/?cid=8026676250889068009,"24 Main St, Madison, NJ 07940, USA",http://www.shanghaijazz.com/
+Mintea Sushi Asian Bistro,ChIJKzSwO6unw4kRFnzioOkQpMY,2.0,4.6,https://maps.google.com/?cid=14313584111302900758,"99 Ridgedale Ave, Cedar Knolls, NJ 07927, USA",https://www.minteacedarknolls.com/
+Urban Table,ChIJTyRvn7ymw4kRWFTDCYzTRmY,2.0,4.1,https://maps.google.com/?cid=7369810438651073624,"40 W Park Pl, Morristown, NJ 07960, USA",http://www.urbantablerestaurant.com/
+L'Allegria,ChIJ4UWRPPOlw4kREva2ddbIL2Y,3.0,4.5,https://maps.google.com/?cid=7363324739197531666,"11 Prospect St, Madison, NJ 07940, USA",http://lallegria.com/
+End of Elm,ChIJo1-fVZamw4kRjmEKlZstyrQ,2.0,4.4,https://maps.google.com/?cid=13027275018366247310,"140 Morris St, Morristown, NJ 07960, USA",http://endofelm.com/
+The Grand Cafe,ChIJn6Gqdbumw4kRI3Sj3jj_gi0,,4.4,https://maps.google.com/?cid=3279464098397647907,"42 Washington St, Morristown, NJ 07960, USA",http://www.thegrandcafe.com/
+Brookside Diner & Restaurant,ChIJS-rqvM-nw4kRS7RIJZlA3qs,1.0,4.3,https://maps.google.com/?cid=12384407051815138379,"699 NJ-10, Whippany, NJ 07981, USA",http://www.brooksidediner.com/
+Hibiscus island Grille,ChIJ-4IAp56mw4kRAkYQGMmb9qs,2.0,4.2,https://maps.google.com/?cid=12391262712750949890,"21 Spring St, Morristown, NJ 07960, USA",http://www.hibiscuscuisine.com/
+Classic Cafe Management,ChIJZRdjDXinw4kRPoaexNCO7zg,,3.3,https://maps.google.com/?cid=4102654812860876350,"6 Century Dr, Parsippany, NJ 07054, USA",http://classiccafe.org/html/home.html
+Olive Lucy's Kitchen Table,ChIJuWSmALymw4kRXtKxwoZzH8I,3.0,4.2,https://maps.google.com/?cid=13988025990265295454,"52 Speedwell Ave, Morristown, NJ 07960, USA",http://www.olivelucys.com/
+Marie's Italian Specialties,ChIJV98TTqKlw4kRd0LKyluNOkM,,4.3,https://maps.google.com/?cid=4844339774574183031,"641 Shunpike Rd, Chatham Township, NJ 07928, USA",http://www.mariesdeli.com/
+Morris Pizzeria,ChIJfZbThr2mw4kRonDrUbW6eYw,1.0,4.1,https://maps.google.com/?cid=10122326925418131618,"161 South St, Morristown, NJ 07960, USA",https://morrispizzeria.com/
+Wendy's,ChIJz-d8jHKnw4kRP2ea64bKV6o,1.0,4.0,https://maps.google.com/?cid=12274501990248769343,"1860 NJ-10, Parsippany-Troy Hills, NJ 07054, USA",https://locations.wendys.com/united-states/nj/parsippany/1860-route-10?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US
+Nicky’s Firehouse Italian Restaurant & Pizzeria,ChIJUdEMVvKlw4kRJtbuAf9CMLA,2.0,4.3,https://maps.google.com/?cid=12695721012573951526,"15 Central Ave, Madison, NJ 07940, USA",http://www.nickysfirehouse.com/
+Il Mondo Vecchio,ChIJbXFncvKlw4kR0tJ0Ut7Qtng,3.0,4.4,https://maps.google.com/?cid=8698369383597396690,"72 Main St #1, Madison, NJ 07940, USA",http://www.ilmondovecchio.com/
+Millie’s Old World Meatballs & Pizza,ChIJ3d-JyLymw4kRPbPoogG7oso,2.0,4.3,https://maps.google.com/?cid=14601438557591089981,"60 South St, Morristown, NJ 07960, USA",http://milliesoldworld.com/
+Starbucks,ChIJ8acnyLyow4kRb_wrTFHmEZM,2.0,4.3,https://maps.google.com/?cid=10597504635024178287,"184 Columbia Turnpike, Florham Park, NJ 07932, USA",https://www.starbucks.com/store-locator/store/11693/
+Aikou restaurant,ChIJgemOJ72mw4kRLTalGi5h0SQ,2.0,4.3,https://maps.google.com/?cid=2653008506141357613,"54 South St, Morristown, NJ 07960, USA",http://www.aikoumorristown.com/
+Starbucks,ChIJ38MrY7umw4kRPydTSuuidmM,2.0,4.2,https://maps.google.com/?cid=7167094988454700863,"40 W Park Pl, Morristown, NJ 07960, USA",https://www.starbucks.com/store-locator/store/63068/
+Tashmoo Restaurant & Bar,ChIJAWizs7ymw4kRCAPipzgUNkk,2.0,4.3,https://maps.google.com/?cid=5275426247078445832,"8 Dehart St, Morristown, NJ 07960, USA",http://www.tashmoobar.com/
+Trattoria Toscana,ChIJ_Y3KAtGnw4kRBDRdptFyIl4,2.0,4.5,https://maps.google.com/?cid=6783110233538245636,"554 NJ-10, Whippany, NJ 07981, USA",http://trattoriatoscanawhippany.com/
+Starbucks,ChIJd3hFjaKlw4kRf94x4uT6De4,2.0,4.0,https://maps.google.com/?cid=17153642416678493823,"640 Shunpike Rd, Chatham, NJ 07928, USA",https://www.starbucks.com/store-locator/store/1005610/
+Panera Bread,ChIJfWpUQ6Oow4kRVbGGHFPtvJY,2.0,4.0,https://maps.google.com/?cid=10861817342527451477,"187 Columbia Turnpike, Florham Park, NJ 07932, USA",https://locations.panerabread.com/nj/florham-park/187-columbia-turnpike.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search
+Dunkin',ChIJBSXPpr2mw4kRrFvYv8e7Th4,1.0,4.1,https://maps.google.com/?cid=2183889335912782764,"59-61 Morris St, Morristown, NJ 07960, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=331425
+The Thirsty Turtle,ChIJKYiqTKOow4kR0-cwSJSSaJo,2.0,4.4,https://maps.google.com/?cid=11126304044982790099,"186 Columbia Turnpike, Florham Park, NJ 07932, USA",http://www.thirstyturtle.com/
+McDonald's,ChIJi4Q31vamw4kR5TZt40rFWB8,1.0,3.7,https://maps.google.com/?cid=2258772138560141029,"35 Morris County Mall, Cedar Knolls, NJ 07927, USA",https://www.mcdonalds.com/us/en-us/location/NJ/CEDAR-KNOLLS/35-MORRIS-COUNTY-MALL/25570.html?cid=RF:YXT:GMB::Clicks
+Portofino's Restaurant,ChIJybfoN7emw4kRiZAsk4OUy_4,2.0,4.4,https://maps.google.com/?cid=18359931598736756873,"29 Mills St, Morristown, NJ 07960, USA",http://www.portofinosrestaurant.com/
+Tito's Burritos & Wings Morristown,ChIJpY5NcLumw4kRD6oIAfSFSWc,1.0,4.2,https://maps.google.com/?cid=7442627142242314767,"26 Washington St #1, Morristown, NJ 07960, USA",https://www.titosburritos.com/location/titos-morristown/
+Rocco's Tuscany Bar and Grill,ChIJY7AgO_Klw4kROqeKhjmkpyc,2.0,4.3,https://maps.google.com/?cid=2857433055567193914,"30 Cook Ave, Madison, NJ 07940, USA",http://www.roccosmadison.com/
+Domino's Pizza,ChIJGx6e1bimw4kRdNTIdK8OUvg,1.0,3.8,https://maps.google.com/?cid=17893380416237786228,"147 Speedwell Ave, Morristown, NJ 07960, USA",https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps
+Dunkin',ChIJV98TTqKlw4kRw8iiGY1MVsE,1.0,4.2,https://maps.google.com/?cid=13931406666221406403,"641 Shunpike Rd, Chatham Township, NJ 07928, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=348952
+Grato,ChIJ7Zi6rUKnw4kRXEH5585vx4Q,2.0,4.3,https://maps.google.com/?cid=9567738867817726300,"2230 NJ-10, Morris Plains, NJ 07950, USA",http://www.gratorestaurant.com/
+Lin's Palace,ChIJmSIIBrymw4kRGJDkEW6WU-M,2.0,4.2,https://maps.google.com/?cid=16380601669167386648,"40 Speedwell Ave, Morristown, NJ 07960, USA",
+Verde Ristorante,ChIJmV1dON8Jw4kRM2Qaat3XdIo,2.0,4.5,https://maps.google.com/?cid=9976836420500350003,"1012 Tabor Rd, Morris Plains, NJ 07950, USA",http://verderistorante.com/
+Molly Malone's,ChIJiz9JFtanw4kRIC5eMvyZSOc,2.0,4.2,https://maps.google.com/?cid=16665739729540361760,"352 NJ-10, Whippany, NJ 07981, USA",http://www.mollymaloneswhippany.com/
+Romanelli's Pizza & Italian Eatery,ChIJq0XeJvOlw4kRm_GNJ1xrcb0,1.0,4.2,https://maps.google.com/?cid=13650809989081461147,"42 Lincoln Pl, Madison, NJ 07940, USA",https://www.romanellispizza.com/
+Bonefish Grill,ChIJFxC6emkHw4kRpBJmGqzTVU4,2.0,4.3,https://maps.google.com/?cid=5644650444109517476,"28 US-46, Pine Brook, NJ 07058, USA",https://www.bonefishgrill.com/
+Ruth's Chris Steak House,ChIJ-f7dKHWnw4kRBLwq32AdLu8,4.0,4.4,https://maps.google.com/?cid=17234745125891652612,"1 Hilton Ct, Parsippany-Troy Hills, NJ 07054, USA",https://www.ruthschris.com/restaurant-locations/parsippany/?utm_source=google&utm_medium=organic&utm_campaign=local-business-listing
+Tabor Road Tavern,ChIJg8StYWinw4kRMFNslu1L9xg,3.0,4.4,https://maps.google.com/?cid=1798990059960816432,"510 Tabor Rd, Morris Plains, NJ 07950, USA",http://www.taborroadtavern.com/
+Allie's American Grille,ChIJ65KvIaGnw4kRt7JDBW9mOEY,,4.5,https://maps.google.com/?cid=5059906808366478007,"1401 NJ-10, Whippany, NJ 07981, USA",
+Chand Palace,ChIJS66HABoIw4kRnI6Y7bbv7eM,2.0,4.1,https://maps.google.com/?cid=16424046985039351452,"257 Littleton Rd, Parsippany, NJ 07054, USA",http://parsippany.chandpalace.com/
+Subway,ChIJ6YlEVO8Jw4kR4n_aDP4NbIc,1.0,3.4,https://maps.google.com/?cid=9758189877393522658,"559 E Main St Store # 2, Denville, NJ 07834, USA",https://order.subway.com/en-us/restaurant/21972/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=21972&utm_campaign=evergreen-2020&y_source=1_MTQ5MTIyMjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Outback Steakhouse,ChIJIRHSouQHw4kRyO_XtcGuqLA,2.0,4.3,https://maps.google.com/?cid=12729616493765455816,"1300 US-46 west, Parsippany-Troy Hills, NJ 07054, USA",https://www.outback.com/
+Il Capriccio,ChIJ5xzMLdCnw4kRFk-MyDV4stw,3.0,4.8,https://maps.google.com/?cid=15902905406591880982,"633 NJ-10, Whippany, NJ 07981, USA",http://www.ilcapriccio.com/
+Classic Cafe Management Inc,ChIJkS2SUzEIw4kRPflvgep04Fg,,3.0,https://maps.google.com/?cid=6404247220663613757,"400 Interpace Pkwy, Parsippany, NJ 07054, USA",http://classiccafe.org/html/home.html
+Applebee's Grill + Bar,ChIJj7QJJu0Hw4kR2le40uoUYok,2.0,4.1,https://maps.google.com/?cid=9899497929703970778,"1057 US-46, Parsippany, NJ 07054, USA",https://restaurants.applebees.com/en-us/nj/parsippany/1057-route-46-east-93023?utm_source=googlemybusiness&utm_medium=referral&utm_campaign=Google%20My%20Business
+Casa Bella,ChIJl_hUu7sJw4kRR_KwUyifn_g,2.0,4.5,https://maps.google.com/?cid=17915212838254735943,"300 US-46, Denville, NJ 07834, USA",http://casabella46.com/
+LongHorn Steakhouse,ChIJi6VtvpAHw4kR3ITCMQzyvsk,2.0,4.4,https://maps.google.com/?cid=14537322781386900700,"690 US-46, Parsippany-Troy Hills, NJ 07054, USA",https://www.longhornsteakhouse.com/locations/nj/parsippany/parsippany/5162?cmpid=br:lh_ag:ie_ch:loc_ca:LHGMB_dt:20190131_sn:gmb_gt:parsippany-nj-5162_pl:locurl_rd:1122
+Subway,ChIJievJBCEGw4kRZYZTC17n0Ow,1.0,3.3,https://maps.google.com/?cid=17064393379209774693,"300 Wootton St, Boonton, NJ 07005, USA",https://order.subway.com/en-us/restaurant/35346/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=35346&utm_campaign=evergreen-2020&y_source=1_MTQ5MTYyOTQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Arthur's Tavern,ChIJLYzYcCGnw4kRBVJEECwKSTY,2.0,4.5,https://maps.google.com/?cid=3911668935715738117,"700 Speedwell Ave, Morris Plains, NJ 07950, USA",http://www.arthurstavern.com/
+Reservoir Tavern,ChIJQ3G7f34Iw4kR_AlFPbjV3GI,2.0,4.5,https://maps.google.com/?cid=7123803697871915516,"92 Parsippany Blvd, Boonton, NJ 07005, USA",http://www.therestavern.com/
+Eccola,ChIJ61Anqu0Hw4kRIYBKLpH9gEE,2.0,4.5,https://maps.google.com/?cid=4720051209472999457,"1082 US-46, Parsippany, NJ 07054, USA",http://www.eccolarestaurantnj.com/
+Cinnamon,ChIJ8UdTNlGnw4kRfDz6N0jepj0,2.0,4.2,https://maps.google.com/?cid=4442482484205730940,"2920 NJ-10, Morris Plains, NJ 07950, USA",http://www.cinnamonindianrestaurant.com/
+Thatcher McGhee's Denville,ChIJud_J3pcJw4kRKAy-RBsmx4w,2.0,4.4,https://maps.google.com/?cid=10144118584234609704,"53 Broadway, Denville, NJ 07834, USA",http://www.thatchermcghees.com/denville
+Sogo Hibachi Grill,ChIJrSeQf7wJw4kRSy7PUaJ9Qd0,2.0,4.3,https://maps.google.com/?cid=15943162291978972747,"2730 248, US-46, Denville, NJ 07834, USA",http://www.sogo.cc/
+Don Pepe II,ChIJ33sWp24Hw4kRr0FMmGGhxp4,2.0,4.5,https://maps.google.com/?cid=11441009343920357807,"21 Bloomfield Ave, Pine Brook, NJ 07058, USA",http://donpepeii.com/home/
+Locanda Vecchia,ChIJ2SDsZ2wGw4kRO2TjtkyosS4,3.0,4.3,https://maps.google.com/?cid=3364655444061807675,"167 Main Rd, Montville, NJ 07045, USA",http://locandavecchia.com/
+Subway,ChIJFbKzLR8Iw4kRORaU0tsqtj4,1.0,4.0,https://maps.google.com/?cid=4518846399731996217,"105 Parsippany Rd, Parsippany-Troy Hills, NJ 07054, USA",https://order.subway.com/en-us/restaurant/25827/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=25827&utm_campaign=evergreen-2020&y_source=1_MTQ5MDkyMTktNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Sharky's West,ChIJ62yyZJsIw4kRD8SpBwE3QZU,2.0,4.2,https://maps.google.com/?cid=10754937862700516367,"108 Boonton Ave, Boonton, NJ 07005, USA",http://www.sharkyswingsnj.com/
+China Pavilion,ChIJAQCyLZUJw4kR2QeEt7frt3A,,4.1,https://maps.google.com/?cid=8122219627276404697,"276 E Main St, Denville, NJ 07834, USA",https://www.chinapaviliononline.com/
+Nikko,ChIJT4Tq4senw4kRNckMkAOjrWg,2.0,4.5,https://maps.google.com/?cid=7542864186612435253,"881 Route 10 East, Whippany, NJ 07981, USA",http://www.nikkonj.com/
+Veggie Heaven,ChIJRXUIcb0Jw4kR9ltuQgxqTEQ,2.0,4.6,https://maps.google.com/?cid=4921425093695790070,"57 Bloomfield Ave, Denville, NJ 07834, USA",http://www.veggieheavennj.com/
+Marakesh Restaurant,ChIJadLF2XcHw4kR4zX4en4cBIE,2.0,4.4,https://maps.google.com/?cid=9296586860354090467,"321 US-46, Parsippany, NJ 07054, USA",http://www.marakesh.com/
+Spice Grill,ChIJr8mlBD4Iw4kRTdbmeYFavYY,2.0,4.1,https://maps.google.com/?cid=9709015883823109709,"111 US-46, Parsippany-Troy Hills, NJ 07054, USA",https://spicegrillparsippany.com/
+Luigi's Italian Restaurant & Bar,ChIJcQ7hu0qow4kRvf6ZBtUQbwM,2.0,4.6,https://maps.google.com/?cid=247435011653500605,"434 Ridgedale Ave, East Hanover, NJ 07936, USA",http://www.luigisrestaurantnj.com/
+Domino's Pizza,ChIJqf47DxoIw4kRmbUq7sFanH0,1.0,2.5,https://maps.google.com/?cid=9051209140078818713,"199 Littleton Rd, Parsippany-Troy Hills, NJ 07054, USA",https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps
+Hunan Taste Chinese Restaurant,ChIJx82fbb0Jw4kR5ynQTN4hLiw,2.0,4.6,https://maps.google.com/?cid=3183519225252686311,"67 Bloomfield Ave, Denville, NJ 07834, USA",http://hunantaste.com/
+KHAN MARKET,ChIJxzPcOncHw4kReO-mprRMZ0M,,3.8,https://maps.google.com/?cid=4856935061916151672,"142 US-46, Parsippany-Troy Hills, NJ 07054, USA",
+Classic Cafe Management,ChIJZRdjDXinw4kRPoaexNCO7zg,,3.3,https://maps.google.com/?cid=4102654812860876350,"6 Century Dr, Parsippany, NJ 07054, USA",http://classiccafe.org/html/home.html
+Anthony & Sons Bakery,ChIJPfuOwMAJw4kR34FzmKPrFKg,2.0,4.5,https://maps.google.com/?cid=12111564385776009695,"20 Luger Rd, Denville, NJ 07834, USA",http://anthonyandsonsbakerynj.com/
+Don Pepe Steakhouse,ChIJ-5iPQUEHw4kRgicGgpOu98M,2.0,4.4,https://maps.google.com/?cid=14120947105208346498,"58 West, US-46, Pine Brook, NJ 07058, USA",http://www.donpepesteakhouse.com/
+Gourmet Cafe,ChIJdb-Q2eQHw4kRyJMEJWvsRCk,2.0,4.7,https://maps.google.com/?cid=2973761598898082760,"136 Baldwin Rd, Parsippany-Troy Hills, NJ 07054, USA",http://www.gourmetcafenj.com/
+il Michelangelo Italian Restaurant,ChIJS_FnhJIIw4kRXcWtOckCqyM,3.0,4.7,https://maps.google.com/?cid=2570151075624371549,"91 Elcock Ave, Boonton, NJ 07005, USA",http://www.ilmichelangelo.com/
+Brookside Diner & Restaurant,ChIJS-rqvM-nw4kRS7RIJZlA3qs,1.0,4.3,https://maps.google.com/?cid=12384407051815138379,"699 NJ-10, Whippany, NJ 07981, USA",http://www.brooksidediner.com/
+Verde Ristorante,ChIJmV1dON8Jw4kRM2Qaat3XdIo,2.0,4.5,https://maps.google.com/?cid=9976836420500350003,"1012 Tabor Rd, Morris Plains, NJ 07950, USA",http://verderistorante.com/
+Mintea Sushi Asian Bistro,ChIJKzSwO6unw4kRFnzioOkQpMY,2.0,4.6,https://maps.google.com/?cid=14313584111302900758,"99 Ridgedale Ave, Cedar Knolls, NJ 07927, USA",https://www.minteacedarknolls.com/
+Jersey Mike's Subs,ChIJ63FrQgEIw4kR9sITj2iHsK8,1.0,4.4,https://maps.google.com/?cid=12659767435685249782,"317 Smith Rd, Parsippany-Troy Hills, NJ 07054, USA",https://www.jerseymikes.com/1030
+Keo Ku Restaurant,ChIJT7PApHcHw4kRQsi9e25byHo,2.0,4.5,https://maps.google.com/?cid=8847421998049904706,"245 US-46, Parsippany-Troy Hills, NJ 07054, USA",https://koreanbbqnewjersey.com/index.php
+Kabab Paradise,ChIJIaKw47cHw4kRyL6CmTKFowU,1.0,4.5,https://maps.google.com/?cid=406314843763818184,"76 N Beverwyck Rd # 2, Lake Hiawatha, NJ 07034, USA",http://kababparadise.com/
+Don Jose Mexican Restaurant East Hanover NJ,ChIJy534e_aow4kRd86HxUvt4gA,2.0,4.2,https://maps.google.com/?cid=63874254428950135,"200 NJ-10 #7, East Hanover, NJ 07936, USA",http://www.donjosemexican.com/
+Wendy's,ChIJz-d8jHKnw4kRP2ea64bKV6o,1.0,4.0,https://maps.google.com/?cid=12274501990248769343,"1860 NJ-10, Parsippany-Troy Hills, NJ 07054, USA",https://locations.wendys.com/united-states/nj/parsippany/1860-route-10?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US
+Trattoria Toscana,ChIJ_Y3KAtGnw4kRBDRdptFyIl4,2.0,4.5,https://maps.google.com/?cid=6783110233538245636,"554 NJ-10, Whippany, NJ 07981, USA",http://trattoriatoscanawhippany.com/
+IHOP,ChIJj4DwA5EHw4kRXwc-SjN1Vzg,1.0,4.3,https://maps.google.com/?cid=4059842452247152479,"792 US-46, Parsippany-Troy Hills, NJ 07054, USA",https://restaurants.ihop.com/en-us/nj/parsippany/breakfast-792-route-46-4685?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+Dunkin',ChIJ644nfpEHw4kRESfcM5iImJI,1.0,4.1,https://maps.google.com/?cid=10563343113283970833,"820 US-46, Parsippany-Troy Hills, NJ 07054, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=302337
+La Cucina,ChIJ462p2QcJw4kR1rdphFaxtRU,2.0,4.5,https://maps.google.com/?cid=1564351430727940054,"278 Diamond Spring Rd, Denville, NJ 07834, USA",http://www.lacucina-denville.com/
+Taco Bell,ChIJiT_tGOMHw4kRcczCMdvIj1Y,1.0,4.0,https://maps.google.com/?cid=6237424852689669233,"1560 US-46, Parsippany-Troy Hills, NJ 07054, USA",https://locations.tacobell.com/nj/parsippany/1560-route-46.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=028939&utm_content=website&y_source=1_NjE0NjA3MS03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D
+Sakura Hibachi Steak House,ChIJPXce45IHw4kRrigGzq8USWg,2.0,4.3,https://maps.google.com/?cid=7514560198552725678,"949 US-46, Parsippany-Troy Hills, NJ 07054, USA",http://www.sakuranj.com/
+The Godfather Brick Oven Pizzeria,ChIJy534e_aow4kRyjEZkdK4lV8,2.0,4.2,https://maps.google.com/?cid=6887614419650032074,"200 NJ-10 #3, East Hanover, NJ 07936, USA",http://www.godfatherofeasthanover.com/
+Pasquale's,ChIJ6dwwLJ0Iw4kRzikiiABd5Xw,1.0,4.4,https://maps.google.com/?cid=8999701687235127758,"307 Main St #1, Boonton, NJ 07005, USA",http://pasqualesboonton.com/
+Cafe metro,ChIJc1toB5gJw4kR-vLeqQHafMU,2.0,4.4,https://maps.google.com/?cid=14230488623263707898,"Diamond Spring Rd, Denville, NJ 07834, USA",http://www.thecafemetro.com/
+Ravello,ChIJWTez38Gpw4kRWHAv76CB4Ws,,4.5,https://maps.google.com/?cid=7773636960025800792,"138 Eagle Rock Ave, East Hanover, NJ 07936, USA",http://www.ravellobanquets.com/
+Paul's Family Diner,ChIJZ4PMHrcJw4kROK2IDK_cIZ0,1.0,4.3,https://maps.google.com/?cid=11322573582573808952,"320 US-46, Mountain Lakes, NJ 07046, USA",http://www.paulsfamilydiner.com/
+Grato,ChIJ7Zi6rUKnw4kRXEH5585vx4Q,2.0,4.3,https://maps.google.com/?cid=9567738867817726300,"2230 NJ-10, Morris Plains, NJ 07950, USA",http://www.gratorestaurant.com/
+Panda Wok,ChIJUw0Pqh8Iw4kRHxYtTnAK3zg,1.0,3.9,https://maps.google.com/?cid=4098005663394633247,"184 Parsippany Rd, Parsippany-Troy Hills, NJ 07054, USA",https://pandawokparsippany.com/
+Molly Malone's,ChIJiz9JFtanw4kRIC5eMvyZSOc,2.0,4.2,https://maps.google.com/?cid=16665739729540361760,"352 NJ-10, Whippany, NJ 07981, USA",http://www.mollymaloneswhippany.com/
+Red Barn Restaurant,ChIJzVnD84cGw4kReYeF0TZXCss,1.0,4.6,https://maps.google.com/?cid=14630602232421517177,"446 Main Rd #5, Towaco, NJ 07082, USA",http://www.redbarnchicks.com/
+"The Madison Hotel Morristown, NJ",ChIJHftI9talw4kRmWCxey2gEQk,,4.4,https://maps.google.com/?cid=653479538154627225,"1 Convent Rd, Morristown, NJ 07960, USA",http://www.themadisonhotel.com/
+The Grand Summit Hotel,ChIJz6uaNLGvw4kRuHXk1y6iMn0,,4.0,https://maps.google.com/?cid=9021451325650793912,"570 Springfield Ave, Summit, NJ 07901, USA",http://www.grandsummit.com/
+The HAT Tavern,ChIJz6uaNLGvw4kRy1bDyXsNiFY,2.0,4.0,https://maps.google.com/?cid=6235248509411612363,"570 Springfield Ave, Summit, NJ 07901, USA",http://www.hattavern.com/
+Rod's Steak & Seafood Grille,ChIJHftI9talw4kRrc8OXSci0MY,3.0,4.4,https://maps.google.com/?cid=14325987967125868461,"1 Convent Rd, Morristown, NJ 07960, USA",http://www.rodssteak.com/
+Roots Steakhouse,ChIJBZF7rbKvw4kRM476xpEtYeU,,4.6,https://maps.google.com/?cid=16528542211558247987,"401 Springfield Ave, Summit, NJ 07901, USA",http://www.rootssteakhouse.com/
+Grasshopper off the Green,ChIJhU8Gqb2mw4kRlkMW6Mc5fo8,2.0,4.3,https://maps.google.com/?cid=10339765325244285846,"41-43 Morris St, Morristown, NJ 07960, USA",https://grasshoppermorristown.com/
+Scalini Fedeli,ChIJa8mzRg6vw4kRf1jMjKnNUPs,3.0,4.6,https://maps.google.com/?cid=18109200229752133759,"63 Main St, Chatham, NJ 07928, USA",http://www.scalinifedeli.com/
+Huntley Taverne,ChIJW8kVUkOuw4kRifm1POGg7a0,3.0,4.4,https://maps.google.com/?cid=12532850227288603017,"3 Morris Ave, Summit, NJ 07901, USA",http://www.thehuntleytaverne.com/
+Bacci Brick Oven & Italian Grill,ChIJzaR8Hfivw4kRpfA7WYumgtU,1.0,4.3,https://maps.google.com/?cid=15385042394478801061,"1260 Springfield Ave, New Providence, NJ 07974, USA",
+Benihana,ChIJ04HGrl-uw4kRa-3UFYi2-po,3.0,3.9,https://maps.google.com/?cid=11167438921616649579,"840 Morris Tpke, Short Hills, NJ 07078, USA",http://www.benihana.com/locations/shorthills-nj-sh
+Sarku Japan,ChIJdUO9sCipw4kRq3GR69sYZAo,1.0,3.8,https://maps.google.com/?cid=748750770879426987,"112 Sunrise Hwy, Livingston, NJ 07039, USA",https://www.sarkujapan.com/
+Blue Morel Restaurant and Wine Bar,ChIJSdYqc4ymw4kRAQ_BSxCY5hs,3.0,4.3,https://maps.google.com/?cid=2010461479425347329,"2 Whippany Rd, Morristown, NJ 07960, USA",http://bluemorel.com/
+The Famished Frog,ChIJlz_gbrumw4kRFcYTYBxz_8s,2.0,4.2,https://maps.google.com/?cid=14699594274468775445,"18 Washington St, Morristown, NJ 07960, USA",http://www.famishedfrog.com/
+Legal Sea Foods,ChIJBxBOuRyvw4kRjrqGUcTJpRs,3.0,4.1,https://maps.google.com/?cid=1992220255199869582,"1200 Morris Turnpike, Route 24 & JFK Parkway The Mall at, Short Hills, NJ 07078, USA",https://www.legalseafoods.com/restaurants/short-hills-the-mall-at-short-hills-161
+Gary's Wine & Marketplace,ChIJP0EOavOlw4kRB2fsQCuepQE,2.0,4.8,https://maps.google.com/?cid=118674873805203207,"121 Main St, Madison, NJ 07940, USA",http://www.garyswine.com/
+Chipotle Mexican Grill,ChIJ7RPacvKlw4kRuZUwvoxCtx8,1.0,4.1,https://maps.google.com/?cid=2285368508167525817,"6 Main St, Madison, NJ 07940, USA",https://locations.chipotle.com/nj/madison/6-main-st?utm_source=google&utm_medium=yext&utm_campaign=yext_listings
+Chipotle Mexican Grill,ChIJia24Hfyow4kRrMWypYFnNrs,1.0,4.1,https://maps.google.com/?cid=13490083540363298220,"368 NJ-10, East Hanover, NJ 07936, USA",https://locations.chipotle.com/nj/east-hanover/368-state-route-10?utm_source=google&utm_medium=yext&utm_campaign=yext_listings
+Fiorino Ristorante & Bar,ChIJL_uxyrKvw4kRfijETYJJv1I,3.0,4.6,https://maps.google.com/?cid=5962565255661103230,"38 Maple St, Summit, NJ 07901, USA",http://fiorino.com/
+Restaurant Serenade,ChIJuUxIbQ6vw4kRMduCGtTgO_g,3.0,4.6,https://maps.google.com/?cid=17887137546614528817,"6 Roosevelt Ave, Chatham, NJ 07928, USA",https://www.restaurantserenade.com/
+Mehndi,ChIJu_SHnLymw4kRq6CKadh6KzE,3.0,4.1,https://maps.google.com/?cid=3543060601759244459,"3 Speedwell Ave, Morristown, NJ 07960, USA",http://www.mehndimorristown.com/
+Broadway Diner,ChIJzSWC3wmvw4kRQQlhAYEJsrI,1.0,4.1,https://maps.google.com/?cid=12876364734284237121,"55 River Rd, Summit, NJ 07901, USA",http://www.broadwaydinersummit.com/
+L'Allegria,ChIJ4UWRPPOlw4kREva2ddbIL2Y,3.0,4.5,https://maps.google.com/?cid=7363324739197531666,"11 Prospect St, Madison, NJ 07940, USA",http://lallegria.com/
+Shanghai Jazz Restaurant & Bar,ChIJt7UGb_Klw4kR6Z1O5YV7ZG8,2.0,4.6,https://maps.google.com/?cid=8026676250889068009,"24 Main St, Madison, NJ 07940, USA",http://www.shanghaijazz.com/
+Marco Polo Restaurant & Tavern,ChIJdSiRkqavw4kRI0Zqujyg-hg,2.0,4.3,https://maps.google.com/?cid=1799927183773943331,"527 Morris Ave, Summit, NJ 07901, USA",http://www.marcopolonj.com/
+Ming II Restaurant,ChIJe5ajBLymw4kRnylC-ePCnek,2.0,4.2,https://maps.google.com/?cid=16833825266576009631,"3 Speedwell Ave, Morristown, NJ 07960, USA",http://www.ming2morristown.com/
+Panevino Ristorante,ChIJ5ZCzkgKpw4kRV05rIboFeLA,2.0,4.2,https://maps.google.com/?cid=12715919844863331927,"637 W Mt Pleasant Ave, Livingston, NJ 07039, USA",https://www.patinagroup.com/panevino-ristorante
+Panera Bread,ChIJfWpUQ6Oow4kRVbGGHFPtvJY,2.0,4.0,https://maps.google.com/?cid=10861817342527451477,"187 Columbia Turnpike, Florham Park, NJ 07932, USA",https://locations.panerabread.com/nj/florham-park/187-columbia-turnpike.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search
+Winberie's Restaurant & Bar,ChIJLZyS9LKvw4kRxBWhBwFCEqo,2.0,4.3,https://maps.google.com/?cid=12254930108218938820,"2 Kent Pl Blvd, Summit, NJ 07901, USA",http://summit.winberies.com/
+Starbucks,ChIJ8acnyLyow4kRb_wrTFHmEZM,2.0,4.3,https://maps.google.com/?cid=10597504635024178287,"184 Columbia Turnpike, Florham Park, NJ 07932, USA",https://www.starbucks.com/store-locator/store/11693/
+George & Martha's American Grille,ChIJubJboL2mw4kRcMNZZ2OuftQ,2.0,4.1,https://maps.google.com/?cid=15311867525065196400,"67-71 Morris St, Morristown, NJ 07960, USA",https://www.georgeandmarthas.com/?y_source=1_MzQwMzA2OS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Il Capriccio,ChIJ5xzMLdCnw4kRFk-MyDV4stw,3.0,4.8,https://maps.google.com/?cid=15902905406591880982,"633 NJ-10, Whippany, NJ 07981, USA",http://www.ilcapriccio.com/
+The Cheesecake Factory,ChIJBxBOuRyvw4kRKetUb6GKLhY,2.0,4.0,https://maps.google.com/?cid=1598367343725308713,"1200 Morris Tpke, Short Hills, NJ 07078, USA",https://locations.thecheesecakefactory.com/nj/short-hills-154.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+Don Jose Mexican Restaurant East Hanover NJ,ChIJy534e_aow4kRd86HxUvt4gA,2.0,4.2,https://maps.google.com/?cid=63874254428950135,"200 NJ-10 #7, East Hanover, NJ 07936, USA",http://www.donjosemexican.com/
+Starbucks,ChIJwSZOOU2uw4kRovEizXSpPSc,2.0,4.1,https://maps.google.com/?cid=2827602460181459362,"2 Beechwood Rd, Summit, NJ 07901, USA",https://www.starbucks.com/store-locator/store/13473/
+Office Tavern Grill,ChIJX4XIMU2uw4kRxWiBJjg-yT0,2.0,4.2,https://maps.google.com/?cid=4452158117517551813,"61 Union Pl, Summit, NJ 07901, USA",https://www.officetaverngrill.com/?utm_source=Yext&utm_medium=Local&utm_campaign=Website&y_source=1_MzQwMzA1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Marie's Italian Specialties,ChIJV98TTqKlw4kRd0LKyluNOkM,,4.3,https://maps.google.com/?cid=4844339774574183031,"641 Shunpike Rd, Chatham Township, NJ 07928, USA",http://www.mariesdeli.com/
+SM23,ChIJe5ajBLymw4kRefpKO4iLTWw,,4.5,https://maps.google.com/?cid=7804047146529520249,"3 Speedwell Ave, Morristown, NJ 07960, USA",http://www.sm23morristown.com/
+Village Food Garden,ChIJuctf_lqpw4kR3t5VAam4nCQ,,4.5,https://maps.google.com/?cid=2638186517743656670,"483 S Livingston Ave, Livingston, NJ 07039, USA",http://www.villagefoodgarden.com/
+Starbucks,ChIJS512A2Svw4kR4cLmoh3F66s,2.0,4.1,https://maps.google.com/?cid=12388211931090436833,"309 Main St, Madison, NJ 07940, USA",https://www.starbucks.com/
+Subway,ChIJz29K4fevw4kRMFAta1B0890,1.0,4.1,https://maps.google.com/?cid=15993254590467100720,"1269 B Springfield Ave, New Providence, NJ 07974, USA",https://order.subway.com/en-us/restaurant/29876/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=29876&utm_campaign=evergreen-2020&y_source=1_MTQ5MDIyMTktNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+The Thirsty Turtle,ChIJKYiqTKOow4kR0-cwSJSSaJo,2.0,4.4,https://maps.google.com/?cid=11126304044982790099,"186 Columbia Turnpike, Florham Park, NJ 07932, USA",http://www.thirstyturtle.com/
+Nicky’s Firehouse Italian Restaurant & Pizzeria,ChIJUdEMVvKlw4kRJtbuAf9CMLA,2.0,4.3,https://maps.google.com/?cid=12695721012573951526,"15 Central Ave, Madison, NJ 07940, USA",http://www.nickysfirehouse.com/
+The Godfather Brick Oven Pizzeria,ChIJy534e_aow4kRyjEZkdK4lV8,2.0,4.2,https://maps.google.com/?cid=6887614419650032074,"200 NJ-10 #3, East Hanover, NJ 07936, USA",http://www.godfatherofeasthanover.com/
+Il Mondo Vecchio,ChIJbXFncvKlw4kR0tJ0Ut7Qtng,3.0,4.4,https://maps.google.com/?cid=8698369383597396690,"72 Main St #1, Madison, NJ 07940, USA",http://www.ilmondovecchio.com/
+Nero's Grille,ChIJ6ZeZb0-pw4kR203QnoJ5WKw,2.0,4.2,https://maps.google.com/?cid=12418809574391303643,"618 S Livingston Ave, Livingston, NJ 07039, USA",http://www.neros.com/
+Sushi Lounge,ChIJgy1Bbrumw4kRJxxxr4fYlJ8,2.0,4.2,https://maps.google.com/?cid=11499053825859329063,"12 Schuyler Pl, Morristown, NJ 07960, USA",https://www.sushiloungenj.com/
+Starbucks,ChIJd3hFjaKlw4kRf94x4uT6De4,2.0,4.0,https://maps.google.com/?cid=17153642416678493823,"640 Shunpike Rd, Chatham, NJ 07928, USA",https://www.starbucks.com/store-locator/store/1005610/
+La Focaccia,ChIJccxljqavw4kREqqUyMwG5u0,3.0,4.6,https://maps.google.com/?cid=17142396508240652818,"523 Morris Ave, Summit, NJ 07901, USA",http://www.lafocaccianj.com/
+Calabria Restaurant Bar & Pizzeria,ChIJiV0uhk-pw4kR61Mr_Me19bc,2.0,4.2,https://maps.google.com/?cid=13255700948768740331,"588 S Livingston Ave, Livingston, NJ 07039, USA",https://calabrianj.com/
+China Chalet,ChIJwfUwyLyow4kRjNf0VIA83H0,2.0,4.3,https://maps.google.com/?cid=9069190271496148876,"184 Columbia Turnpike, Florham Park, NJ 07932, USA",http://chinachaletnj.com/
+Dunkin',ChIJV98TTqKlw4kRw8iiGY1MVsE,1.0,4.2,https://maps.google.com/?cid=13931406666221406403,"641 Shunpike Rd, Chatham Township, NJ 07928, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=348952
+Begum Palace Indian Cuisine (Takeouts & Delivery Only Through Our Website),ChIJoatDqmavw4kRxdNuVRIQ1hE,2.0,4.7,https://maps.google.com/?cid=1285232414589637573,"300 Main St, Madison, NJ 07940, USA",http://www.begumindiancuisine.com/
+Rocco's Tuscany Bar and Grill,ChIJY7AgO_Klw4kROqeKhjmkpyc,2.0,4.3,https://maps.google.com/?cid=2857433055567193914,"30 Cook Ave, Madison, NJ 07940, USA",http://www.roccosmadison.com/
+La Pastaria,ChIJ35BOh02uw4kR92xQ5pVinZY,2.0,4.3,https://maps.google.com/?cid=10852939072986442999,"327 Springfield Ave, Summit, NJ 07901, USA",http://www.lapastaria.com/
+A Taste of Asia,ChIJRxKQtXKvw4kRwXRw6nvtx6Q,2.0,4.5,https://maps.google.com/?cid=11873720059055600833,"245 Main St, Chatham, NJ 07928, USA",http://www.atasteofasianj.com/index.htm
+Prestige Diner & Restaurant,ChIJfW6x9Felw4kRodzL2SZtCwY,2.0,4.3,https://maps.google.com/?cid=435561802601585825,"1318 Springfield Ave, New Providence, NJ 07974, USA",http://www.prestigediner.com/
+Roots Steakhouse,ChIJvcErY7umw4kRehfbJzWbkHk,4.0,4.4,https://maps.google.com/?cid=8759671927839856506,"40 W Park Pl, Morristown, NJ 07960, USA",http://www.rootssteakhouse.com/
+Romanelli's Pizza & Italian Eatery,ChIJq0XeJvOlw4kRm_GNJ1xrcb0,1.0,4.2,https://maps.google.com/?cid=13650809989081461147,"42 Lincoln Pl, Madison, NJ 07940, USA",https://www.romanellispizza.com/
+Origin Thai 2,ChIJVW-Clbymw4kRDT44ByxGa7I,2.0,4.2,https://maps.google.com/?cid=12856446716172844557,"10 South St, Morristown, NJ 07960, USA",http://www.originthai2.com/
+End of Elm,ChIJo1-fVZamw4kRjmEKlZstyrQ,2.0,4.4,https://maps.google.com/?cid=13027275018366247310,"140 Morris St, Morristown, NJ 07960, USA",http://endofelm.com/
+The Stanhope House,ChIJ2bTNVhh2w4kRwzV1dZvAQn0,2.0,3.6,https://maps.google.com/?cid=9025988377126974915,"45 Main St, Stanhope, NJ 07874, USA",http://www.stanhopehousenj.com/
+LongHorn Steakhouse,ChIJczqlV-ydw4kRFvGHI2-6EP4,2.0,4.5,https://maps.google.com/?cid=18307337471761314070,"50 International Dr S Ste J, Flanders, NJ 07836, USA",https://www.longhornsteakhouse.com/locations/nj/flanders/flanders-mt-olive/5192?cmpid=br:lh_ag:ie_ch:loc_ca:LHGMB_dt:20190131_sn:gmb_gt:flanders-nj-5192_pl:locurl_rd:1149
+Lung Yung Restaurant,ChIJByi2kDaew4kRcd1uc-85niA,2.0,4.5,https://maps.google.com/?cid=2350379756130590065,"275-50 NJ-10, Succasunna, NJ 07876, USA",http://lungyungrestaurant.com/
+Cinders Wood Fire Grill,ChIJbe-r8uKfw4kRTZ4lQlwCA0M,3.0,4.2,https://maps.google.com/?cid=4828705820741312077,"319 US-46, Mine Hill Township, NJ 07803, USA",http://www.cinderswoodfiregrill.com/
+Black Forest Inn,ChIJS4JC-0Z2w4kR4APyqXvO7e4,3.0,4.5,https://maps.google.com/?cid=17216643981034783712,"249 US-206, Stanhope, NJ 07874, USA",http://www.blackforestinn.com/
+Cracker Barrel Old Country Store,ChIJva5afnR1w4kRE-bnB4a7_Vc,2.0,4.3,https://maps.google.com/?cid=6340430034740176403,"172 Howard Blvd, Mt Arlington, NJ 07856, USA",https://locations.crackerbarrel.com/nj/mount-arlington/406/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+Black River Barn,ChIJcRSR_7ifw4kRbxudvlPP33Q,2.0,4.3,https://maps.google.com/?cid=8421677786793319279,"1178 Route 10, West St, Randolph, NJ 07869, USA",http://www.blackriverbarn.com/
+Pub 199,ChIJ_w1-qAl1w4kR0ElVLZisxFM,2.0,4.2,https://maps.google.com/?cid=6036139170178877904,"199 Howard Blvd, Mt Arlington, NJ 07856, USA",https://pub199nj.com/
+La Strada Ristorante,ChIJDUZCTLyfw4kR0Ts2H9sDYbs,2.0,4.6,https://maps.google.com/?cid=13502077397489826769,"1105 NJ-10, Randolph, NJ 07869, USA",https://www.lastradarestaurantrandolph.com/
+Subway,ChIJbXs92JGdw4kRWkx-kSAIIAk,1.0,4.1,https://maps.google.com/?cid=657534481569041498,"61 International Dr Space A-5, Budd Lake, NJ 07828, USA",https://order.subway.com/en-us/restaurant/24483/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=24483&utm_campaign=evergreen-2020&y_source=1_MTQ5MDkzODItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Pavinci Italian Grill,ChIJDe-ofUR0w4kR-7kqeF5kbxY,2.0,4.1,https://maps.google.com/?cid=1616621148155066875,"453 River Styx Rd, Hopatcong, NJ 07843, USA",http://pavinci.com/
+Circle Bowl & Entertainment,ChIJPc6IfC6ew4kR7AAPCsXrwlA,,4.5,https://maps.google.com/?cid=5819472900025942252,"1107 Route 46 W, Ledgewood, NJ 07852, USA",http://circlebowlnj.com/
+Forte Pizzeria,ChIJfyfr8Wygw4kRA8Eu1K9a374,2.0,4.4,https://maps.google.com/?cid=13753811498238394627,"486 NJ-10, Randolph, NJ 07869, USA",http://www.fortepizzeria.com/
+Red Lobster,ChIJ7xNUQDCew4kRby35lL1veZo,2.0,4.2,https://maps.google.com/?cid=11131050814061751663,"303 NJ-10, Roxbury Township, NJ 07852, USA",https://www.redlobster.com/locations/list/nj/ledgewood/303-route-10-roxbury-township
+Muldoon's,ChIJV8P7WCCew4kRkLlDSa16Xio,2.0,4.3,https://maps.google.com/?cid=3053012482080881040,"1447 US-46, Ledgewood, NJ 07852, USA",http://www.muldoonsirishpub.com/
+Bell's Mansion,ChIJNSU5oxl2w4kRuG6F3yLZ6Cc,2.0,4.4,https://maps.google.com/?cid=2875787105878240952,"11 Main St, Stanhope, NJ 07874, USA",http://www.bellsmansion.com/
+The Clay Oven,ChIJZZsyki-ew4kRiB2omTgFmBQ,2.0,4.4,https://maps.google.com/?cid=1483941817872817544,"1140 US-46, Ledgewood, NJ 07852, USA",http://www.theclayoven.com/
+Jefferson House,ChIJXVw9PpJ0w4kRsnh9uaF7N78,2.0,3.6,https://maps.google.com/?cid=13778617519495280818,"139 Nolans Point Rd, Lake Hopatcong, NJ 07849, USA",http://www.jefferson-house.com/
+Taco Bell,ChIJ_46pjTOew4kRvO55LTQ4uDA,1.0,4.2,https://maps.google.com/?cid=3510617706287722172,"268 NJ-10, Succasunna, NJ 07876, USA",https://locations.tacobell.com/nj/succasunna/268-route-10.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=028938&utm_content=website&y_source=1_NjE0NDY5My03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D
+Subway,ChIJAwMm4-UKw4kRlqC_dCxPzUI,1.0,2.0,https://maps.google.com/?cid=4813590629084799126,"220 Enterprise Dr, Rockaway, NJ 07866, USA",https://order.subway.com/en-us/restaurant/33969/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=33969&utm_campaign=evergreen-2020&y_source=1_MTQ4OTU4NzgtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+White Castle,ChIJwX6rxS2ew4kRXl9rzrYVmog,1.0,4.1,https://maps.google.com/?cid=9843203810463014750,"1113 US-46, Ledgewood, NJ 07852, USA",http://www.whitecastle.com/
+Subway,ChIJDX72ShOgw4kRLPA4fYT9Wjs,1.0,3.9,https://maps.google.com/?cid=4277009541620101164,"148 Center Grove Rd, Randolph, NJ 07869, USA",https://order.subway.com/en-us/restaurant/46636/menu/?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=46636&utm_campaign=evergreen-2020&y_source=1_MTQ5MDk4MjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+Wendy's,ChIJczqlV-ydw4kR96DRWyHWT1A,1.0,3.8,https://maps.google.com/?cid=5787079484957106423,"50 International Dr S Suite G, Flanders, NJ 07836, USA",https://locations.wendys.com/united-states/nj/flanders/50-international-drive-south?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US
+The Quiet Man Pub/Restaurant,ChIJoeLjXo4Kw4kR8tGS2GzB-Ok,2.0,4.7,https://maps.google.com/?cid=16859437878295581170,"64 E McFarlan St, Dover, NJ 07801, USA",http://www.quietmanpub.com/
+Don Jose Mexican Restaurant,ChIJ89aaqIqdw4kRNGI_0waicfs,2.0,4.4,https://maps.google.com/?cid=18118440926085866036,"124 US-46, Netcong, NJ 07857, USA",http://www.donjosemexican.com/
+Carmine's Pizza,ChIJU8PU5R52w4kR_mIy634HwNA,2.0,4.5,https://maps.google.com/?cid=15042030997110678270,"75 Main St, Netcong, NJ 07857, USA",http://www.carminespizzanetcong.com/
+Randolph Diner,ChIJH7kOUxOgw4kRDM_So1R6RU0,2.0,4.2,https://maps.google.com/?cid=5567991018257829644,"517 NJ-10 E, Randolph, NJ 07869, USA",https://www.therandolphdiner.com/
+Townsquare Diner,ChIJYaVpPegKw4kRWSoEMZaNh3o,2.0,4.2,https://maps.google.com/?cid=8829181270690114137,"320 NJ-15, Wharton, NJ 07885, USA",http://townsquare-diner.com/
+Domino's Pizza,ChIJUxmUvZ-dw4kRoHiIE5uBqP4,1.0,3.4,https://maps.google.com/?cid=18350059184768710816,"141 US-46, Budd Lake, NJ 07828, USA",https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps
+Cafe Fiori,ChIJI6a-Y2ygw4kRV1aARXv7hyk,2.0,4.5,https://maps.google.com/?cid=2992636984276571735,"477 NJ-10 STE 15, Randolph, NJ 07869, USA",
+The After Char-Broil Grill & Ice Cream,ChIJBQz3ojGcw4kRVedVn97dfDY,1.0,4.4,https://maps.google.com/?cid=3926256923385915221,"195 US-206, Flanders, NJ 07836, USA",http://www.theaftergrill.com/
+QuickChek,ChIJBWi5qcl1w4kRvBc1s5CTY8E,,3.4,https://maps.google.com/?cid=13935143921705621436,"40 Lakeside Blvd, Hopatcong, NJ 07843, USA",http://quickchek.com/
+Sals Pizza & Restaurant,ChIJT11i3sF1w4kRw3rXup6EvHk,1.0,4.2,https://maps.google.com/?cid=8772031991485266627,"175 Lakeside Blvd #7, Landing, NJ 07850, USA",
+Charlotte's Web Inn,ChIJ3_iX-JAKw4kRavc3Gc7FeMI,2.0,4.5,https://maps.google.com/?cid=14013167729540331370,"39 W Clinton St, Dover, NJ 07801, USA",http://www.charlotteswebinn.com/
+IHOP,ChIJp3rw49Ofw4kRRwZ3Tfssq90,1.0,4.3,https://maps.google.com/?cid=15972909961247655495,"810 US-46, Kenvil, NJ 07847, USA",https://restaurants.ihop.com/en-us/nj/kenvil/breakfast-810-us-hwy-46-4779?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+KFC,ChIJn96Msi-ew4kRCC_iGwLTTEk,1.0,3.5,https://maps.google.com/?cid=5281828469009952520,"1110 US-46, Ledgewood, NJ 07852, USA",https://locations.kfc.com/nj/ledgewood/1110-route-46
+Domino's Pizza,ChIJXTRpfC6ew4kR_sRFEdg6tV8,1.0,3.4,https://maps.google.com/?cid=6896483104064914686,"1009 US-46, Ledgewood, NJ 07852, USA",https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps
+The Pizza Pub,ChIJIfvp2zyfw4kRhD_XIS8m3gA,2.0,4.5,https://maps.google.com/?cid=62529428702838660,"395 Dover Chester Rd, Ironia, NJ 07845, USA",http://pizzapubrestaurant.com/
+L and L Deli & Liquor Store,ChIJW5WYQFV1w4kRk-s_Nqdcefo,,4.7,https://maps.google.com/?cid=18048558854903425939,"264 US-46, Mine Hill Township, NJ 07803, USA",http://www.landldelinj.com/
+Dunkin',ChIJjcPlLT-cw4kRXQeoM0HuV8k,1.0,4.2,https://maps.google.com/?cid=14508326688404277085,"114 State Hwy Route 206 In Exxon Gas Station, Mt Olive, NJ 07836, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=340801
+Bryans Luncheonette,ChIJAcGqA7afw4kRMgNyf8jadCw,1.0,4.7,https://maps.google.com/?cid=3203425789633758002,"42 Main St, Succasunna, NJ 07876, USA",http://bryansluncheonette.com/
+Lucky House,ChIJk52QTHhzw4kRnlChw6xXN3A,,3.6,https://maps.google.com/?cid=8086028055495135390,"Hopatchung Rd, Hopatcong, NJ 07843, USA",https://m.facebook.com/pages/Lucky-House/1018488794837387
+Outback Steakhouse,ChIJM1ZrZC6ew4kRR1aQd_5r7hI,2.0,4.2,https://maps.google.com/?cid=1364146477811652167,"1070 US-46, Ledgewood, NJ 07852, USA",https://www.outback.com/
+Iron Hills Tavern,ChIJpaVyXyCew4kRVv1m4dxXTEw,2.0,4.3,https://maps.google.com/?cid=5497865851298577750,"1447 US-46, Ledgewood, NJ 07852, USA",
+bp,ChIJtfxcUvV1w4kRYJEbgDLaIGg,,3.5,https://maps.google.com/?cid=7503236889631756640,"1551 Ledgewood Road, US-46, Ledgewood, NJ 07852, USA",https://map.bp.com/en-US/US/gas-station/ledgewood/bp/72247248915510785200100000000000
+La Gratella Pizza & Restaurant,ChIJmU7prTGew4kRRsDi3yQ3OPY,,4.4,https://maps.google.com/?cid=17741991363540598854,"450 NJ-10, Ledgewood, NJ 07852, USA",http://www.lagratellapizzarestaurant.com/
+Empower Nutrition Supplements & Juice Bar,ChIJ_zSagy6ew4kRo9r58rMmoHM,,4.7,https://maps.google.com/?cid=8331701864952879779,"760 US-46, Kenvil, NJ 07847, USA",https://www.empowernutritionstores.com/
+The Bistro – Eat. Drink. Connect.®,ChIJjx2zHXR1w4kRmDOHAKbWXXo,,5.0,https://maps.google.com/?cid=8817439653923074968,"15 Howard Blvd, Mt Arlington, NJ 07856, USA",http://www.marriott.com/hotels/hotel-information/restaurant/ewrma-courtyard-rockaway-mt-arlington/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+Fuddruckers,ChIJ9SyXqDaew4kReeCdw-m21IU,2.0,4.4,https://maps.google.com/?cid=9643533817232613497,"275 NJ-10, Succasunna, NJ 07876, USA",https://www.fuddruckers.com/roxbury
+Jersey Mike's Subs,ChIJY9E2lzaew4kR_tD-6Imspes,1.0,4.2,https://maps.google.com/?cid=16980167678389833982,"275 NJ-10 E, Succasunna, NJ 07876, USA",https://www.jerseymikes.com/1069
+Yummy Taste Chinese Restaurant,ChIJdzAbq9Cfw4kRpx1d5oQuZyw,,4.4,https://maps.google.com/?cid=3199577208605449639,"692 US-46, Kenvil, NJ 07847, USA",https://yummytaste89.wixsite.com/yummytastechinese
+Joe's Pizzeria & Restaurant,ChIJ51k2Ttmfw4kRn5t0zqj3Wtk,1.0,4.5,https://maps.google.com/?cid=15662102958524636063,"586 US-46, Kenvil, NJ 07847, USA",http://www.joespizzeriakenvil.com/
+Casella's Pizzeria & Deli,ChIJhRuqnsqfw4kRa2ZlIHTgHjc,,4.3,https://maps.google.com/?cid=3971858710751700587,"139 State Route 10 East, Succasunna, NJ 07876, USA",http://www.casellaspizza.com/
+One Touch Design,ChIJh5xqAeZ1w4kRXoS2ysw1L7I,,5.0,https://maps.google.com/?cid=12839540216347133022,"210 Kings Hwy #7, Landing, NJ 07850, USA",https://otdav.com/
+Dunkin',ChIJwypnfbafw4kR7yRBwd7kcNE,1.0,4.2,https://maps.google.com/?cid=15091813996694676719,"57 NJ-10 E, Succasunna, NJ 07876, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=353769
+Anthony & Sons Bakery & Italian Deli,ChIJ1yZeabefw4kRfvmIeEYa2xY,2.0,4.5,https://maps.google.com/?cid=1646938978706323838,"15 NJ-10, Succasunna, NJ 07876, USA",http://anthonyandsonsbakerynj.com/
+Pizza Express Mt. Arlington,ChIJM4tBOgJ1w4kRa9U1mz6xgfI,1.0,3.7,https://maps.google.com/?cid=17474442911624320363,"312 Howard Blvd, Mt Arlington, NJ 07856, USA",https://pizzaexpressmtarlington.com/
+Shell,ChIJWf-qdf2fw4kR_MdkDkTL6Jo,2.0,3.1,https://maps.google.com/?cid=11162395169597474812,"274 US-46, Mine Hill Township, NJ 07803, USA",https://find.shell.com/us/fuel/12395193-274-rt-46-e
+Dunkin',ChIJNcJSc_2fw4kRIA4rycWRc58,1.0,4.2,https://maps.google.com/?cid=11489687353021894176,"274 Rte 46, Mine Hill Township, NJ 07803, USA",https://smart.link/abu8tr12sc1y6?utm_source=google&utm_medium=local&utm_campaign=gmbwebsiteorder&utm_content=349334
+Polo's Bar & Grill,ChIJtefBaBx2w4kR_awouBXE8oU,2.0,4.4,https://maps.google.com/?cid=9651992548971425021,"50 NJ-183, Netcong, NJ 07857, USA",http://polosbarandgrill.com/
