@@ -25,4 +25,20 @@
         INNER JOIN "Google_Maps_Rating" ON "Google_Maps_Rating".restaurant_id = "Yelp_Rating".restaurant_id
         INNER JOIN "Trip_Advisor_Rating" ON "Trip_Advisor_Rating".restaurant_id = "Google_Maps_Rating".restaurant_id;
 
+        -- Look into yelp rating and cuisine sorted by best rating
+        SELECT "Restaurant_Info".restaurant_id, "Restaurant_Info".restaurant_name,"Restaurant_Info".restaurant_website,
+        "Yelp_Rating".yelp_rating, "Cuisine_Type".cuisine_type
+        FROM "Restaurant_Info"
+        INNER JOIN "Yelp_Rating" ON "Restaurant_Info".restaurant_id = "Yelp_Rating".restaurant_id
+	INNER JOIN "Cuisine_Type" ON "Cuisine_Type".restaurant_id = "Yelp_Rating".restaurant_id
+	ORDER BY "Yelp_Rating".yelp_rating DESC;
+
+        -- Query Google Maps Ratings by "Italian" cuisine
+	SELECT "Restaurant_Info".restaurant_id, "Restaurant_Info".restaurant_name,"Restaurant_Info".restaurant_website,
+        "Google_Maps_Rating".google_maps_rating, "Cuisine_Type".cuisine_type
+        FROM "Restaurant_Info"
+        INNER JOIN "Google_Maps_Rating" ON "Restaurant_Info".restaurant_id = "Google_Maps_Rating".restaurant_id
+        INNER JOIN "Cuisine_Type" ON "Cuisine_Type".restaurant_id = "Google_Maps_Rating".restaurant_id
+	WHERE "Cuisine_Type".cuisine_type IN ('Italian');
+
 
