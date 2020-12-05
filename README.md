@@ -8,15 +8,15 @@ Group 7: Deepa, Raul, Tom, and Delia
 Our database contains information and ratings on restaurants in Morris County, NJ.  We have broken the database into 5 tables: “Restaurant Info”, “Yelp Rating”, “Google Maps Rating”, “TripAdvisor Rating” and “Cuisine Type”.  What makes this database unique is that we will be including ratings from Yelp, Trip Advisor, and Google Maps to show a variety of ratings from popular restaurant review sources.  This database can be used by anyone who wishes to obtain data on the restaurants in Morris County, whether it be some friends looking for the best Thai food around, or an entrepreneur looking to open up a new restaurant but first needing to know what kinds of restaurants are successful in the area. 
 
 ### Data Sources:
-    Yelp: Yelp-data.csv 
+    * Yelp: Yelp-data.csv 
     [url: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Morris+County%2C+NJ&ns=1(.html)]
-    Trip Advisor: http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
-    Google: google-data.csv 
+    * Trip Advisor: http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
+    * Google: google-data.csv 
     [Google Places API and Place Details API to find restaurants in Morris County]
 
 ### ETL Process:
 
-⋅⋅⋅⋅⋅#### Extract:
+#### Extract:
     Scrape yelp website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
     First retrieved restaurant name, yelp url for restaurant, restaurant rating, price-level and cuisine from yelp.
     Using the yelp_url for each restaurant, retrieved the restaurant address and restaurant’s website
@@ -29,7 +29,7 @@ Our database contains information and ratings on restaurants in Morris County, N
     Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this, we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360 restaurants.
     The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data.
 
-⋅⋅⋅⋅⋅#### Transform:
+#### Transform:
     Extract raw data files (in csv, json, html. Etc. format)  into DataFrames
     Clean DataFrame: 
     Remove any restaurants outside of Morris County; 
@@ -48,12 +48,12 @@ Our database contains information and ratings on restaurants in Morris County, N
     Saved the above dataframes to csv files.
 
 
-⋅⋅⋅⋅⋅#### Load:
+#### Load:
     5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
     All linked by restaurant_id
 
 
-⋅⋅⋅⋅⋅⋅⋅⋅##### Query Example:
+##### Query Example:
     Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, TripAdvisor)
 
 
