@@ -51,6 +51,8 @@ Our database contains information and ratings on restaurants in Morris County, N
 #### Load:
     5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
     All linked by restaurant_id
+    ![alt text](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png)
+
 
 
 ##### Query Example:
