@@ -10,7 +10,8 @@
 ### Data Sources:
 * Yelp: Yelp-data.csv 
     [url: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Morris+County%2C+NJ&ns=1(.html)]
-* Trip Advisor: http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
+* Trip Advisor: trip-advisor_data.csv 
+   http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
 * Google: google-data.csv 
     [Google Places API and Place Details API to find restaurants in Morris County]
 
