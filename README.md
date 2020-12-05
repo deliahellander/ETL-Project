@@ -40,7 +40,7 @@ Group 7: Deepa, Raul, Tom, and Delia
         * Clearing restaurant website if it is not a website
         * Combination of concat and merge to combine yelp and google dataframes to get unique restaurants in Morris County.
         * Added restaurant_id column to uniquely identify each restaurant
-    * Create new datasets with combined restaurant data: 
+   * Create new datasets with combined restaurant data: 
         * Restaurant Dataset: contains restaurant_id, restaurant_name, restaurant_website, address1, city, state and zip code
         * Google Dataset: restaurant_id, google_price_level, google_rating, google_maps_url
         * Yelp Dataset: restaurant_id, yelp_price_level, yelp_rating, yelp_url
@@ -52,12 +52,10 @@ Group 7: Deepa, Raul, Tom, and Delia
    * 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
         * All linked by restaurant_id
         * ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
-        Format: ![Alt Text](url)
-
 
 
    ##### Query Example:
-   * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, TripAdvisor)
+   * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor)
 
 
 
