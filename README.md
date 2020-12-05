@@ -5,7 +5,7 @@ Group 7: Deepa, Raul, Tom, and Delia
 
 ### Abstract:
 
-   Our database contains information and ratings on restaurants in Morris County, NJ.  We have broken the database into 5 tables: “Restaurant Info”, “Yelp Rating”, “Google Maps Rating”, “TripAdvisor Rating” and “Cuisine Type”.  What makes this database unique is that we will be including ratings from Yelp, Trip Advisor, and Google Maps to show a variety of ratings from popular restaurant review sources.  This database can be used by anyone who wishes to obtain data on the restaurants in Morris County, whether it be some friends looking for the best Thai food around, or an entrepreneur looking to open up a new restaurant but first needing to know what kinds of restaurants are successful in the area. 
+   Our database contains information and ratings on restaurants in Morris County, NJ.  We have broken the database into 5 tables: “Restaurant Info”, “Yelp Rating”, “Google Maps Rating”, “Trip Advisor Rating” and “Cuisine Type”.  What makes this database unique is that we will be including ratings from Yelp, Trip Advisor, and Google Maps to show a variety of ratings from popular restaurant review sources.  This database can be used by anyone who wishes to obtain data on the restaurants in Morris County, whether it be some friends looking for the best Thai food around, or an entrepreneur looking to open up a new restaurant but first needing to know what kinds of restaurants are successful in the area. 
 
 ### Data Sources:
 * Yelp: Yelp-data.csv 
@@ -51,11 +51,13 @@ Group 7: Deepa, Raul, Tom, and Delia
    #### Load:
    * 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
         * All linked by restaurant_id
+        * Format tables to allow null cells for urls, rating, and price level.
         * ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
 
 
    ##### Query Example:
-   * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor)
+   * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
+   * See other Query examples in "Load" Folder > "Query_Examples" Folder.
 
 
 
