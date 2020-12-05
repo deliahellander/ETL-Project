@@ -57,6 +57,8 @@ Group 7: Deepa, Raul, Tom, and Delia
 
    ##### Query Example:
    * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
+   * Look into yelp rating and cuisine sorted by best rating
+   * ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/Query_Examples/Yelp_Rating_sorted_Desc_by_rating.png?raw=true)
    * See other Query examples in "Load" Folder > "Query_Examples" Folder.
 
 
