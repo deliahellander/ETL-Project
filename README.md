@@ -8,10 +8,10 @@ Group 7: Deepa, Raul, Tom, and Delia
 Our database contains information and ratings on restaurants in Morris County, NJ.  We have broken the database into 5 tables: “Restaurant Info”, “Yelp Rating”, “Google Maps Rating”, “TripAdvisor Rating” and “Cuisine Type”.  What makes this database unique is that we will be including ratings from Yelp, Trip Advisor, and Google Maps to show a variety of ratings from popular restaurant review sources.  This database can be used by anyone who wishes to obtain data on the restaurants in Morris County, whether it be some friends looking for the best Thai food around, or an entrepreneur looking to open up a new restaurant but first needing to know what kinds of restaurants are successful in the area. 
 
 ### Data Sources:
-    * Yelp: Yelp-data.csv 
+Yelp: Yelp-data.csv 
     [url: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Morris+County%2C+NJ&ns=1(.html)]
-    * Trip Advisor: http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
-    * Google: google-data.csv 
+Trip Advisor: http://developer-tripadvisor.com/content-api/technical-overview/#rate_limit (.html)
+Google: google-data.csv 
     [Google Places API and Place Details API to find restaurants in Morris County]
 
 ### ETL Process:
