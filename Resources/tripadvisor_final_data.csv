@@ -1,31 +1,446 @@
 restaurant_id,trip_advisor_price_level,trip_advisor_rating,trip_advisor_url
-456,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d1523051-Reviews-Gourmet_Cafe_Restaurant-Parsippany_Morris_County_New_Jersey.html
-457,$$ - $$$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d4478498-Reviews-Sergio_and_Co_Italian_Specialties-Denville_Morris_County_New_Jersey.html
-458,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d543493-Reviews-The_Quiet_Man-Dover_Morris_County_New_Jersey.html
-459,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d1062783-Reviews-La_Strada_Ristorante-Randolph_Morris_County_New_Jersey.html
-460,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d7140424-Reviews-Parsippany_s_Best_Pizza-Parsippany_Morris_County_New_Jersey.html
-461,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d1068722-Reviews-Eccola-Parsippany_Morris_County_New_Jersey.html
-462,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3357357-Reviews-Rod_s_Steak_And_Seafood_Grille-Morristown_Morris_County_New_Jersey.html
-463,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d457881-Reviews-Ruth_s_Chris_Steak_House-Parsippany_Morris_County_New_Jersey.html
-464,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d8530697-Reviews-Slamwich_Scratch_Kitchen-Madison_Morris_County_New_Jersey.html
-465,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1050626-Reviews-Shanghai_Jazz-Madison_Morris_County_New_Jersey.html
-466,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d1221261-Reviews-Caffe_Navona-Rockaway_Morris_County_New_Jersey.html
-467,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46748-d1161741-Reviews-Pompton_Queen_Diner-Pompton_Plains_Morris_County_New_Jersey.html
-468,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d2311672-Reviews-TABOR_ROAD_Tavern-Morris_Plains_Morris_County_New_Jersey.html
-469,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d4479024-Reviews-Casa_Bella_Restaurant-Denville_Morris_County_New_Jersey.html
-470,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1857378-Reviews-Hibiscus_Island_Grill-Morristown_Morris_County_New_Jersey.html
-471,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46653-d3814500-Reviews-The_Station_at_Mountain_Lakes-Mountain_Lakes_Morris_County_New_Jersey.html
-472,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d3241429-Reviews-Thai_Kitchen-Chester_Morris_County_New_Jersey.html
-473,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d2305325-Reviews-Nonna_s_Italian_Restaurant-Florham_Park_Morris_County_New_Jersey.html
-474,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d8336430-Reviews-South_Pine_American_Eatery-Morristown_Morris_County_New_Jersey.html
-475,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d1049505-Reviews-Thai_Nam_Phet-Rockaway_Morris_County_New_Jersey.html
-476,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d2537956-Reviews-Thatcher_McGhee_s-Denville_Morris_County_New_Jersey.html
-477,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d4563543-Reviews-Verona_Restaurant-Randolph_Morris_County_New_Jersey.html
-478,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46349-d7294513-Reviews-H2Ocean_Restaurant_Raw_Bar-Cedar_Knolls_Morris_County_New_Jersey.html
-479,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d7687022-Reviews-The_Committed_Pig-Morristown_Morris_County_New_Jersey.html
-480,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d1891768-Reviews-Arthur_s_Tavern-Morris_Plains_Morris_County_New_Jersey.html
-481,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d2213497-Reviews-Roots_Steakhouse-Morristown_Morris_County_New_Jersey.html
-482,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d648367-Reviews-Chef_Fredy_s_Table-Morristown_Morris_County_New_Jersey.html
-483,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d459434-Reviews-Scalini_Fedeli-Chatham_Morris_County_New_Jersey.html
-484,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d643108-Reviews-Restaurant_Serenade-Chatham_Morris_County_New_Jersey.html
-485,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d888186-Reviews-Hunan_Taste_Chinese_Restaurant-Denville_Morris_County_New_Jersey.html
+414,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d7140424-Reviews-Parsippany_s_Best_Pizza-Parsippany_Morris_County_New_Jersey.html
+415,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d1523051-Reviews-Gourmet_Cafe_Restaurant-Parsippany_Morris_County_New_Jersey.html
+416,$$ - $$$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d4478498-Reviews-Sergio_and_Co_Italian_Specialties-Denville_Morris_County_New_Jersey.html
+417,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d543493-Reviews-The_Quiet_Man-Dover_Morris_County_New_Jersey.html
+418,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d1062783-Reviews-La_Strada_Ristorante-Randolph_Morris_County_New_Jersey.html
+419,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d1068722-Reviews-Eccola-Parsippany_Morris_County_New_Jersey.html
+420,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3357357-Reviews-Rod_s_Steak_And_Seafood_Grille-Morristown_Morris_County_New_Jersey.html
+421,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d457881-Reviews-Ruth_s_Chris_Steak_House-Parsippany_Morris_County_New_Jersey.html
+422,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d8530697-Reviews-Slamwich_Scratch_Kitchen-Madison_Morris_County_New_Jersey.html
+423,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1050626-Reviews-Shanghai_Jazz-Madison_Morris_County_New_Jersey.html
+424,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d1221261-Reviews-Caffe_Navona-Rockaway_Morris_County_New_Jersey.html
+425,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46748-d1161741-Reviews-Pompton_Queen_Diner-Pompton_Plains_Morris_County_New_Jersey.html
+426,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d2311672-Reviews-TABOR_ROAD_Tavern-Morris_Plains_Morris_County_New_Jersey.html
+427,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d4479024-Reviews-Casa_Bella_Restaurant-Denville_Morris_County_New_Jersey.html
+428,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1857378-Reviews-Hibiscus_Island_Grill-Morristown_Morris_County_New_Jersey.html
+429,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46653-d3814500-Reviews-The_Station_at_Mountain_Lakes-Mountain_Lakes_Morris_County_New_Jersey.html
+430,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d3241429-Reviews-Thai_Kitchen-Chester_Morris_County_New_Jersey.html
+431,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d2305325-Reviews-Nonna_s_Italian_Restaurant-Florham_Park_Morris_County_New_Jersey.html
+432,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d8336430-Reviews-South_Pine_American_Eatery-Morristown_Morris_County_New_Jersey.html
+433,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d1049505-Reviews-Thai_Nam_Phet-Rockaway_Morris_County_New_Jersey.html
+434,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d2537956-Reviews-Thatcher_McGhee_s-Denville_Morris_County_New_Jersey.html
+435,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d3240438-Reviews-Denville_Seafood_Codmother_s_Cafe-Denville_Morris_County_New_Jersey.html
+436,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d2244588-Reviews-Rosie_s_Trattoria-Randolph_Morris_County_New_Jersey.html
+437,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1507000-Reviews-Begum_Palace-Madison_Morris_County_New_Jersey.html
+438,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d4727626-Reviews-Sazon_Latino-Boonton_Morris_County_New_Jersey.html
+439,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46355-d921508-Reviews-Redwoods_Grill_and_Bar-Chester_Morris_County_New_Jersey.html
+440,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d13535910-Reviews-Pasta_Shop-Denville_Morris_County_New_Jersey.html
+441,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d6437178-Reviews-Riviera_Maya-Rockaway_Morris_County_New_Jersey.html
+442,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46543-d7020391-Reviews-House_of_Thai-Kinnelon_Morris_County_New_Jersey.html
+443,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3608924-Reviews-GK_s_Red_Dog_Tavern-Morristown_Morris_County_New_Jersey.html
+444,$$ - $$$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46569-d7376541-Reviews-Kenko_Sushi-Lincoln_Park_Morris_County_New_Jersey.html
+445,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d8481914-Reviews-Osteria_Trevi-Madison_Morris_County_New_Jersey.html
+446,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d2629053-Reviews-Cafe_Fiori-Randolph_Morris_County_New_Jersey.html
+447,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d4503889-Reviews-Annabella_s_Pizza_and_Restaurant-Parsippany_Morris_County_New_Jersey.html
+448,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46332-d4650084-Reviews-Budd_Lake_Diner-Budd_Lake_Morris_County_New_Jersey.html
+449,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d1188163-Reviews-Don_Jose_Mexican_Restaurant-East_Hanover_Morris_County_New_Jersey.html
+450,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d7223059-Reviews-The_Corner_Bistro-Randolph_Morris_County_New_Jersey.html
+451,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d4048349-Reviews-The_Thirsty_Turtle-Florham_Park_Morris_County_New_Jersey.html
+452,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d7745241-Reviews-Shan_Shan_Noodles-Parsippany_Morris_County_New_Jersey.html
+453,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46663-d2399352-Reviews-Carmine_s_Pizzeria_Restaurant-Netcong_Morris_County_New_Jersey.html
+454,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d4174312-Reviews-Anthony_s_Pizzeria-Rockaway_Morris_County_New_Jersey.html
+455,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46872-d4835973-Reviews-Rails_Steakhouse-Towaco_Montville_Morris_County_New_Jersey.html
+456,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d1174358-Reviews-Asahi-Morristown_Morris_County_New_Jersey.html
+457,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d8687418-Reviews-Zinburger_Wine_Burger_Bar-Morris_Plains_Morris_County_New_Jersey.html
+458,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46663-d8551593-Reviews-Bistro_46-Netcong_Morris_County_New_Jersey.html
+459,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d7616235-Reviews-Fasil_Mediterranean_Restaurant-Boonton_Morris_County_New_Jersey.html
+460,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46563-d4637843-Reviews-Sandwiches_Unlimited_Lunch_Box-Ledgewood_Morris_County_New_Jersey.html
+461,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46583-d12812047-Reviews-Chesapeake_Tavern-Long_Valley_Morris_County_New_Jersey.html
+462,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d877388-Reviews-Guerriero_s_Ristorante-Morristown_Morris_County_New_Jersey.html
+463,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d2587148-Reviews-LongHorn_Steakhouse-Parsippany_Morris_County_New_Jersey.html
+464,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d516556-Reviews-Marakesh_Inc-Parsippany_Morris_County_New_Jersey.html
+465,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d2339898-Reviews-Luigi_s-East_Hanover_Morris_County_New_Jersey.html
+466,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d4020716-Reviews-Gregorio_s-Chatham_Morris_County_New_Jersey.html
+467,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3864134-Reviews-Millie_s_Old_World_Meatballs_and_Pizza-Morristown_Morris_County_New_Jersey.html
+468,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g4283643-d9564425-Reviews-Taphouse_15-Jefferson_Morris_County_New_Jersey.html
+469,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46748-d2346276-Reviews-The_Little_Food_Inn-Pompton_Plains_Morris_County_New_Jersey.html
+470,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46460-d4563463-Reviews-Ancona_Bistro-Gillette_Morris_County_New_Jersey.html
+471,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d3412000-Reviews-Indian_Aroma-Rockaway_Morris_County_New_Jersey.html
+472,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46645-d2303931-Reviews-Blossom_Asian_Bistro-Mount_Arlington_Morris_County_New_Jersey.html
+473,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d1929370-Reviews-Hibernia_Diner-Denville_Morris_County_New_Jersey.html
+474,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46778-d7375935-Reviews-Boniello_s-Riverdale_Morris_County_New_Jersey.html
+475,$$$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d7236557-Reviews-Jockey_Hollow_Bar_and_Kitchen-Morristown_Morris_County_New_Jersey.html
+476,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46924-d2620318-Reviews-Theodora_s_Family_Restaurant_Pizzeria-Wharton_Morris_County_New_Jersey.html
+477,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d15050109-Reviews-ALEV_Mediterranean_Grill-Rockaway_Morris_County_New_Jersey.html
+478,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46438-d7747548-Reviews-Istanbul_Cuisine-Flanders_Morris_County_New_Jersey.html
+479,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1098371-Reviews-George_Martha_s_American_Grille-Morristown_Morris_County_New_Jersey.html
+480,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1312734-Reviews-Ming_II-Morristown_Morris_County_New_Jersey.html
+481,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d10684271-Reviews-Saigon_Subs_Cafe-Morristown_Morris_County_New_Jersey.html
+482,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46335-d789804-Reviews-The_Butler_Family_Restaurant_Diner-Butler_Morris_County_New_Jersey.html
+483,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46583-d6788246-Reviews-Red_Lantern-Long_Valley_Morris_County_New_Jersey.html
+484,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46639-d3786288-Reviews-Harrigan_s_Family_Restaurant-Montville_Morris_County_New_Jersey.html
+485,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d7399139-Reviews-Houlihan_s-Parsippany_Morris_County_New_Jersey.html
+486,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46332-d3542867-Reviews-Adam_s_Family_Restaurant-Budd_Lake_Morris_County_New_Jersey.html
+487,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46733-d878381-Reviews-Don_Pepe_II-Pine_Brook_Montville_Morris_County_New_Jersey.html
+488,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d1510892-Reviews-Puleo_s_Brick_Oven-Florham_Park_Morris_County_New_Jersey.html
+489,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d457920-Reviews-Outback_Steakhouse-Parsippany_Morris_County_New_Jersey.html
+490,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d10227110-Reviews-Grillera-Madison_Morris_County_New_Jersey.html
+491,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46733-d8520947-Reviews-Wood_Stack-Pine_Brook_Montville_Morris_County_New_Jersey.html
+492,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d6728843-Reviews-Biladi_Grill-Madison_Morris_County_New_Jersey.html
+493,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d4918262-Reviews-The_Great_Wazu-Parsippany_Morris_County_New_Jersey.html
+494,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d5077234-Reviews-Sandwiches_Unlimited-Rockaway_Morris_County_New_Jersey.html
+495,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46778-d3652824-Reviews-Coney_Island_Pizza-Riverdale_Morris_County_New_Jersey.html
+496,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46645-d2343912-Reviews-Cracker_Barrel-Mount_Arlington_Morris_County_New_Jersey.html
+497,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46460-d1006844-Reviews-Casa_Maya-Gillette_Morris_County_New_Jersey.html
+498,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d4651151-Reviews-Summit_Thai_Cuisine-East_Hanover_Morris_County_New_Jersey.html
+499,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d1145984-Reviews-Sogo_Hibachi_House-Denville_Morris_County_New_Jersey.html
+500,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d961048-Reviews-Penang_Malaysian_Thai_Cuisine-East_Hanover_Morris_County_New_Jersey.html
+501,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46854-d10816185-Reviews-Bryan_s_Luncheonette-Succasunna_Morris_County_New_Jersey.html
+502,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d12655820-Reviews-Nahm_Thai_French_Cuisine-Madison_Morris_County_New_Jersey.html
+503,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d1049176-Reviews-Black_River_Barn-Randolph_Morris_County_New_Jersey.html
+504,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d8352888-Reviews-Red_Hut_Diner-Rockaway_Morris_County_New_Jersey.html
+505,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d4835813-Reviews-Pure_Pita-Morristown_Morris_County_New_Jersey.html
+506,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46355-d3358361-Reviews-Sally_Lunn_s_Restaurant-Chester_Morris_County_New_Jersey.html
+507,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d4519649-Reviews-Denville_Diner-Denville_Morris_County_New_Jersey.html
+508,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46854-d4457691-Reviews-Anthony_Sons-Succasunna_Morris_County_New_Jersey.html
+509,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46639-d639843-Reviews-Columbia_Inn_Restaurant-Montville_Morris_County_New_Jersey.html
+510,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46663-d4558491-Reviews-Rose_s_Place-Netcong_Morris_County_New_Jersey.html
+511,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d2720048-Reviews-Spice_Route_melange-Parsippany_Morris_County_New_Jersey.html
+512,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46733-d1060738-Reviews-Bonefish_Grill-Pine_Brook_Montville_Morris_County_New_Jersey.html
+513,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46653-d12715712-Reviews-Barka-Mountain_Lakes_Morris_County_New_Jersey.html
+514,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d1195536-Reviews-Cinnamon_Indian_Restaurant-Morris_Plains_Morris_County_New_Jersey.html
+515,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d2453047-Reviews-Market_Taverne-Morristown_Morris_County_New_Jersey.html
+516,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d4097606-Reviews-Delizia_Pizza_Kitchen-Boonton_Morris_County_New_Jersey.html
+517,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d1171002-Reviews-Carver_s-Denville_Morris_County_New_Jersey.html
+518,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46547-d2385745-Reviews-Kabab_Paradise-Lake_Hiawatha_Morris_County_New_Jersey.html
+519,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46629-d2331702-Reviews-Cinders_Wood_Fire_Grill-Mine_Hill_Morris_County_New_Jersey.html
+520,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46778-d6475565-Reviews-Blu_alehouse-Riverdale_Morris_County_New_Jersey.html
+521,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d1474674-Reviews-Top_Of_The_Park-Boonton_Morris_County_New_Jersey.html
+522,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46332-d1056760-Reviews-Branda_s_Italian_Grill-Budd_Lake_Morris_County_New_Jersey.html
+523,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46547-d1144803-Reviews-Churrasco-Lake_Hiawatha_Morris_County_New_Jersey.html
+524,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d2239185-Reviews-Spice_Grill-Parsippany_Morris_County_New_Jersey.html
+525,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d10298976-Reviews-Mr_Crabby_s_Seafood-Randolph_Morris_County_New_Jersey.html
+526,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46854-d4009985-Reviews-Irpinia-Succasunna_Morris_County_New_Jersey.html
+527,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1923802-Reviews-54_Main-Madison_Morris_County_New_Jersey.html
+528,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46748-d10448918-Reviews-Tavern_5-Pompton_Plains_Morris_County_New_Jersey.html
+529,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46924-d2149840-Reviews-Townsquare_Diner-Wharton_Morris_County_New_Jersey.html
+530,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46355-d2214889-Reviews-Fresco-Chester_Morris_County_New_Jersey.html
+531,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d6446735-Reviews-Miga_Sushi-Denville_Morris_County_New_Jersey.html
+532,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d1835882-Reviews-Sabor_latino-Dover_Morris_County_New_Jersey.html
+533,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46543-d2193834-Reviews-Sangiorgio_s-Kinnelon_Morris_County_New_Jersey.html
+534,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1312732-Reviews-Mehndi-Morristown_Morris_County_New_Jersey.html
+535,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46547-d1144805-Reviews-Bosphorus-Lake_Hiawatha_Morris_County_New_Jersey.html
+536,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d17467295-Reviews-Fig_and_Lily_Garden-Morristown_Morris_County_New_Jersey.html
+537,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d4630685-Reviews-M_S_II_Pizza-Rockaway_Morris_County_New_Jersey.html
+538,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46653-d1848993-Reviews-Paul_s_Diner-Mountain_Lakes_Morris_County_New_Jersey.html
+539,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46645-d3649823-Reviews-Davy_s_Hot_Dogs-Mount_Arlington_Morris_County_New_Jersey.html
+540,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d7991769-Reviews-Tuscan_Table-Denville_Morris_County_New_Jersey.html
+541,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d8768735-Reviews-Tiffin-East_Hanover_Morris_County_New_Jersey.html
+542,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d2357921-Reviews-Olive_Garden-Rockaway_Morris_County_New_Jersey.html
+543,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d3638626-Reviews-Charley_s_Aunt-Chatham_Morris_County_New_Jersey.html
+544,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d9872837-Reviews-Boonton_Station_1904-Boonton_Morris_County_New_Jersey.html
+545,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d4613955-Reviews-Mitsuba_Japanese_Cuisine-Chatham_Morris_County_New_Jersey.html
+546,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d3598438-Reviews-Jai_Alai_Restaurant-Dover_Morris_County_New_Jersey.html
+547,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46335-d4287771-Reviews-Galaxy_Diner-Butler_Morris_County_New_Jersey.html
+548,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46547-d4835124-Reviews-Maddy_s_Mexican_Restaurant-Lake_Hiawatha_Morris_County_New_Jersey.html
+549,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46663-d10147459-Reviews-Polo_s_Bar_Grill-Netcong_Morris_County_New_Jersey.html
+550,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46460-d4612149-Reviews-Natales_Pizza_Restaurant-Gillette_Morris_County_New_Jersey.html
+551,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d3863098-Reviews-Roadhouse_Deli-Boonton_Morris_County_New_Jersey.html
+552,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d9795282-Reviews-Inspiration_Roll-Morristown_Morris_County_New_Jersey.html
+553,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d14167448-Reviews-Central_Main_American_Eatery-Madison_Morris_County_New_Jersey.html
+554,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d1096881-Reviews-IHOP-Parsippany_Morris_County_New_Jersey.html
+555,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d7368801-Reviews-Palm_Thai-Madison_Morris_County_New_Jersey.html
+556,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d4135131-Reviews-Benvenuti_s-East_Hanover_Morris_County_New_Jersey.html
+557,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46764-d2650366-Reviews-Casa_de_Pasta-Randolph_Morris_County_New_Jersey.html
+558,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d1433895-Reviews-China_Chalet-Florham_Park_Morris_County_New_Jersey.html
+559,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3959402-Reviews-Pomodoro_Ristorante_Pizzeria-Morristown_Morris_County_New_Jersey.html
+560,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46563-d3187720-Reviews-Clay_Oven-Ledgewood_Morris_County_New_Jersey.html
+561,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d5010031-Reviews-Roma_Pizzeria-Boonton_Morris_County_New_Jersey.html
+562,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d459324-Reviews-Yama_Sushi-Denville_Morris_County_New_Jersey.html
+563,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d10643443-Reviews-V_Yan_Hot_Pot_BBQ-Parsippany_Morris_County_New_Jersey.html
+564,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1132398-Reviews-Cottage_II_Hunan_Szechuan-Morristown_Morris_County_New_Jersey.html
+565,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d3567625-Reviews-Randolph_Diner-Randolph_Morris_County_New_Jersey.html
+566,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d2238173-Reviews-Nautilus_Diner-Madison_Morris_County_New_Jersey.html
+567,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46645-d4822954-Reviews-Frank_s_Pizza-Mount_Arlington_Morris_County_New_Jersey.html
+568,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d5790641-Reviews-Uzbekistana-Boonton_Morris_County_New_Jersey.html
+569,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46872-d8812499-Reviews-900_Degrees_Wood_Fired_Pizza_Eatery-Towaco_Montville_Morris_County_New_Jersey.html
+570,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d8532755-Reviews-Casa_D_pizza-Denville_Morris_County_New_Jersey.html
+571,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46332-d3678843-Reviews-Enzo_s_Ristorante_Pizzeria-Budd_Lake_Morris_County_New_Jersey.html
+572,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46460-d1520611-Reviews-Chimney_Rock_Inn_Gillette-Gillette_Morris_County_New_Jersey.html
+573,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d1059206-Reviews-Dublin_Pub-Morristown_Morris_County_New_Jersey.html
+574,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46663-d3162838-Reviews-Ron_s_Landmark-Netcong_Morris_County_New_Jersey.html
+575,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46335-d4954350-Reviews-AJ_s_Pizza-Butler_Morris_County_New_Jersey.html
+576,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d8532745-Reviews-Chico_s_Mexican_Grill-Denville_Morris_County_New_Jersey.html
+577,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d3327181-Reviews-Saigon_Pho-Parsippany_Morris_County_New_Jersey.html
+578,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d7140424-Reviews-Parsippany_s_Best_Pizza-Parsippany_Morris_County_New_Jersey.html
+579,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d1637776-Reviews-Fusha_Sushi_Bar-Parsippany_Morris_County_New_Jersey.html
+580,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d10049137-Reviews-Leyendas_de_Mexico-Parsippany_Morris_County_New_Jersey.html
+581,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d4367743-Reviews-Prospect_Tavern_Beef_Ale-Madison_Morris_County_New_Jersey.html
+582,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46612-d1059203-Reviews-Dante_s-Mendham_Morris_County_New_Jersey.html
+583,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d2386465-Reviews-Second_Half_on_Main-Denville_Morris_County_New_Jersey.html
+584,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46854-d4979034-Reviews-Luigis_Pizza-Succasunna_Morris_County_New_Jersey.html
+585,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d3907600-Reviews-Marie_s-Chatham_Morris_County_New_Jersey.html
+586,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46612-d5031257-Reviews-Piattino_A_Neighborhood_Bistro-Mendham_Morris_County_New_Jersey.html
+587,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46733-d2179971-Reviews-Don_Pepe_Steak_House-Pine_Brook_Montville_Morris_County_New_Jersey.html
+588,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46924-d8483693-Reviews-Rocky_s_Pasties-Wharton_Morris_County_New_Jersey.html
+589,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d5081569-Reviews-M_and_S_Pizza-Dover_Morris_County_New_Jersey.html
+590,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d2548017-Reviews-Collin_s_Pub-Morris_Plains_Morris_County_New_Jersey.html
+591,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46543-d5416488-Reviews-Smoke_Rise_Village_Inn-Kinnelon_Morris_County_New_Jersey.html
+592,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46438-d4435076-Reviews-Wasabi-Flanders_Morris_County_New_Jersey.html
+593,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1892206-Reviews-Yuki_Hana_Japanese_Restaurant-Madison_Morris_County_New_Jersey.html
+594,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d3370740-Reviews-Bensi-Denville_Morris_County_New_Jersey.html
+595,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d15681070-Reviews-Sorriso_Kitchen-Chatham_Morris_County_New_Jersey.html
+596,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d4495078-Reviews-Pollos_Pucalor-Morristown_Morris_County_New_Jersey.html
+597,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d4515486-Reviews-That_s_Amore_Trattoria-Denville_Morris_County_New_Jersey.html
+598,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46748-d2429715-Reviews-V_J_s_Pizza-Pompton_Plains_Morris_County_New_Jersey.html
+599,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d2222545-Reviews-Bella_Pizza_Deli_Gourmet-Chester_Morris_County_New_Jersey.html
+600,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46441-d8757485-Reviews-The_Park_Savoy_Estate-Florham_Park_Morris_County_New_Jersey.html
+601,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d6511047-Reviews-The_Hanover_Manor-East_Hanover_Morris_County_New_Jersey.html
+602,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46569-d8098386-Reviews-Frank_s_Pizza_Italian_Restaurant_Catering-Lincoln_Park_Morris_County_New_Jersey.html
+603,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d12070874-Reviews-Town_Bar_Kitchen-Morristown_Morris_County_New_Jersey.html
+604,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46778-d10357165-Reviews-Brookside_Bistro-Riverdale_Morris_County_New_Jersey.html
+605,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46547-d15693411-Reviews-Pasha_mezze_grill-Lake_Hiawatha_Morris_County_New_Jersey.html
+606,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d459306-Reviews-Applebee_s_Grill_Bar-Parsippany_Morris_County_New_Jersey.html
+607,$$ - $$$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46583-d18819441-Reviews-Pulled_Fork_Bqb-Long_Valley_Morris_County_New_Jersey.html
+608,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d4694608-Reviews-Olde_Towne_Deli-Boonton_Morris_County_New_Jersey.html
+609,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d1465471-Reviews-Vanderbilt_s_Sports_and_Spirits-Florham_Park_Morris_County_New_Jersey.html
+610,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46924-d2248803-Reviews-Maria_s_Pizzeria_and_Restaurant-Wharton_Morris_County_New_Jersey.html
+611,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46644-d2370754-Reviews-Aji_Sushi_Japanese_Fusion-Morris_Plains_Morris_County_New_Jersey.html
+612,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d7154762-Reviews-Bagel_Chateau-Madison_Morris_County_New_Jersey.html
+613,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1048285-Reviews-Nicky_s_Firehouse_Restaurant_Pizza-Madison_Morris_County_New_Jersey.html
+614,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46569-d4831727-Reviews-George_s_Lincoln_Park_Diner-Lincoln_Park_Morris_County_New_Jersey.html
+615,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46569-d2551131-Reviews-Sunset_Pub_Grill-Lincoln_Park_Morris_County_New_Jersey.html
+616,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d5509995-Reviews-Chester_Hills_Diner-Chester_Morris_County_New_Jersey.html
+617,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d5480942-Reviews-Muldoon_s-Rockaway_Morris_County_New_Jersey.html
+618,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46438-d4563478-Reviews-Valentino_s-Flanders_Morris_County_New_Jersey.html
+619,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d3513094-Reviews-Rajni_South_Indian_Cuisine-Parsippany_Morris_County_New_Jersey.html
+620,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46639-d2100085-Reviews-Poor_Henry_s_Pub_Restaurant-Montville_Morris_County_New_Jersey.html
+621,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46778-d12153359-Reviews-Black_Bull_Steakhouse_Seafood-Riverdale_Morris_County_New_Jersey.html
+622,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d4625246-Reviews-Denville_Pizzeria_Restaurant-Denville_Morris_County_New_Jersey.html
+623,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d4274817-Reviews-The_Godfather_Seafood_Bar_Grill-East_Hanover_Morris_County_New_Jersey.html
+624,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46727-d3219875-Reviews-Bardi_s_Bar_Grill-Pequannock_Morris_County_New_Jersey.html
+625,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46540-d4631046-Reviews-Yummy_Taste_Chinese_Restaurant-Kenvil_Morris_County_New_Jersey.html
+626,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46748-d8046767-Reviews-Stefano_s_Ristorante-Pompton_Plains_Morris_County_New_Jersey.html
+627,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46924-d3535073-Reviews-Fortune_Buffet-Wharton_Morris_County_New_Jersey.html
+628,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d4941784-Reviews-Hickory_Tree_Delicatessen-Chatham_Morris_County_New_Jersey.html
+629,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d5093312-Reviews-Marino_S_Cafe_Restaurant-Dover_Morris_County_New_Jersey.html
+630,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46727-d4400402-Reviews-Golden_China-Pequannock_Morris_County_New_Jersey.html
+631,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d4413682-Reviews-Pavesi_Ristorante-Morristown_Morris_County_New_Jersey.html
+632,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d1064223-Reviews-Grasshopper_off_the_Green-Morristown_Morris_County_New_Jersey.html
+633,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d14153335-Reviews-Daddy_Matty_s_BBQ-Madison_Morris_County_New_Jersey.html
+634,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d6890424-Reviews-Applebee_s-East_Hanover_Morris_County_New_Jersey.html
+635,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d11890516-Reviews-Tandoori_Flames-Parsippany_Morris_County_New_Jersey.html
+636,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46355-d2323135-Reviews-Domo_7_Japanese_Restaurant_Hibachi-Chester_Morris_County_New_Jersey.html
+637,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46733-d4461855-Reviews-Tiffany_s_Restaurant-Pine_Brook_Montville_Morris_County_New_Jersey.html
+638,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46460-d4114864-Reviews-Lung_Yan_Chinese_Restaurant-Gillette_Morris_County_New_Jersey.html
+639,,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d12219490-Reviews-Hops_Craft_Bar-Morristown_Morris_County_New_Jersey.html
+640,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46540-d4647773-Reviews-New_York_Pizza_Restuarant-Kenvil_Morris_County_New_Jersey.html
+641,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46332-d16868642-Reviews-Bubbakoo_s_Burritos-Budd_Lake_Morris_County_New_Jersey.html
+642,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46569-d9818600-Reviews-Noches_de_Colombia-Lincoln_Park_Morris_County_New_Jersey.html
+643,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46355-d15276125-Reviews-Whitebirch_Restaurant-Chester_Morris_County_New_Jersey.html
+644,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46438-d2633595-Reviews-Applebee_s-Flanders_Morris_County_New_Jersey.html
+645,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d4718386-Reviews-Boonton_Sushi_House-Boonton_Morris_County_New_Jersey.html
+646,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46639-d7900111-Reviews-Lake_Valhalla_Country_Club-Montville_Morris_County_New_Jersey.html
+647,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d4622122-Reviews-Zio_Gino_Pizza_Grill-Chatham_Morris_County_New_Jersey.html
+648,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d4225392-Reviews-Lovey_s_Pizza_Grill-Morris_Plains_Morris_County_New_Jersey.html
+649,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d4274685-Reviews-Masago-Morristown_Morris_County_New_Jersey.html
+650,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46764-d6678631-Reviews-Mario_s_Famous_Pizza-Randolph_Morris_County_New_Jersey.html
+651,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d4398923-Reviews-Italian_Village_Pizza-Madison_Morris_County_New_Jersey.html
+652,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d4718205-Reviews-Domenico_s_Pizza-Rockaway_Morris_County_New_Jersey.html
+653,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46563-d12884467-Reviews-Iron_Hills_Tavern-Ledgewood_Morris_County_New_Jersey.html
+654,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46583-d4636009-Reviews-Valley_Restaurant_Pub-Long_Valley_Morris_County_New_Jersey.html
+655,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d15264430-Reviews-American_Heroes_Smokehouse-Randolph_Morris_County_New_Jersey.html
+656,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46612-d10371351-Reviews-Sorrento_s_Pizza-Mendham_Morris_County_New_Jersey.html
+657,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d2219968-Reviews-Charlie_Brown_s_Steakhouse-Chatham_Morris_County_New_Jersey.html
+658,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46924-d7360899-Reviews-La_Forchetta_Pizzeria_and_Italian_Grill-Wharton_Morris_County_New_Jersey.html
+659,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46644-d8130262-Reviews-Lake_Hopatcong_Cruises-Morris_Plains_Morris_County_New_Jersey.html
+660,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46547-d4644813-Reviews-Sushi_Kuu-Lake_Hiawatha_Morris_County_New_Jersey.html
+661,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46460-d9717105-Reviews-Angie_s_Gourmet_Deli-Gillette_Morris_County_New_Jersey.html
+662,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46639-d12070783-Reviews-Tuscany_Villa_Ristorante-Montville_Morris_County_New_Jersey.html
+663,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d14038842-Reviews-Philly_Pretzel_Factory-Morristown_Morris_County_New_Jersey.html
+664,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46332-d4712820-Reviews-B_J_Sandwich_Shop-Budd_Lake_Morris_County_New_Jersey.html
+665,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d10778919-Reviews-Garibaldi_Peru_Mex-Parsippany_Morris_County_New_Jersey.html
+666,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d12117974-Reviews-DA_Ristorante-Morristown_Morris_County_New_Jersey.html
+667,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d12067598-Reviews-Chianti_Brick_Oven_Trattoria-Chatham_Morris_County_New_Jersey.html
+668,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d5060119-Reviews-Florham_Park_Bagel_and_Deli-Florham_Park_Morris_County_New_Jersey.html
+669,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d458002-Reviews-Chili_s_Grill_Bar-East_Hanover_Morris_County_New_Jersey.html
+670,,5.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d16811459-Reviews-Kilwins-Morristown_Morris_County_New_Jersey.html
+671,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3353377-Reviews-Dominick_s_Pizza-Morristown_Morris_County_New_Jersey.html
+672,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d459465-Reviews-Morristown_Diner-Morristown_Morris_County_New_Jersey.html
+673,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d4846271-Reviews-Fratelli_s_Deli-Madison_Morris_County_New_Jersey.html
+674,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d5228692-Reviews-Cafe_Villa-Chatham_Morris_County_New_Jersey.html
+675,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d1186493-Reviews-Thai_Ping-Boonton_Morris_County_New_Jersey.html
+676,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d16693453-Reviews-Arachosia_Grill-Parsippany_Morris_County_New_Jersey.html
+677,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d15125528-Reviews-Starbucks-Parsippany_Morris_County_New_Jersey.html
+678,$$ - $$$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d19270404-Reviews-Tino_s_Artisan_Pizza-Madison_Morris_County_New_Jersey.html
+679,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46332-d4725080-Reviews-Vincenzo_s_Pizzeria_and_Restaurant-Budd_Lake_Morris_County_New_Jersey.html
+680,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d7269970-Reviews-Pho_Thanh_Huong_Restaurant-Parsippany_Morris_County_New_Jersey.html
+681,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46645-d4809408-Reviews-Andys_Roadside_Dive-Mount_Arlington_Morris_County_New_Jersey.html
+682,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d17648637-Reviews-Chick_fil_A-Morris_Plains_Morris_County_New_Jersey.html
+683,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d12538855-Reviews-Red_White_Que_Smokehouse-Randolph_Morris_County_New_Jersey.html
+684,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46349-d19830679-Reviews-The_Bagelry-Cedar_Knolls_Morris_County_New_Jersey.html
+685,,5.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d18907158-Reviews-Hibiscus_Restaurant-Morristown_Morris_County_New_Jersey.html
+686,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d12248676-Reviews-Weenies-Denville_Morris_County_New_Jersey.html
+687,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46872-d15666930-Reviews-Pizza_Cucina-Towaco_Montville_Morris_County_New_Jersey.html
+688,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d12537087-Reviews-Cuba_Mia-Parsippany_Morris_County_New_Jersey.html
+689,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d4987998-Reviews-Smith_s_Tavern-Rockaway_Morris_County_New_Jersey.html
+690,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d2385681-Reviews-Main_Street_Submarines-Madison_Morris_County_New_Jersey.html
+691,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d5252219-Reviews-The_Godfather_of_Morristown-Morristown_Morris_County_New_Jersey.html
+692,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d2335575-Reviews-Esposito_s_Meats_Deli-East_Hanover_Morris_County_New_Jersey.html
+693,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d4718529-Reviews-Roman_Pizza-Chester_Morris_County_New_Jersey.html
+694,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d1815588-Reviews-On_a_Roll-Madison_Morris_County_New_Jersey.html
+695,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d2108626-Reviews-Bokhara_kebab_House-Boonton_Morris_County_New_Jersey.html
+696,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d2385585-Reviews-Empire_Diner-Parsippany_Morris_County_New_Jersey.html
+697,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d15122913-Reviews-T_M_Ward_Coffee_Co-Chatham_Morris_County_New_Jersey.html
+698,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d4637179-Reviews-Wendy_s-East_Hanover_Morris_County_New_Jersey.html
+699,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46335-d3932155-Reviews-Mizuki-Butler_Morris_County_New_Jersey.html
+700,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46872-d12637291-Reviews-Eli_s_Corner_Gourmet_Bagel-Towaco_Montville_Morris_County_New_Jersey.html
+701,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46547-d2412817-Reviews-Valentino_s_Pizza-Lake_Hiawatha_Morris_County_New_Jersey.html
+702,,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d12408582-Reviews-The_Salad_House-Morristown_Morris_County_New_Jersey.html
+703,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46547-d459321-Reviews-Spa_Restaurant-Lake_Hiawatha_Morris_County_New_Jersey.html
+704,$$$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d2136939-Reviews-J_K_Steakhouse-Morristown_Morris_County_New_Jersey.html
+705,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46441-d15353592-Reviews-Pastosa_Ravioli-Florham_Park_Morris_County_New_Jersey.html
+706,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d13390977-Reviews-Sabor_a_Mexico-Rockaway_Morris_County_New_Jersey.html
+707,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d15229931-Reviews-Weenies-Madison_Morris_County_New_Jersey.html
+708,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d8659348-Reviews-Dosa_Express-Parsippany_Morris_County_New_Jersey.html
+709,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d13796484-Reviews-Sakana_Sushi_Japanese_Cuisine-East_Hanover_Morris_County_New_Jersey.html
+710,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46663-d4967435-Reviews-Johnny_Jrs_Pizza-Netcong_Morris_County_New_Jersey.html
+711,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d4946662-Reviews-Scoop_Coop-East_Hanover_Morris_County_New_Jersey.html
+712,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d3245940-Reviews-Hot_Breads_Bakery-Parsippany_Morris_County_New_Jersey.html
+713,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d5052825-Reviews-The_King_s_Palace-Denville_Morris_County_New_Jersey.html
+714,,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d4695617-Reviews-El_Encuentro_Centro_Americano_Restaurant-Morristown_Morris_County_New_Jersey.html
+715,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46764-d8479280-Reviews-Antimo_s_Pizzeria_Restaurant-Randolph_Morris_County_New_Jersey.html
+716,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d952966-Reviews-Tabor_Pizza-Parsippany_Morris_County_New_Jersey.html
+717,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46733-d4726157-Reviews-McDonald_s-Pine_Brook_Montville_Morris_County_New_Jersey.html
+718,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46524-d3531088-Reviews-The_Pizza_Pub_Restaurant-Ironia_Randolph_Morris_County_New_Jersey.html
+719,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46438-d4661447-Reviews-Frank_s_Pizza-Flanders_Morris_County_New_Jersey.html
+720,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d1186487-Reviews-Bean_Curd-Chatham_Morris_County_New_Jersey.html
+721,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46727-d4835037-Reviews-Kenny_s_Pit_Stop-Pequannock_Morris_County_New_Jersey.html
+722,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d4508109-Reviews-Anthony_Francos_Pizzeria-Parsippany_Morris_County_New_Jersey.html
+723,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d10701921-Reviews-Jersey_Mike_s_Subs-East_Hanover_Morris_County_New_Jersey.html
+724,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d1980460-Reviews-Tony_s_Pizza-Morris_Plains_Morris_County_New_Jersey.html
+725,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46854-d4374480-Reviews-Boston_Market-Succasunna_Morris_County_New_Jersey.html
+726,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d11977793-Reviews-Noodle_Wong-Parsippany_Morris_County_New_Jersey.html
+727,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d14862011-Reviews-Madison_Bagel_Cafe-Madison_Morris_County_New_Jersey.html
+728,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46612-d15835599-Reviews-Frank-Mendham_Morris_County_New_Jersey.html
+729,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46438-d4276227-Reviews-Wendy_s-Flanders_Morris_County_New_Jersey.html
+730,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d8601313-Reviews-Bollywood_Grill-Parsippany_Morris_County_New_Jersey.html
+731,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d5455970-Reviews-Yo_Lotta_Luv-Chatham_Morris_County_New_Jersey.html
+732,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46563-d15581130-Reviews-Delizia_Pizza_Kitchen-Ledgewood_Morris_County_New_Jersey.html
+733,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46612-d5485143-Reviews-Colonial_Pantry-Mendham_Morris_County_New_Jersey.html
+734,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d4827036-Reviews-Fairmount_Country_Store-Chatham_Morris_County_New_Jersey.html
+735,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d4435701-Reviews-Subway-East_Hanover_Morris_County_New_Jersey.html
+736,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d17240579-Reviews-Dhaba_Express-Parsippany_Morris_County_New_Jersey.html
+737,$$ - $$$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d19955906-Reviews-House_of_Biryani_s_and_Kebabs-Denville_Morris_County_New_Jersey.html
+738,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d4516118-Reviews-Giulietta_Romeo_Pizzeria_Restaurant-East_Hanover_Morris_County_New_Jersey.html
+739,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46332-d4715695-Reviews-Subway-Budd_Lake_Morris_County_New_Jersey.html
+740,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d10280839-Reviews-Colonial_Grill_On_The_Green-Morristown_Morris_County_New_Jersey.html
+741,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46563-d3553417-Reviews-TGI_Fridays-Ledgewood_Morris_County_New_Jersey.html
+742,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46727-d5053266-Reviews-Jersey_Johnnys_Grill-Pequannock_Morris_County_New_Jersey.html
+743,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d11719177-Reviews-Whole_Foods_Market-Madison_Morris_County_New_Jersey.html
+744,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d12229481-Reviews-RJ_s_Pizzeria-Rockaway_Morris_County_New_Jersey.html
+745,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d19666008-Reviews-Elmas_Turkish_and_Mediterranean_Cuisine_Restaurant-Parsippany_Morris_County_New_J.html
+746,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d4948554-Reviews-Frank_Son_Pizzeria-Parsippany_Morris_County_New_Jersey.html
+747,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d4678506-Reviews-Baldwin_pizzeria_restaurant-Parsippany_Morris_County_New_Jersey.html
+748,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d4539344-Reviews-IHOP-Boonton_Morris_County_New_Jersey.html
+749,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46924-d12491084-Reviews-Pop_s_Chicken-Wharton_Morris_County_New_Jersey.html
+750,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d2483644-Reviews-Sri_Ganesh_s_Dosa_House-Parsippany_Morris_County_New_Jersey.html
+751,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46569-d4990541-Reviews-Linda_s_Deli-Lincoln_Park_Morris_County_New_Jersey.html
+752,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d7230233-Reviews-Uptown_Art_Denville-Denville_Morris_County_New_Jersey.html
+753,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46401-d6981525-Reviews-Angelo_s_Deli-East_Hanover_Morris_County_New_Jersey.html
+754,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d5046673-Reviews-Singas_Famous_Pizza-Parsippany_Morris_County_New_Jersey.html
+755,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d5243760-Reviews-Pizza_Oven_Mamma_Mia-East_Hanover_Morris_County_New_Jersey.html
+756,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46569-d17851292-Reviews-The_Empanada_Times-Lincoln_Park_Morris_County_New_Jersey.html
+757,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46335-d7855666-Reviews-Anthony_Francos-Butler_Morris_County_New_Jersey.html
+758,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d4657258-Reviews-Tinos_BBQ_and_Grill-Parsippany_Morris_County_New_Jersey.html
+759,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d3380212-Reviews-Mancino_s_Pizza-Denville_Morris_County_New_Jersey.html
+760,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d17851411-Reviews-Main_233_Eatery_Catering-Chatham_Morris_County_New_Jersey.html
+761,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d4600592-Reviews-Parsippany_Deli-Parsippany_Morris_County_New_Jersey.html
+762,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d2253997-Reviews-Giuseppes_Trattoria-Chester_Morris_County_New_Jersey.html
+763,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46644-d10665741-Reviews-Riviera_Maya_Taqueria-Morris_Plains_Morris_County_New_Jersey.html
+764,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d4981416-Reviews-Tavern_On_the_Rocks-Rockaway_Morris_County_New_Jersey.html
+765,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46569-d15851070-Reviews-5_Brother_s_Bagels-Lincoln_Park_Morris_County_New_Jersey.html
+766,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d17700657-Reviews-Mostly_Grill_Indian_Fusion_Cuisine-Rockaway_Morris_County_New_Jersey.html
+767,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d12554207-Reviews-Il_Torrente-Denville_Morris_County_New_Jersey.html
+768,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d15171033-Reviews-Palermo_s_Pizzeria-Parsippany_Morris_County_New_Jersey.html
+769,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46335-d4649422-Reviews-Wendy_s-Butler_Morris_County_New_Jersey.html
+770,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46438-d4613336-Reviews-Chili_s-Flanders_Morris_County_New_Jersey.html
+771,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d5537306-Reviews-Zuzanna_s_Gourmet-Randolph_Morris_County_New_Jersey.html
+772,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46588-d4416348-Reviews-Romanelli_s_Italian_Eatery-Madison_Morris_County_New_Jersey.html
+773,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46748-d7805095-Reviews-AJ_s_Pizza-Pompton_Plains_Morris_County_New_Jersey.html
+774,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d20099630-Reviews-SubUrban_Bar_Kitchen-Randolph_Morris_County_New_Jersey.html
+775,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d7608825-Reviews-Bluefin_Sushi-Denville_Morris_County_New_Jersey.html
+776,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46349-d14495683-Reviews-Ihop-Cedar_Knolls_Morris_County_New_Jersey.html
+777,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d10761769-Reviews-Bangiola_s_Deli-Parsippany_Morris_County_New_Jersey.html
+778,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d4714045-Reviews-J_and_M_Grill-Boonton_Morris_County_New_Jersey.html
+779,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46547-d4915591-Reviews-Howard_s_Bagels_Gourmet_Deli-Lake_Hiawatha_Morris_County_New_Jersey.html
+780,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d4942349-Reviews-Qdoba_Mexican_Grill-Rockaway_Morris_County_New_Jersey.html
+781,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d8753633-Reviews-So_Gong_Dong-East_Hanover_Morris_County_New_Jersey.html
+782,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46639-d5083284-Reviews-Montville_Bagels_and_Deli-Montville_Morris_County_New_Jersey.html
+783,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46727-d19409136-Reviews-Rivaaz-Pequannock_Morris_County_New_Jersey.html
+784,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d14044732-Reviews-Yasou_Milos-Denville_Morris_County_New_Jersey.html
+785,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46924-d5076911-Reviews-The_Daily_Dish_Deli-Wharton_Morris_County_New_Jersey.html
+786,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46352-d4953073-Reviews-Good_Taste_Chinese_Restaurant-Chatham_Morris_County_New_Jersey.html
+787,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d15312785-Reviews-Grassroots_Natural_Market-Denville_Morris_County_New_Jersey.html
+788,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46644-d17602057-Reviews-First_Watch-Morris_Plains_Morris_County_New_Jersey.html
+789,$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46441-d3923477-Reviews-Florham_Park_Pizza_Restaurant-Florham_Park_Morris_County_New_Jersey.html
+790,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d8396274-Reviews-The_Waverly-Madison_Morris_County_New_Jersey.html
+791,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d954234-Reviews-Keo_Ku_Restaurant-Parsippany_Morris_County_New_Jersey.html
+792,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46715-d8000742-Reviews-Sukhadia_s_Indian_Grill-Parsippany_Morris_County_New_Jersey.html
+793,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d4718151-Reviews-Nathan_s_Famous-Rockaway_Morris_County_New_Jersey.html
+794,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46540-d4542608-Reviews-China_King-Kenvil_Morris_County_New_Jersey.html
+795,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46438-d15166937-Reviews-Golden_Burrito_Mexican_Spot-Flanders_Morris_County_New_Jersey.html
+796,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46764-d12995936-Reviews-Lotus_Thai_Cuisine-Randolph_Morris_County_New_Jersey.html
+797,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46778-d12333719-Reviews-Italian_Table_Trattoria_Pizza-Riverdale_Morris_County_New_Jersey.html
+798,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46629-d4478290-Reviews-Bally_Dar_Chinese_Restaurant-Mine_Hill_Morris_County_New_Jersey.html
+799,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46397-d4932584-Reviews-Tierra_s_Y_Sabores-Dover_Morris_County_New_Jersey.html
+800,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46397-d12116466-Reviews-Six_West_Bar_and_Grill-Dover_Morris_County_New_Jersey.html
+801,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46793-d20961266-Reviews-Anthony_Franco_s_Ristorante_Pizzeria-Roxbury_Morris_County_New_Jersey.html
+802,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46547-d13476207-Reviews-Real_Thai_Halal-Lake_Hiawatha_Morris_County_New_Jersey.html
+803,$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46401-d5099289-Reviews-Ridgedale_Diner_Restaurant-East_Hanover_Morris_County_New_Jersey.html
+804,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d8631316-Reviews-Mirchi-Parsippany_Morris_County_New_Jersey.html
+805,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46663-d4922585-Reviews-Yangtze_Kitchen-Netcong_Morris_County_New_Jersey.html
+806,,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d4988374-Reviews-Hot_Bagels_and_Deli-Boonton_Morris_County_New_Jersey.html
+807,,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d10082981-Reviews-Pascarella_Brothers_Sandwich_Shoppe-Morristown_Morris_County_New_Jersey.html
+808,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46764-d4563543-Reviews-Verona_Restaurant-Randolph_Morris_County_New_Jersey.html
+809,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d13285221-Reviews-Pierogies_House-Morristown_Morris_County_New_Jersey.html
+810,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46924-d4622318-Reviews-Spain_Rincon-Wharton_Morris_County_New_Jersey.html
+811,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d11961183-Reviews-Stirling_Tavern-Morristown_Morris_County_New_Jersey.html
+812,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46924-d4981252-Reviews-Knotty_Pine_Pub-Wharton_Morris_County_New_Jersey.html
+813,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46644-d2571780-Reviews-Carmel_Haifa-Morris_Plains_Morris_County_New_Jersey.html
+814,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46349-d7294513-Reviews-H2Ocean_Restaurant_Raw_Bar-Cedar_Knolls_Morris_County_New_Jersey.html
+815,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46397-d5961506-Reviews-Table_42-Dover_Morris_County_New_Jersey.html
+816,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d7687022-Reviews-The_Committed_Pig-Morristown_Morris_County_New_Jersey.html
+817,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46612-d1544122-Reviews-The_Black_Horse_Tavern_Pub-Mendham_Morris_County_New_Jersey.html
+818,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d4627093-Reviews-El_Marino-Dover_Morris_County_New_Jersey.html
+819,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d2059141-Reviews-Marjan_Fine_Persian_Grill-Morristown_Morris_County_New_Jersey.html
+820,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d4480019-Reviews-Malay-Morristown_Morris_County_New_Jersey.html
+821,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46854-d1167274-Reviews-Sushi_Hana_Japanese_Restaurant-Succasunna_Morris_County_New_Jersey.html
+822,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d6975371-Reviews-Laku_Sushi-Morristown_Morris_County_New_Jersey.html
+823,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d516734-Reviews-Cafe_Metro-Denville_Morris_County_New_Jersey.html
+824,,5.0,https://www.tripadvisor.com/Restaurant_Review-g46397-d4647422-Reviews-La_Costilla_De_Pedro-Dover_Morris_County_New_Jersey.html
+825,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1132660-Reviews-Office_Tavern_Grill-Morristown_Morris_County_New_Jersey.html
+826,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d15609738-Reviews-Fiamma_Wood_Fired_Pizza-Morristown_Morris_County_New_Jersey.html
+827,,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d12486715-Reviews-Mediterranean_Grill-Morristown_Morris_County_New_Jersey.html
+828,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46392-d3785798-Reviews-Caffe_Delhi-Denville_Morris_County_New_Jersey.html
+829,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d7239743-Reviews-Gencarelli_Restaurant_Pizza-Rockaway_Morris_County_New_Jersey.html
+830,$,5.0,https://www.tripadvisor.com/Restaurant_Review-g46783-d6985322-Reviews-Missy_s_Main_Street_Cafe-Rockaway_Morris_County_New_Jersey.html
+831,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46355-d1050624-Reviews-Benito_s_Trattoria-Chester_Morris_County_New_Jersey.html
+832,,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d14485227-Reviews-Bill_s_Luncheonette-Chester_Morris_County_New_Jersey.html
+833,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d4941943-Reviews-Marilyn_s_Cafe-Chester_Morris_County_New_Jersey.html
+834,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d4523150-Reviews-Lamplighter_Restaurant_Pub-Chester_Morris_County_New_Jersey.html
+835,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46355-d4931055-Reviews-Sub_Pub-Chester_Morris_County_New_Jersey.html
+836,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d945561-Reviews-The_Famished_Frog-Morristown_Morris_County_New_Jersey.html
+837,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d1891768-Reviews-Arthur_s_Tavern-Morris_Plains_Morris_County_New_Jersey.html
+838,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d2298253-Reviews-Blue_Morel_Restaurant_and_Wine_Bar-Morristown_Morris_County_New_Jersey.html
+839,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d945562-Reviews-Pazzo_Pazzo-Morristown_Morris_County_New_Jersey.html
+840,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d2213497-Reviews-Roots_Steakhouse-Morristown_Morris_County_New_Jersey.html
+841,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d648367-Reviews-Chef_Fredy_s_Table-Morristown_Morris_County_New_Jersey.html
+842,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g60906-d2346025-Reviews-Urban_Table-Morristown_Morris_County_New_Jersey.html
+843,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46588-d1315862-Reviews-L_Allegria-Madison_Morris_County_New_Jersey.html
+844,,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d3929686-Reviews-Olive_Lucy_s_Kitchen_Table-Morristown_Morris_County_New_Jersey.html
+845,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d4136914-Reviews-Tashmoo_Restaurant_Bar-Morristown_Morris_County_New_Jersey.html
+846,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46315-d459305-Reviews-Reservoir_Tavern-Boonton_Morris_County_New_Jersey.html
+847,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46315-d2552916-Reviews-Sharky_s_West-Boonton_Morris_County_New_Jersey.html
+848,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46715-d4626974-Reviews-Panda_Wok-Parsippany_Morris_County_New_Jersey.html
+849,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d459434-Reviews-Scalini_Fedeli-Chatham_Morris_County_New_Jersey.html
+850,$$$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46352-d643108-Reviews-Restaurant_Serenade-Chatham_Morris_County_New_Jersey.html
+851,$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46397-d4200319-Reviews-Pollos_Pucalor-Dover_Morris_County_New_Jersey.html
+852,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46645-d782971-Reviews-Pub_199-Mount_Arlington_Morris_County_New_Jersey.html
+853,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d888186-Reviews-Hunan_Taste_Chinese_Restaurant-Denville_Morris_County_New_Jersey.html
+854,$$ - $$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g46644-d2462953-Reviews-Verde_Ristorante-Morris_Plains_Morris_County_New_Jersey.html
+855,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46783-d3906241-Reviews-Rockaway_River_Barn-Rockaway_Morris_County_New_Jersey.html
+856,$$ - $$$,3.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d2182186-Reviews-La_Cucina-Denville_Morris_County_New_Jersey.html
+857,$$ - $$$,4.5,https://www.tripadvisor.com/Restaurant_Review-g46392-d1060844-Reviews-Veggie_Heaven-Denville_Morris_County_New_Jersey.html
+858,$$$$,4.0,https://www.tripadvisor.com/Restaurant_Review-g60906-d1062779-Reviews-The_Grand_Cafe-Morristown_Morris_County_New_Jersey.html
