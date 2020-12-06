@@ -28,7 +28,7 @@
        * Using Google Place Details API, retrieved restaurant address, restaurant website and google maps url
        * Saved google dataframe to a csv file
    
-   * Notes: 
+   * **Notes:** 
       * Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this, we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360         
       * The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data.  
 
@@ -47,9 +47,12 @@
         * Restaurant Dataset: contains restaurant_id, restaurant_name, restaurant_website, address1, city, state and zip code
         * Google Dataset: restaurant_id, google_price_level, google_rating, google_maps_url
         * Yelp Dataset: restaurant_id, yelp_price_level, yelp_rating, yelp_url
+        * Trip Advisor Dataset: restaurant_id, trip_advisor_price_level, trip_advisor_rating, trip_advisor_url
         * Cuisine Dataset: cuisine, restaurant_id
    * Saved the above dataframes to csv files.
 
+   * **Notes:**
+       * There are discrepancies in the restaurant name and address Eg Yelp has "Quiet Man Pub", google has "The Quiet Man Pub/Restaurant" and Trip Advisor has "The Quiet Man" All 3 are the same restaurants. If we had time to standardize the addresses, we would have been able to compare and merge the restaurants.
 
    #### Load:
    * 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
@@ -61,6 +64,46 @@
         ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
 
 
+   #### Recreate the Database:
+1. Run all the files in Extract folder, in any order.   
+   yelp-data-extraction Dependencies:  
+       
+```
+import pandas as pd
+import requests
+from splinter import Browser
+from bs4 import BeautifulSoup
+import time
+```    
+       
+   google-data-extraction Dependencies   
+```
+import pandas as pd
+import requests
+import json
+import time
+```       
+ 
+   Trip-advisor Dependancies   
+```
+from splinter import Browser
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+import requests
+```   
+
+2. Run Transformation from the Transformation folder   
+   Transformation Dependancies
+```
+import pandas as pd
+import requests
+import re
+```
+3. Load
+    
+    
    ##### Query Example:
    * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
    * Query Yelp rating and cuisine sorted by best rating:
