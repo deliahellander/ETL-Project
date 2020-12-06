@@ -17,9 +17,9 @@
 
 -- Query Example
 
-        -- Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, TripAdvisor)
+ 	-- Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, TripAdvisor)
         SELECT "Restaurant_Info".restaurant_id, "Restaurant_Info".restaurant_name,"Restaurant_Info".restaurant_website,
-        "Yelp_Rating".yelp_rating, "Google_Maps_Rating".google_maps_rating
+        "Yelp_Rating".yelp_rating, "Google_Maps_Rating".google_maps_rating, "Trip_Advisor_Rating".trip_advisor_rating
         FROM "Restaurant_Info"
         INNER JOIN "Yelp_Rating" ON "Restaurant_Info".restaurant_id = "Yelp_Rating".restaurant_id
         INNER JOIN "Google_Maps_Rating" ON "Google_Maps_Rating".restaurant_id = "Yelp_Rating".restaurant_id
