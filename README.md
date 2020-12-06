@@ -17,7 +17,7 @@
 
 ### ETL Process:
 
-   #### Extract:
+#### Extract:
    * Scrape yelp website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
        * First retrieved restaurant name, yelp url for restaurant, restaurant rating, price-level and cuisine from yelp.
        * Using the yelp_url for each restaurant, retrieved the restaurant address and restaurant’s website
@@ -54,7 +54,7 @@
    * **Notes:**
        * There are discrepancies in the restaurant name and address Eg Yelp has "Quiet Man Pub", google has "The Quiet Man Pub/Restaurant" and Trip Advisor has "The Quiet Man" All 3 are the same restaurants. If we had time to standardize the addresses, we would have been able to compare and merge the restaurants.
 
-   #### Load:
+#### Load:
    * 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
         * All linked by restaurant_id
         * Used QuickDBD to formulate the ERD below, exported the corresponding code and ran it in PgAdmin to formulate tables.
@@ -64,7 +64,7 @@
         ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
 
 
-   #### Recreate the Database:
+#### Recreate the Database:
 1. Run all the files in Extract folder, in any order.   
    yelp-data-extraction Dependencies:  
        
