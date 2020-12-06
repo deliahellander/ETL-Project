@@ -27,10 +27,15 @@
        * Using Google Places API, retrieved restaurant name, place_id, price-level and restaurant rating
        * Using Google Place Details API, retrieved restaurant address, restaurant website and google maps url
        * Saved google dataframe to a csv file
-   
+   * Scrape Tripadvisor with the help of BeautifulSoup and Splinter to get datapoints for all restaurants in Morris County, NJ.
+       * Retrieved the restaurant name, price level, and cuisine type from main Tripadvisor page.
+       * Using the Tripadvisor link for each individual restaurant, found the remaining datapoints: restaurant address and rating on a scale from 1 to 5.
+
+       * 
    * Notes: 
       * Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this, we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360         
-      * The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data.  
+      * The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data. 
+      * Complications arose when trying to extract the restaurants' websites from Tripadvisor. Hyperlink would not show up and the source of this issue could not be found.   
 
 #### Transform:
    * Extract raw data files (in csv, json, html. Etc. format)  into DataFrames
