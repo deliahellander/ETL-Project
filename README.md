@@ -119,10 +119,11 @@ Running the transformation file results in restaurant_data.csv, google_final_dat
     
    ##### Query Example:
    * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
+   ![ERD](https://github.com/deliahellander/ETL-Project/blob/main/Load/Query_Examples/Ratings_From_all_3_sources.png?raw=true)
    * Query Yelp rating and cuisine sorted by best rating:
    ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/Query_Examples/Yelp_Rating_sorted_Desc_by_rating.png?raw=true)
    * See other Query examples in "Load" folder > "Query_Examples" folder.
-   ![ERD](https://github.com/deliahellander/ETL-Project/blob/main/Load/Query_Examples/Ratings_From_all_3_sources.png?raw=true)
+  
 
 
 
