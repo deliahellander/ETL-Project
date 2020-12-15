@@ -116,10 +116,10 @@ import re
 Running the transformation file results in restaurant_data.csv, google_final_data.csv, yelp_final_data.csv, tripadvisor_final_data.csv and cuisine_data.csv   
 
 
-3. Load
-   Add your postgres password in Load/config.py
-   Run sqldb.ipynb
-   sqldb Dependancies
+3. Load   
+   Add your postgres password in Load/config.py   
+   Run sqldb.ipynb   
+   sqldb Dependancies   
    ```
    import pandas as pd
    from sqlalchemy import create_engine
