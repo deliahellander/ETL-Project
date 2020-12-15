@@ -117,9 +117,18 @@ Running the transformation file results in restaurant_data.csv, google_final_dat
 
 
 3. Load   
+   USING POSTGRES:   
    Add your postgres password in Load/config.py   
    Run sqldb.ipynb   
    sqldb Dependancies   
+   ```
+   import pandas as pd
+   from sqlalchemy import create_engine
+   ```
+
+   OR USING SQLITE:
+   Run sqlite.ipynb   
+   sqlite Dependancies   
    ```
    import pandas as pd
    from sqlalchemy import create_engine
