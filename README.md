@@ -86,6 +86,8 @@ import time
 ```    
        
    google-data-extraction Dependencies   
+
+Add your google API Key in Extract/config.py
 ```
 import pandas as pd
 import requests
@@ -115,7 +117,13 @@ Running the transformation file results in restaurant_data.csv, google_final_dat
 
 
 3. Load
-     
+   Add your postgres password in Load/config.py
+   Run sqldb.ipynb
+   sqldb Dependancies
+   ```
+   import pandas as pd
+   from sqlalchemy import create_engine
+   ```
     
    ##### Query Example:
    * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
