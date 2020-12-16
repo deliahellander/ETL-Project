@@ -74,7 +74,8 @@ Saved scraped data to google_data.csv
 
 
 #### Recreate the Database:
-1. Run all the files in Extract folder, in any order.   
+1. Run all the notebooks in Extract folder, in any order. Please note all the no=tebooks, especially Trip-advisor notebook takes a long time to run.   
+  
    yelp-data-extraction Dependencies:  
        
 ```
