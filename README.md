@@ -74,9 +74,11 @@ Saved scraped data to google_data.csv
 
 
 #### Recreate the Database:
-1. Run all the notebooks in Extract folder, in any order. Please note all the no=tebooks, especially Trip-advisor notebook takes a long time to run.   
-  
-   yelp-data-extraction Dependencies:  
+1. **Extract:** Run all the notebooks in Extract folder, in any order. Please note all the notebooks, especially Trip-advisor notebook takes a long time to run.   
+
+yelp-data-extraction Dependencies:  
+
+Requires Chrome browser and ChromeDriver.exe
        
 ```
 import pandas as pd
@@ -86,7 +88,7 @@ from bs4 import BeautifulSoup
 import time
 ```    
        
-   google-data-extraction Dependencies   
+google-data-extraction Dependencies   
 
 Add your google API Key in Extract/config.py
 ```
@@ -96,7 +98,8 @@ import json
 import time
 ```       
  
-   Trip-advisor Dependancies   
+Trip-advisor Dependancies   
+
 ```
 from splinter import Browser
 from webdriver_manager.chrome import ChromeDriverManager
@@ -107,7 +110,7 @@ import requests
 ```   
 Running these 3 files will return yelp_data.csv, google_data.csv and tripadvisor_data.csv in the Resources folder.  
 
-2. Run Transformation from the Transformation folder   
+2. **Transform:** Run Transformation from the Transformation folder   
    Transformation Dependancies
 ```
 import pandas as pd
@@ -117,10 +120,12 @@ import re
 Running the transformation file results in restaurant_data.csv, google_final_data.csv, yelp_final_data.csv, tripadvisor_final_data.csv and cuisine_data.csv   
 
 
-3. Load   
+3. **Load:**   
    USING POSTGRES:   
+
    Add your postgres password in Load/config.py   
-   Run sqldb.ipynb   
+   Run sqldb notebook
+
    sqldb Dependancies   
    ```
    import pandas as pd
@@ -128,7 +133,9 @@ Running the transformation file results in restaurant_data.csv, google_final_dat
    ```
 
    OR USING SQLITE:
-   Run sqlite.ipynb   
+
+   Run sqlite notebook
+      
    sqlite Dependancies   
    ```
    import pandas as pd
