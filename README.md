@@ -1,4 +1,5 @@
 # ETL Project Report
+---
 #### Group 7: Deepa, Raul, Tom, and Delia
 
 ## Restaurants of Morris County NJ
@@ -17,64 +18,71 @@ Saved scraped data to tripadvisor_data.csv
 * **Google**: Google Places API and Place Details API to find restaurants in Morris County.    
 Saved scraped data to google_data.csv
 
+---
 
-### ETL Process:
+## ETL Process:
 
-#### Extract:
-   * Scrape yelp website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
-       * First retrieved restaurant name, yelp url for restaurant, restaurant rating, price-level and cuisine from yelp.
-       * Using the yelp_url for each restaurant, retrieved the restaurant address and restaurant’s website
-       * Saved yelp dataframe to a csv file
+---
+
+### Extract:
+1. Scrape yelp website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
+    * First retrieved restaurant name, yelp url for restaurant, restaurant rating, price-level and cuisine from yelp.
+    * Using the yelp_url for each restaurant, retrieved the restaurant address and restaurant’s website
+    * Saved yelp dataframe to a csv file   
    
-   * Used Google Places API and Place Details API to find restaurants within 6 different long and lat locations in Morris County.
-       * Using Google Places API, retrieved restaurant name, place_id, price-level and restaurant rating
-       * Using Google Place Details API, retrieved restaurant address, restaurant website and google maps url
-       * Saved google dataframe to a csv file  
+   
+2. Used Google Places API and Place Details API to find restaurants within 6 different long and lat locations in Morris County.
+    * Using Google Places API, retrieved restaurant name, place_id, price-level and restaurant rating
+    * Using Google Place Details API, retrieved restaurant address, restaurant website and google maps url
+    * Saved google dataframe to a csv file   
        
-   * Scrape trip advisor website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
-       * First retrieved restaurant name, trip advisor url, price_level and cuisine for restaurants.
-       * Using the trip advisor url for each restaurant, retrieved the restaurant address and restaurant's rating
-       * Saved trip advisor dataframe to a csv file
+       
+3. Scrape trip advisor website using requests, Beautiful Soup and splinter to find all restaurants in Morris County, NJ
+    * First retrieved restaurant name, trip advisor url, price_level and cuisine for restaurants.
+    * Using the trip advisor url for each restaurant, retrieved the restaurant address and restaurant's rating
+    * Saved trip advisor dataframe to a csv file
    
-   * **Notes:** 
-      * Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this, we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360         
-      * The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data.  
+#### Notes:
+* Google does not give a comprehensive list of all restaurants in Morris County. The Google Places API returns only 60 results per query. To counter this, we used the Google Places API to retrieve restaurants for 6 different latitude and longitude locations in Morris County getting a total of 360         
+* The restaurant categorization for google and yelp is different. For example: Google returns Subway, Dunkin Donuts, Gas stations that serve food as restaurants. These cannot be found in the Yelp data.  
 
-#### Transform:
-   * Extract raw data files (in csv, json, html. Etc. format)  into DataFrames
-   * Clean DataFrame: 
-        * Remove any restaurants outside of Morris County; 
-        * Dropping duplicate restaurant_name and address values; 
-        * filling in empty cells; 
-        * Split yelp’s price_cuisine column into price_level and cuisine column.
-        * Split address into address1, city, state and zip code
-        * Clearing restaurant website if it is not a website
-        * Removed numbered list from restaurant name in Trip Advisor data
-   * Combination of concat and merge to combine yelp, google and trip advisor dataframes to get unique restaurants in Morris County.
-   * Added restaurant_id column to uniquely identify each restaurant
-   * Create new datasets with combined restaurant data: 
-        * Restaurant Dataset: contains restaurant_id, restaurant_name, restaurant_website, address1, city, state and zip code
-        * Google Dataset: restaurant_id, google_price_level, google_rating, google_maps_url
-        * Yelp Dataset: restaurant_id, yelp_price_level, yelp_rating, yelp_url
-        * Trip Advisor Dataset: restaurant_id, trip_advisor_price_level, trip_advisor_rating, trip_advisor_url
-        * Cuisine Dataset: cuisine, restaurant_id
-   * Saved the above dataframes to csv files.
+### Transform:
+1. Extract raw data files (in csv, json, html. Etc. format)  into DataFrames
+2. Clean DataFrame: 
+    * Remove any restaurants outside of Morris County; 
+    * Dropping duplicate restaurant_name and address values; 
+    * filling in empty cells; 
+    * Split yelp’s price_cuisine column into price_level and cuisine column.
+    * Split address into address1, city, state and zip code
+    * Clearing restaurant website if it is not a website
+    * Removed numbered list from restaurant name in Trip Advisor data
+3. Combination of concat and merge to combine yelp, google and trip advisor dataframes to get unique restaurants in Morris County.
+4. Added restaurant_id column to uniquely identify each restaurant
+5. Create new datasets with combined restaurant data: 
+    * Restaurant Dataset: contains restaurant_id, restaurant_name, restaurant_website, address1, city, state and zip code
+    * Google Dataset: restaurant_id, google_price_level, google_rating, google_maps_url
+    * Yelp Dataset: restaurant_id, yelp_price_level, yelp_rating, yelp_url
+    * Trip Advisor Dataset: restaurant_id, trip_advisor_price_level, trip_advisor_rating, trip_advisor_url
+    * Cuisine Dataset: cuisine, restaurant_id
+6. Saved the above dataframes to csv files.
 
-   * **Notes:**
-       * There are discrepancies in the restaurant name and address Eg Yelp has "Quiet Man Pub", Google has "The Quiet Man Pub/Restaurant" and Trip Advisor has "The Quiet Man" All 3 are the same restaurants. If we had time to standardize the addresses, we would have been able to compare and merge the restaurants.
+#### Notes:
+* There are discrepancies in the restaurant name and address Eg Yelp has "Quiet Man Pub", Google has "The Quiet Man Pub/Restaurant" and Trip Advisor has "The Quiet Man" All 3 are the same restaurants. If we had time to standardize the addresses, we would have been able to compare and merge the restaurants.
 
-#### Load:
-   * 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
-        * All linked by restaurant_id
-        * Used QuickDBD to formulate the ERD below, exported the corresponding code and ran it in PgAdmin to formulate tables.
-        * Imported the csv files from the "Transformation" folder into database tables.
-        * Format tables to allow null cells for urls, rating, and price level.
-        * Create Queries between tables, code in "Load" folder > "Query Example" folder titled "Query_code.sql"
-        ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
+### Load:
+1. 5 tables: restaurant_info, yelp_rating, google_maps_rating, trip_advisor_rating and cuisine_type.
+    * All linked by restaurant_id
+    * Used QuickDBD to formulate the ERD below, exported the corresponding code and ran it in PgAdmin to formulate tables.
+    * Imported the csv files from the "Transformation" folder into database tables.
+    * Format tables to allow null cells for urls, rating, and price level.
+    * Create Queries between tables, code in "Load" folder > "Query Example" folder titled "Query_code.sql"
+    ![ERD](https://github.com/deliahellander/ETL-Project/blob/load/Load/ERD.png?raw=true)
 
-
-#### Recreate the Database:
-1. **Extract:** Run all the notebooks in Extract folder, in any order. Please note all the notebooks, especially Trip-advisor notebook takes a long time to run.   
+---
+## Recreate the Database:
+---
+### 1. Extract
+Run all the notebooks in Extract folder, in any order. Please note all the notebooks, especially Trip-advisor notebook takes a long time to run.   
 
 yelp-data-extraction Dependencies:  
 
@@ -110,8 +118,9 @@ import requests
 ```   
 Running these 3 files will return yelp_data.csv, google_data.csv and tripadvisor_data.csv in the Resources folder.  
 
-2. **Transform:** Run Transformation from the Transformation folder   
-   Transformation Dependancies
+### 2. Transform:
+Run Transformation from the Transformation folder   
+Transformation Dependancies
 ```
 import pandas as pd
 import requests
@@ -120,27 +129,28 @@ import re
 Running the transformation file results in restaurant_data.csv, google_final_data.csv, yelp_final_data.csv, tripadvisor_final_data.csv and cuisine_data.csv   
 
 
-3. **Load:**   
-   USING POSTGRES:   
+### 3. Load:
 
-   Add your postgres password in Load/config.py   
-   Run sqldb notebook
+USING POSTGRES:   
 
-   sqldb Dependancies   
-   ```
-   import pandas as pd
-   from sqlalchemy import create_engine
-   ```
+Add your postgres password in Load/config.py   
+Run sqldb notebook
 
-   OR USING SQLITE:
+sqldb Dependancies   
+```
+import pandas as pd
+from sqlalchemy import create_engine
+```
 
-   Run sqlite notebook
-      
-   sqlite Dependancies   
-   ```
-   import pandas as pd
-   from sqlalchemy import create_engine
-   ```
+OR USING SQLITE:
+
+Run sqlite notebook
+
+sqlite Dependancies   
+```
+import pandas as pd
+from sqlalchemy import create_engine
+```
     
    ##### Query Example:
    * Displaying restaurants reviews from places that has reviews on all three websites(Yelp, Google Maps, Trip Advisor).
