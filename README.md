@@ -158,6 +158,7 @@ from sqlalchemy import create_engine
    * Query Yelp rating and cuisine sorted by best rating:
    ![ERD](https://github.com/deliahellander/ETL-Project/blob/main/Load/Query_Examples/Yelp_Rating_sorted_Desc_by_rating.png?raw=true)
    * Query Pizza Places in Morris County:
+   
    ![ERD](https://github.com/deliahellander/ETL-Project/blob/main/Load/Query_Examples/pizza_places_in_morris_county.png?raw=true)
    * See other Query examples in "Load" folder > "Query_Examples" folder.
   
