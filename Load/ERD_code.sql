@@ -1,4 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/CKQLlV
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
@@ -19,8 +19,8 @@ CREATE TABLE "Restaurant_Info" (
 CREATE TABLE "Yelp_Rating" (
     "restaurant_id" int   NOT NULL,
     "yelp_url" varchar   NOT NULL,
-    "yelp_rating" varchar   NOT NULL,
-    "yelp_price_level" varchar   NOT NULL,
+    "yelp_rating" varchar,
+    "yelp_price_level" varchar,
     CONSTRAINT "pk_Yelp_Rating" PRIMARY KEY (
         "restaurant_id"
      )
@@ -28,14 +28,14 @@ CREATE TABLE "Yelp_Rating" (
 
 CREATE TABLE "Cuisine_Type" (
     "restaurant_id" int   NOT NULL,
-    "cuisine_type" varchar   NOT NULL
+    "cuisine" varchar   NOT NULL
 );
 
 CREATE TABLE "Google_Maps_Rating" (
     "restaurant_id" int   NOT NULL,
     "google_maps_url" varchar   NOT NULL,
-    "google_maps_rating" varchar   NOT NULL,
-    "google_maps_price_level" varchar   NOT NULL,
+    "google_rating" varchar,
+    "google_price_level" varchar,
     CONSTRAINT "pk_Google_Maps_Rating" PRIMARY KEY (
         "restaurant_id"
      )
@@ -43,8 +43,8 @@ CREATE TABLE "Google_Maps_Rating" (
 
 CREATE TABLE "Trip_Advisor_Rating" (
     "restaurant_id" int   NOT NULL,
-    "trip_advisor_rating" varchar   NOT NULL,
-    "trip_advisor_price_level" varchar   NOT NULL,
+    "trip_advisor_rating" varchar,
+    "trip_advisor_price_level" varchar,
     CONSTRAINT "pk_Trip_Advisor_Rating" PRIMARY KEY (
         "restaurant_id"
      )
